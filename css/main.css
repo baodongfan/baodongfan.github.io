@@ -2835,11 +2835,11 @@ body {
   background-position: 50% 50%;
 }
 .main-inner {
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgba(255,255,255,0);
   padding: 0px 40px 40px 40px;
 }
 .post-block {
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255,255,255,0.8);
   margin-top: 24px;
   margin-bottom: 4px;
   padding: 10px;
