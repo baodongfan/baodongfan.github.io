@@ -2829,7 +2829,7 @@ mark.search-keyword {
   }
 }
 body {
-  background: url("/images/background.jpg");
+  background: url("/images/background.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
