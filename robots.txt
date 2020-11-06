@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://mudong.gold/sitemap.xml
+Sitemap: https://mudong.gold/baidusitemap.xml
