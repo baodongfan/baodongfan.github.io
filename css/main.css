@@ -1304,7 +1304,7 @@ pre code {
 }
 .sidebar-inner {
   color: #999;
-  padding: 18px 10px;
+  padding: 10px 10px;
   text-align: center;
 }
 .site-overview-item:not(:first-child) {
@@ -2140,9 +2140,6 @@ pre code {
 }
 .post-eof {
   background: #ccc;
-  height: 1px;
-  margin: 80px auto 60px;
-  width: 8%;
 }
 .post-block:last-of-type .post-eof {
   display: none;
