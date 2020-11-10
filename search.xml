@@ -1,9 +1,301 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>「牛熊证篇」第十课：牛熊证重货区及期指对冲张数</title>
+    <url>/posts/4cc813b7.html</url>
+    <content><![CDATA[<div class="bilibili">
+   <iframe src="//player.bilibili.com/player.html?aid=542629854&bvid=BV1ti4y177hR&cid=254457010&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+
+<p>观察牛熊证街货总量，即是牛证多街货、还是熊证多街货。如果是牛证比较多，则代表投资者以看好大市居多，并愿意持仓过夜；如果是熊证多，则指看空大市的资金较多。</p>
+<p>然后要观察的是牛证或熊证较多街货的位置，主要集中在哪一水平。以牛证为例，如果较多街货的位置距离现时恒指较近，或代表市场对大市能够上升的信心颇强，愿意作较进取的部署；而若街货较多的位置与现水平距离颇远，则或许反映投资者即使看好大市，信心亦不算特别强，故作部署时亦倾向较保守。</p>
+<p>细心的投资可能还会发现，发行商公布牛熊证收回重货区数据的时候，都会一并公布期指对冲张数，这个数据又是什么呢？由于发行商为恒指牛熊证作对冲，主要以期指作对冲工具，这个数字其实就是指发行商<strong>理论上</strong>为已卖出的牛熊证作对冲，而合共持有的期指合约张数。听上去好似和收回重货区的意义一样，但其实也不尽相同，由于牛熊证的兌换比率各有不同，可以是8000兑1，也可以是10000兑1，甚至是其他比率，街货量数字或在反映市场看法是有所偏差，故此以期指对冲张数将数字标准化，提供一个可作比较的数据。</p>
+]]></content>
+      <categories>
+        <category>港股</category>
+      </categories>
+      <tags>
+        <tag>牛熊证</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「牛熊证篇」第九课：持证到期的结算方法</title>
+    <url>/posts/a568b5d2.html</url>
+    <content><![CDATA[<div class="bilibili">
+   <iframe src="//player.bilibili.com/player.html?aid=330179905&bvid=BV1YA411j7gz&cid=254456785&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+
+<h3 id="最后交易日、到期日、计价日"><a href="#最后交易日、到期日、计价日" class="headerlink" title="最后交易日、到期日、计价日"></a>最后交易日、到期日、计价日</h3><p>股份及指数牛熊证的到期日均由发行人自订，并于上市文件中列出，而大部分指数牛熊证的到期日，都会选择相关指数结算日。</p>
+<p>牛熊证的最后交易日为到期日前的一个交易日，股份牛熊证的计价日为最后交易日，指数牛熊证的计价日为到期日。</p>
+<p>以下尝试用一个近似月历的图表作解析﹕</p>
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="left">星期一 7月28日</th>
+<th align="left">星期二 7月29日</th>
+<th align="left">星期三 7月30日</th>
+<th align="left">星期四 7月31日</th>
+<th align="left">星期五 8月1日</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">股份牛熊证</td>
+<td align="left"></td>
+<td align="left"><img src="https://education.bnppwarrant.com/assets/icon/green.png" alt="img"><img src="https://education.bnppwarrant.com/assets/icon/orange.png" alt="img"></td>
+<td align="left"><img src="https://education.bnppwarrant.com/assets/icon/green-line.png" alt="img"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">指数牛熊证</td>
+<td align="left"></td>
+<td align="left"><img src="https://education.bnppwarrant.com/assets/icon/green.png" alt="img"></td>
+<td align="left"><img src="https://education.bnppwarrant.com/assets/icon/green-line.png" alt="img"><img src="https://education.bnppwarrant.com/assets/icon/orange.png" alt="img"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<p><img src="https://education.bnppwarrant.com/assets/icon/green.png" alt="img">最后交易日<img src="https://education.bnppwarrant.com/assets/icon/green-line.png" alt="img">到期日<img src="https://education.bnppwarrant.com/assets/icon/orange.png" alt="img">计价日</p>
+<h3 id="持货至到期日"><a href="#持货至到期日" class="headerlink" title="持货至到期日"></a>持货至到期日</h3><p>若牛熊证在到期前没有被收回，投资者亦持货至到期日，则可按以下公式计算牛熊的结算价。</p>
+<table>
+<thead>
+<tr>
+<th>牛证 =</th>
+<th>（结算价#－行使价）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>兌换比率*</td>
+<td></td>
+</tr>
+<tr>
+<td>熊证 =</td>
+<td>（行使价－结算价#）</td>
+</tr>
+<tr>
+<td>兌换比率*</td>
+<td></td>
+</tr>
+</tbody></table>
+<p>结算价：<br>股份结算价为相关资产于计价日的收市价<br>#结算日当天，由上午9:35分起，至下午3:55分之间每5分钟的指数及当日指数收市价之平均水平作计价<br>*假设股份牛熊证的兌换比率为10兑1，此兌换比率数值为10。</p>
+]]></content>
+      <categories>
+        <category>港股</category>
+      </categories>
+      <tags>
+        <tag>牛熊证</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「牛熊证篇」第八课：收回后的剩余价值计算</title>
+    <url>/posts/bba7c352.html</url>
+    <content><![CDATA[<p>牛熊证具有强制收回机制，风险相对窝轮或许较大，为什么投资者愿意投资呢？风险越大，回报越高，投资者愿意投资牛熊证，只因在没有引伸波幅的考虑下，可享有更高的实际杠杆，更易「四两拨千斤」。</p>
+<div class="bilibili">
+    <iframe src="//player.bilibili.com/player.html?aid=797639809&bvid=BV1Ny4y1k7NG&cid=254456292&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+<h3 id="剩余价格计算"><a href="#剩余价格计算" class="headerlink" title="剩余价格计算"></a>剩余价格计算</h3><table>
+<thead>
+<tr>
+<th></th>
+<th>上午交易时段被收回</th>
+<th>下午交易时段被收回</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>牛证剩余价值</td>
+<td>(收回后直至当天下午收市相关资产曾触及的最低价 – 行使价) ÷ 換股比率</td>
+<td>(收回后直至下一交易日中午收市相关资产曾触及的最低价 – 行使价) ÷ 換股比率</td>
+</tr>
+<tr>
+<td>熊证剩余价值</td>
+<td>(行使价 – 收回后直至当天下午收市相关资产曾触及的最高价) ÷ 換股比率</td>
+<td>(行使价 – 收回后直至下一交易日中午收市相关资产曾触及的最高价) ÷ 換股比率</td>
+</tr>
+</tbody></table>
+<p>为让读者更具体地了解，以下列举R类牛熊证作例子。</p>
+<p>例子一：指数牛证</p>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th><strong>A</strong></th>
+<th>财务费用</th>
+<th><strong>1%</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>相关资产</td>
+<td><strong>XYZ指数</strong></td>
+<td>相关资产现价</td>
+<td><strong>2**</strong>3**<strong>,**</strong>00**<strong>0点</strong></td>
+</tr>
+<tr>
+<td>牛／熊</td>
+<td><strong>牛</strong></td>
+<td>換股比率</td>
+<td><strong>1**</strong>0**<strong>,000</strong></td>
+</tr>
+<tr>
+<td>行使价</td>
+<td><strong>19,800点</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>收回价</td>
+<td><strong>2**</strong>0**<strong>,**</strong>0**<strong>00点</strong></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>投资者购入牛证A需付的投资金额﹕</p>
+<p>=[(现价 – 行使价) + (行使价 x 财务费用)] / 换股比率<br>=[(23,000点-19,800点)+(19,800点 x 0.01)] / 10,000<br>= 0.3398</p>
+<p><strong>被强制收回</strong><br>倘若在牛证A到期前，相关资产价格触及收回价，而在强制收回事件后至下一个交易时段内，相关资产最低曾见1​​9,900点，此价将作为牛证的剩余价值为﹕ </p>
+<table>
+<thead>
+<tr>
+<th>=</th>
+<th>（指数结算价－行使价）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>換股比率</td>
+<td></td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>=</th>
+<th>（19,900点－19,800点）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>10,000</td>
+<td></td>
+</tr>
+<tr>
+<td>=</td>
+<td>0.01元</td>
+</tr>
+</tbody></table>
+<p>若在强制收回事件后至下一个交易时段内，相关资产价格跌低于行使价19,800点，持有者将得不到剩余价值。</p>
+<p>例子二：指数熊证</p>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th><strong>B</strong></th>
+<th>财务费用</th>
+<th><strong>1.5%</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>相关资产</td>
+<td><strong>XYZ指数</strong></td>
+<td>相关资产现价</td>
+<td><strong>23,000</strong></td>
+</tr>
+<tr>
+<td>牛／熊</td>
+<td><strong>熊</strong></td>
+<td>換股比率</td>
+<td><strong>10,000</strong></td>
+</tr>
+<tr>
+<td>行使价</td>
+<td><strong>24,200点</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>收回价</td>
+<td><strong>24,000点</strong></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>投资者购入熊证B需付的投资金额﹕</p>
+<p>=[(行使价 – 现价) + (行使价 x 财务费用)] / 换股比率<br>=[(24,200点-23,000点)+(24,200点x 0.015)] / 10,000<br>= 0.1563</p>
+<p><strong>被强制收回</strong><br>倘若在指数熊证B在到期前，指数触及收回价，而在强制收回事件后至下一个交易时段内，相关资产最高曾见24,100点，此价将作为熊证的剩余价值为﹕  </p>
+<table>
+<thead>
+<tr>
+<th>=</th>
+<th>（行使价－指数结算价）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>換股比率</td>
+<td></td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>=</th>
+<th>（24,200点－24,100点）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>10,000</td>
+<td></td>
+</tr>
+<tr>
+<td>=</td>
+<td>0.01元</td>
+</tr>
+</tbody></table>
+<p>若在强制收回事件后至下一个交易时段内，相关资产价格高于行使价24,200点，持有者将得不到剩余价值。</p>
+<p>例子三：股份牛证</p>
+<table>
+<thead>
+<tr>
+<th>=</th>
+<th>（指数结算价－行使价）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>換股比率</td>
+<td></td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>=</th>
+<th>（78.8元－78元）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>100</td>
+<td></td>
+</tr>
+<tr>
+<td>=</td>
+<td>0.008元</td>
+</tr>
+</tbody></table>
+<p>若在强制收回事件后至下一个交易时段内，相关跌低于行使价78元，持有者将得不到剩余价值。</p>
+<p>剩余价值将会于结算后的五个交易日之内，存回投资者的股票户口。</p>
+]]></content>
+      <categories>
+        <category>港股</category>
+      </categories>
+      <tags>
+        <tag>牛熊证</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>「牛熊证篇」第七课：挑选牛熊证六步曲</title>
     <url>/posts/f6eb55b2.html</url>
-    <content><![CDATA[<div class="bili_video"><iframe src="https://player.bilibili.com/player.html?aid=NaN&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="544" height="452" allowfullscreen="true"> </iframe></div>
+    <content><![CDATA[<div class="bilibili">
+    <iframe src="//player.bilibili.com/player.html?aid=755139959&bvid=BV1Br4y1w7Nz&cid=254455716&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
 
 <h3 id="第一步骤：选择牛熊证类别"><a href="#第一步骤：选择牛熊证类别" class="headerlink" title="第一步骤：选择牛熊证类别"></a>第一步骤：选择牛熊证类别</h3><p>要选择一只适合自己的牛熊证，投资者先要对相关资产后市方向有所看法，如看好相关资产，可考虑牛证，相反亦然；若投资者不欲触发收回事件后损失所有投资本金，可考虑R类牛熊证，届时需考虑牛熊证行使价与相关资产现货价格的差距，以及行使价与收回价之间的差距。</p>
 <h3 id="第二步骤﹕-留意收回价"><a href="#第二步骤﹕-留意收回价" class="headerlink" title="第二步骤﹕ 留意收回价"></a>第二步骤﹕ 留意收回价</h3><p>由于牛熊证设有强制收回机制，投资者可能需为相关资产的看法设定一个安全距离，即慎选牛熊证的收回价。</p>
