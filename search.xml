@@ -1,16 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>「牛熊证篇」第十课：牛熊证重货区及期指对冲张数</title>
-    <url>/posts/4cc813b7.html</url>
+    <title>牛熊证篇-第一课：基本概念</title>
+    <url>/posts/caa58369.html</url>
+    <content><![CDATA[<p>牛熊证是由投资银行发行的衍生产品，并于香港联合交易所上市，透过自动对盘系统 AMS/3 进行交易，交收时间也以 T+2 为原则，只要开设股票户口，又或透过股票经纪便可买卖。牛熊证备有以下特点：</p>
+<ul>
+<li>  具有杠杆作用</li>
+<li>  附有强制性收回机制</li>
+<li>  R 类被强制收回时可能有余值；N 类则没有</li>
+</ul>
+<a id="more"></a>
+
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"/posts/caa58369/aaa.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+
+<h3 id="牛证"><a href="#牛证" class="headerlink" title="牛证"></a>牛证</h3><p>购入牛证就如看好相关资产价格会上升，当相关资产（现时主要为指数或股份，但亦可以是其他资产或商品）的价格愈高，牛证的价值理论上会相应提高。故当投资者预期，相关资产股价将会上升时，可考虑买入牛证，当牛证随着相关资产股价上升，投资者可沽出牛证获利，赚取相关资产股价上升的利润。</p>
+<h3 id="熊证"><a href="#熊证" class="headerlink" title="熊证"></a>熊证</h3><p>熊证则与牛证相反，购入熊证就如看空相关资产价格于到期日前会下跌，当相关资产的价格愈低，熊证的价值就会相应提高。故当投资者预期，相关资产股价将会下跌时，可​​考虑买入熊证，当熊证因相关资产股价下跌而上升时，投资者可沽出熊证获利。</p>
+<h3 id="杠杆效应"><a href="#杠杆效应" class="headerlink" title="杠杆效应"></a>杠杆效应</h3><p>牛熊证具有杠杆效应，投资者可以投入比较少的资金买卖牛熊证，而获得被「倍大」的回报率。牛熊证与相关资产的理论价格变动比例，可以用实际杠杆来量度，因为杠杆效应的关系以百份比计算，因此，牛熊证价格的升幅或跌幅，会比正股或指数大，故风险亦相对较高。</p>
+<p>例子:</p>
+<table><tbody><tr><td><strong>编号</strong></td><td>A</td><td><strong>收回价</strong></td><td>20,200 點</td></tr><tr><td><strong>相关资产</strong></td><td>恒指</td><td><strong>到期日</strong></td><td>2017 年 1 月</td></tr><tr><td><strong>牛／熊</strong></td><td>牛</td><td><strong>财务费用</strong></td><td>10%</td></tr><tr><td><strong>每手股数</strong></td><td>10,000</td><td><strong>兌换比率</strong></td><td>10,000</td></tr><tr><td><strong>行使价</strong></td><td>20,000 點</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+
+<p>假设恒指现价为 22,000 点，投资者买入恒指牛证 A 所需支付的价格为</p>
+<p>(22,000 －20,000) / 10,000 x 1.1 = 0.22 元</p>
+<p>当恒指即日上升 100 点 (升幅不足 0.5%) 时，假设财务费用维持不变，投资者所持的恒指牛证 A 价格将会升至</p>
+<p>(22,100 －20,000) / 10,000 x 1.1 ＝ 0.231 元</p>
+<p>升幅约 5.00%。</p>
+<table><thead><tr><th scope="col">恒指现价</th><th scope="col">相对升幅</th><th scope="col">牛证 A 价格 (元)</th><th scope="col">相对升幅</th></tr></thead><tbody><tr><td>22,000</td><td>不适用</td><td>0.220</td><td>不适用</td></tr><tr><td>22,100</td><td>0.45%</td><td>0.231</td><td>5.00%</td></tr><tr><td>22,200</td><td>0.45%</td><td>0.242</td><td>4.76%</td></tr><tr><td>22,300</td><td>0.45%</td><td>0.253</td><td>4.55%</td></tr><tr><td>22,400</td><td>0.45%</td><td>0.264</td><td>4.35%</td></tr><tr><td>22,500</td><td>0.45%</td><td>0.275</td><td>4.17%</td></tr><tr><td>22,600</td><td>0.44%</td><td>0.286</td><td>4.00%</td></tr><tr><td>22,700</td><td>0.44%</td><td>0.297</td><td>3.85%</td></tr><tr><td>22,800</td><td>0.44%</td><td>0.308</td><td>3.70%</td></tr></tbody></table>
+
+<h3 id="收回机制"><a href="#收回机制" class="headerlink" title="收回机制"></a>收回机制</h3><p>牛熊证设强制性收回机制，此机制容许发行商在牛熊证到期日前，若相关资产价格触及上市文件内指定的价格（即「收回价」），发行商会即时收回有关牛熊证；亦即是说，该牛熊证将提早到期并即时终止在市场上买卖，原定的到期日则不再有效。</p>
+<p>牛熊证分为 N 类和 R 类，目前香港市场只有 R 类牛熊证。</p>
+<p><strong>N 类牛熊证的收回价等同行使价，一旦相关资产的价格触及或超越收回价，投资者将不会收到任何现金款项。</strong></p>
+<p><strong>R 类牛熊证的收回价与行使价不同，牛证的收回价必定高于行使价，而熊证的收回价则必定低于行使价，故若强制收回事件发生时，R 类牛熊证的投资者仍可能可收回少量现金款项，俗称「剩余价值」，在某些情况下可能没有剩余价值。</strong></p>
+<p>就强制性收回机制这特性，由于若相关资产价格触及收回价时便会被马上收回，投资者因而即时损失大部分、甚至所有资金，没有等候相关资产价格反弹（熊证则为回落）的机会。</p>
+<p>总括而言，牛熊证的价值状况表列如下：</p>
+<table><thead><tr><th scope="col">&nbsp;</th><th scope="col">牛證</th><th scope="col">熊證</th></tr></thead><tbody><tr><td><strong>N 类</strong></td><td>相关资产价 &gt; 收回价 = 行使价</td><td>相关资产价 &lt; 收回价 = 行使价</td></tr><tr><td><strong>R 类</strong></td><td>相关资产价 &gt; 收回价 &gt; 行使价</td><td>相关资产价 &lt; 收回价 &lt; 行使价</td></tr><tr><td><strong>收回条件</strong></td><td>相关资产价下跌至触及收回价</td><td>相关资产价上升至触及收回价</td></tr></tbody></table>]]></content>
+      <categories>
+        <category>港股</category>
+      </categories>
+      <tags>
+        <tag>牛熊证</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「牛熊证篇」第七课：挑选牛熊证六步曲</title>
+    <url>/posts/f6eb55b2.html</url>
     <content><![CDATA[<div class="bilibili">
-   <iframe src="//player.bilibili.com/player.html?aid=542629854&bvid=BV1ti4y177hR&cid=254457010&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    <iframe src="//player.bilibili.com/player.html?aid=755139959&bvid=BV1Br4y1w7Nz&cid=254455716&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
+<h3 id="第一步骤：选择牛熊证类别"><a href="#第一步骤：选择牛熊证类别" class="headerlink" title="第一步骤：选择牛熊证类别"></a>第一步骤：选择牛熊证类别</h3><p>要选择一只适合自己的牛熊证，投资者先要对相关资产后市方向有所看法，如看好相关资产，可考虑牛证，相反亦然；若投资者不欲触发收回事件后损失所有投资本金，可考虑R类牛熊证，届时需考虑牛熊证行使价与相关资产现货价格的差距，以及行使价与收回价之间的差距。</p>
+<h3 id="第二步骤﹕-留意收回价"><a href="#第二步骤﹕-留意收回价" class="headerlink" title="第二步骤﹕ 留意收回价"></a>第二步骤﹕ 留意收回价</h3><p>由于牛熊证设有强制收回机制，投资者可能需为相关资产的看法设定一个安全距离，即慎选牛熊证的收回价。</p>
+<p>此距离因人而异，风险承受能力较强的投资者可能容许牛熊证被收回，并视收回价为止蚀价，相关资产触及收回价时便当作自动止蚀；投资者可用该段时期相关资产普遍的一日升/跌幅作一个基准，并以该基准的1.5倍，作为可选择收回价与相关资产现价的距离，风险承受能力较低的投资者可能会选择距离收回价较远的牛熊证。</p>
+<h3 id="第三步骤﹕杠杆比率与行使价"><a href="#第三步骤﹕杠杆比率与行使价" class="headerlink" title="第三步骤﹕杠杆比率与行使价"></a>第三步骤﹕杠杆比率与行使价</h3><p>当相关资产现价愈接近牛证的行使价，其杠杆比率便愈高，即「倍大」的回报率愈高；当相关资产现价距离牛证行使价愈远时，其杠杆比率会逐渐减少，即「倍大」的回报率会愈低。</p>
+<p>至于收回价方面，当相关资产愈接近收回价时，由于被收回的风险愈来愈大，牛熊证的杠杆理论上便会愈高，以反映相关收回风险。</p>
+<p>投资需注意，高杠杆的牛熊证较适合进取及有一定经验的投资者。</p>
+<p>此距离因人而异，风险承受能力较强的投资者可能容许牛熊证被收回，并视收回价为止蚀价，相关资产触及收回价时便当作自动止蚀；投资者可用该段时期相关资产普遍的一日升/跌幅作一个基准，并以该基准的1.5倍，作为可选择收回价与相关资产现价的距离，风险承受能力较低的投资者可能会选择距离收回价较远的牛熊证。</p>
+<h3 id="第四步骤﹕兌换比率的大小"><a href="#第四步骤﹕兌换比率的大小" class="headerlink" title="第四步骤﹕兌换比率的大小"></a>第四步骤﹕兌换比率的大小</h3><p>假设其他因素不变，牛熊证的兌换比率愈大，投资该牛熊证时所需支付的本金相对较少，而所赚得之利润金额则与本金成正比。</p>
+<h3 id="第五步骤﹕比较财务费用"><a href="#第五步骤﹕比较财务费用" class="headerlink" title="第五步骤﹕比较财务费用"></a>第五步骤﹕比较财务费用</h3><p>不同的发行商在推出牛熊证时，会采用不同的的程式，而发行商在对冲不同相关资产时可能有不同的对冲优势，故即使拥有相近条款的牛熊证，其所收取的财务费用均有不同。</p>
+<p>另外，财务费用或会因市场供求影响而有所转变，投资者宜时刻留意所持牛熊证的财务费用的变化，从而部署会否「换马」至较低财务费用的牛熊证。</p>
+<h3 id="第六步骤﹕比较发行人"><a href="#第六步骤﹕比较发行人" class="headerlink" title="第六步骤﹕比较发行人"></a>第六步骤﹕比较发行人</h3><p>在缺乏市场流通量的情况下，发行人有可能是牛熊证的唯一流通量提供者，其定价系统的效率，将直接影响牛熊证价格。因此，发行人的操守十分重要，如投资者要求报价后，是否迅速回应，或发行人有否提供增值服务，如当牛熊证被收回后，会否主动向投资者发布被收回的牛熊证的剩余价值等。</p>
+<p>此外，发行人本身的实力、信贷评级等，也是投资者需要考虑的因素。</p>
+]]></content>
+      <categories>
+        <category>港股</category>
+      </categories>
+      <tags>
+        <tag>牛熊证</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「牛熊证篇」第三课：影响牛熊证价格的理论因素</title>
+    <url>/posts/28c85fa6.html</url>
+    <content><![CDATA[<p>影响牛熊证价格的四个理论因素</p>
+<a id="more"></a>
 
-<p>观察牛熊证街货总量，即是牛证多街货、还是熊证多街货。如果是牛证比较多，则代表投资者以看好大市居多，并愿意持仓过夜；如果是熊证多，则指看空大市的资金较多。</p>
-<p>然后要观察的是牛证或熊证较多街货的位置，主要集中在哪一水平。以牛证为例，如果较多街货的位置距离现时恒指较近，或代表市场对大市能够上升的信心颇强，愿意作较进取的部署；而若街货较多的位置与现水平距离颇远，则或许反映投资者即使看好大市，信心亦不算特别强，故作部署时亦倾向较保守。</p>
-<p>细心的投资可能还会发现，发行商公布牛熊证收回重货区数据的时候，都会一并公布期指对冲张数，这个数据又是什么呢？由于发行商为恒指牛熊证作对冲，主要以期指作对冲工具，这个数字其实就是指发行商<strong>理论上</strong>为已卖出的牛熊证作对冲，而合共持有的期指合约张数。听上去好似和收回重货区的意义一样，但其实也不尽相同，由于牛熊证的兌换比率各有不同，可以是8000兑1，也可以是10000兑1，甚至是其他比率，街货量数字或在反映市场看法是有所偏差，故此以期指对冲张数将数字标准化，提供一个可作比较的数据。</p>
+<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"video":{"url":"/posts/28c85fa6/3.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+
+
+<ol>
+<li><p><strong>相关资产价格</strong>的变动直接影响牛熊证的价格，现时市场上可发行的牛熊证的内在值占其理论价格较大的部分，故相关资产价格变动最为影响牛熊证的价格；若相关资产价格上升，牛证的价格一般也会上升，反之亦然；相关资产价格若下跌，熊证的价格一般会上升，反之亦然。</p>
+</li>
+<li><p><strong>行使价</strong>的高低亦会直接影响牛熊证的内在值，相同相关资产的牛证，假设兌换比率相同，行使价愈高，其理论价格便愈低，反之亦然。相同相关资产的熊证，假设兌换比率相同，行使价愈高，其理论价格便愈高，反之亦然。</p>
+</li>
+<li><p><strong>牛熊证的尚余时间</strong>愈长，其财务费用便愈大，投资者可视牛熊证为孖展投资，投资者只要付出少于投资相关资产的资金成本，便可获得与投资相关资产相同的利润，财务费用就像牛熊证在投资期限内，向发行商借款投资所需支付的利息，故投资期限愈长，所需支付的利息理应愈多，故牛熊证价格会愈高。</p>
+</li>
+<li><p><strong>相关资产波幅</strong>对牛熊证价格影响相对轻微。</p>
+</li>
+</ol>
 ]]></content>
       <categories>
         <category>港股</category>
@@ -81,6 +156,150 @@
 </tr>
 </tbody></table>
 <p>结算价：<br>股份结算价为相关资产于计价日的收市价<br>#结算日当天，由上午9:35分起，至下午3:55分之间每5分钟的指数及当日指数收市价之平均水平作计价<br>*假设股份牛熊证的兌换比率为10兑1，此兌换比率数值为10。</p>
+]]></content>
+      <categories>
+        <category>港股</category>
+      </categories>
+      <tags>
+        <tag>牛熊证</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「牛熊证篇」第二课：牛熊证价格的组成部分</title>
+    <url>/posts/b0308649.html</url>
+    <content><![CDATA[<p>牛熊证价格主要由两个部分组成﹕（1）牛熊证的内在值及（2）发行商所收的财务费用。</p>
+<a id="more"></a>
+
+<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"theme":"#FADFA3","loop":true,"video":{"url":"/posts/b0308649/2.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+
+
+<h3 id="內在值"><a href="#內在值" class="headerlink" title="內在值"></a>內在值</h3><table>
+<thead>
+<tr>
+<th>牛证内在值 =</th>
+<th>（现价－行使价）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>兌换比率</td>
+<td></td>
+</tr>
+<tr>
+<td>熊证内在值 =</td>
+<td>（行使价－现价）</td>
+</tr>
+<tr>
+<td>兌换比率</td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="财务费用"><a href="#财务费用" class="headerlink" title="财务费用"></a>财务费用</h3><p>财务费用由发行商厘订，当中包括了发行商的借贷成本、预期相关资产普通股息的调整及发行商所收取的利润。不同的发行商各自有不同的计算方法，但总括来说，牛熊证的尚余时间愈长，其财务费用便愈大，牛熊证价格理论上会愈高。</p>
+<p>例子：<br>就指数牛熊证而言，指数的走势与牛熊证价格大致如下﹕</p>
+<table>
+<thead>
+<tr>
+<th align="left">编号</th>
+<th align="left"><strong>A</strong></th>
+<th align="left"><strong>B</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">相关资产</td>
+<td align="left">ABC指数</td>
+<td align="left">ABC指数</td>
+</tr>
+<tr>
+<td align="left">牛／熊</td>
+<td align="left">牛</td>
+<td align="left">熊</td>
+</tr>
+<tr>
+<td align="left">每手股数</td>
+<td align="left">10,000</td>
+<td align="left">10,000</td>
+</tr>
+<tr>
+<td align="left">行使价</td>
+<td align="left">21,800点</td>
+<td align="left">24,200点</td>
+</tr>
+<tr>
+<td align="left">收回价</td>
+<td align="left">22,000点</td>
+<td align="left">24,000点</td>
+</tr>
+<tr>
+<td align="left">到期日</td>
+<td align="left">2016年10月</td>
+<td align="left">2016年12月</td>
+</tr>
+<tr>
+<td align="left">财务费用</td>
+<td align="left">1%</td>
+<td align="left">1.5%</td>
+</tr>
+<tr>
+<td align="left"><strong>兌换</strong>比率</td>
+<td align="left">10,000</td>
+<td align="left">10,000</td>
+</tr>
+<tr>
+<td align="left">指数现价</td>
+<td align="left">23,000</td>
+<td align="left">23,000</td>
+</tr>
+</tbody></table>
+<p>假设指数现处于23,000点水平，指数牛证的价格为</p>
+<table>
+<thead>
+<tr>
+<th>(23,000点 － 21,800点)</th>
+<th>x 1.01 ＝ 0.1212 (元)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>10,000</td>
+<td></td>
+</tr>
+</tbody></table>
+<p>指数熊证的价格为</p>
+<table>
+<thead>
+<tr>
+<th>(24,200点 － 23,000点)</th>
+<th>x 1.015 ＝ 0.1218 (元)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>10,000</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>港股</category>
+      </categories>
+      <tags>
+        <tag>牛熊证</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「牛熊证篇」第五课：牛熊证跳动计算</title>
+    <url>/posts/8995fcfd.html</url>
+    <content><![CDATA[<p>相关资产价格变动，成为了影响牛熊证价格的最主要因素。无论是股份或指数牛熊证，投资前除了要留意收回水平外，亦一定要留意换股比率，因为换股比率某程度上说明了该牛熊证的敏感度</p>
+<a id="more"></a>
+
+<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"theme":"#FADFA3","loop":true,"video":{"url":"/posts/8995fcfd/5.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+
+<p>相关资产价格变动，成为了影响牛熊证价格的最主要因素。无论是股份或指数牛熊证，投资前除了要留意收回水平外，亦一定要留意换股比率，因为换股比率某程度上说明了该牛熊证的敏感度，计算方法是将换股比率乘以牛熊证每次最小跳动的价格除以对冲值，便能计算出敏感度，公式如下：</p>
+<p>牛熊证敏感度（指数跳动点数） = 牛熊证最小跳动价格x 换股比率/对冲值</p>
+<p>举个例子，若一只恒指牛证价格在0.25元以下，换股比率为10000，由于证价最小跳动价格是0.001元，该牛证的敏感度便为10点 (0.001 x 10000 = 10)，即代表期指每上升或下跌10点，该恒指牛证便会跳动0.001元（1格）。而当一只0.25元以上的牛熊证，由于最小跳动价格增加至0.005元（1格），一只同样拥有10000换股比率的恒指牛证，敏感度便为50 点(0.005 x 10000 = 50)，即期指要上升或下跌50点，牛证才跳动0.005（1格）。</p>
+<p>股价牛熊证方面，由于牛熊证的对冲值是接近100%，通常我们会直接以100%作计算，公式如下：</p>
+<p>牛熊证敏感度（牛熊证跳动格数） = (正股最小跳动价格 x 对冲值)/ (换股比率 x 牛熊证最低跳动价格)</p>
+<p>举例，一只南方A50牛证(2822)，收回价11元，行使价10.7元，牛证价格是0.143元，换股比率10兑1， 假如南中现价12元</p>
+<p>牛熊证敏感度 = (0.02 x 1)/ (10 x 0.001) = 2格</p>
+<p>即是正股跳动1格，轮价跳动约2格</p>
+<p>有些产品跳得快，有些产品跳得慢，投资者看中什么产品，再根据牛熊证敏感度，就可以因应自己的风险承担能力，选择适合自己的产品啦。</p>
 ]]></content>
       <categories>
         <category>港股</category>
@@ -291,24 +510,35 @@
       </tags>
   </entry>
   <entry>
-    <title>「牛熊证篇」第七课：挑选牛熊证六步曲</title>
-    <url>/posts/f6eb55b2.html</url>
+    <title>「牛熊证篇」第十课：牛熊证重货区及期指对冲张数</title>
+    <url>/posts/4cc813b7.html</url>
     <content><![CDATA[<div class="bilibili">
-    <iframe src="//player.bilibili.com/player.html?aid=755139959&bvid=BV1Br4y1w7Nz&cid=254455716&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+   <iframe src="//player.bilibili.com/player.html?aid=542629854&bvid=BV1ti4y177hR&cid=254457010&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
-<h3 id="第一步骤：选择牛熊证类别"><a href="#第一步骤：选择牛熊证类别" class="headerlink" title="第一步骤：选择牛熊证类别"></a>第一步骤：选择牛熊证类别</h3><p>要选择一只适合自己的牛熊证，投资者先要对相关资产后市方向有所看法，如看好相关资产，可考虑牛证，相反亦然；若投资者不欲触发收回事件后损失所有投资本金，可考虑R类牛熊证，届时需考虑牛熊证行使价与相关资产现货价格的差距，以及行使价与收回价之间的差距。</p>
-<h3 id="第二步骤﹕-留意收回价"><a href="#第二步骤﹕-留意收回价" class="headerlink" title="第二步骤﹕ 留意收回价"></a>第二步骤﹕ 留意收回价</h3><p>由于牛熊证设有强制收回机制，投资者可能需为相关资产的看法设定一个安全距离，即慎选牛熊证的收回价。</p>
-<p>此距离因人而异，风险承受能力较强的投资者可能容许牛熊证被收回，并视收回价为止蚀价，相关资产触及收回价时便当作自动止蚀；投资者可用该段时期相关资产普遍的一日升/跌幅作一个基准，并以该基准的1.5倍，作为可选择收回价与相关资产现价的距离，风险承受能力较低的投资者可能会选择距离收回价较远的牛熊证。</p>
-<h3 id="第三步骤﹕杠杆比率与行使价"><a href="#第三步骤﹕杠杆比率与行使价" class="headerlink" title="第三步骤﹕杠杆比率与行使价"></a>第三步骤﹕杠杆比率与行使价</h3><p>当相关资产现价愈接近牛证的行使价，其杠杆比率便愈高，即「倍大」的回报率愈高；当相关资产现价距离牛证行使价愈远时，其杠杆比率会逐渐减少，即「倍大」的回报率会愈低。</p>
-<p>至于收回价方面，当相关资产愈接近收回价时，由于被收回的风险愈来愈大，牛熊证的杠杆理论上便会愈高，以反映相关收回风险。</p>
-<p>投资需注意，高杠杆的牛熊证较适合进取及有一定经验的投资者。</p>
-<p>此距离因人而异，风险承受能力较强的投资者可能容许牛熊证被收回，并视收回价为止蚀价，相关资产触及收回价时便当作自动止蚀；投资者可用该段时期相关资产普遍的一日升/跌幅作一个基准，并以该基准的1.5倍，作为可选择收回价与相关资产现价的距离，风险承受能力较低的投资者可能会选择距离收回价较远的牛熊证。</p>
-<h3 id="第四步骤﹕兌换比率的大小"><a href="#第四步骤﹕兌换比率的大小" class="headerlink" title="第四步骤﹕兌换比率的大小"></a>第四步骤﹕兌换比率的大小</h3><p>假设其他因素不变，牛熊证的兌换比率愈大，投资该牛熊证时所需支付的本金相对较少，而所赚得之利润金额则与本金成正比。</p>
-<h3 id="第五步骤﹕比较财务费用"><a href="#第五步骤﹕比较财务费用" class="headerlink" title="第五步骤﹕比较财务费用"></a>第五步骤﹕比较财务费用</h3><p>不同的发行商在推出牛熊证时，会采用不同的的程式，而发行商在对冲不同相关资产时可能有不同的对冲优势，故即使拥有相近条款的牛熊证，其所收取的财务费用均有不同。</p>
-<p>另外，财务费用或会因市场供求影响而有所转变，投资者宜时刻留意所持牛熊证的财务费用的变化，从而部署会否「换马」至较低财务费用的牛熊证。</p>
-<h3 id="第六步骤﹕比较发行人"><a href="#第六步骤﹕比较发行人" class="headerlink" title="第六步骤﹕比较发行人"></a>第六步骤﹕比较发行人</h3><p>在缺乏市场流通量的情况下，发行人有可能是牛熊证的唯一流通量提供者，其定价系统的效率，将直接影响牛熊证价格。因此，发行人的操守十分重要，如投资者要求报价后，是否迅速回应，或发行人有否提供增值服务，如当牛熊证被收回后，会否主动向投资者发布被收回的牛熊证的剩余价值等。</p>
-<p>此外，发行人本身的实力、信贷评级等，也是投资者需要考虑的因素。</p>
+
+<p>观察牛熊证街货总量，即是牛证多街货、还是熊证多街货。如果是牛证比较多，则代表投资者以看好大市居多，并愿意持仓过夜；如果是熊证多，则指看空大市的资金较多。</p>
+<p>然后要观察的是牛证或熊证较多街货的位置，主要集中在哪一水平。以牛证为例，如果较多街货的位置距离现时恒指较近，或代表市场对大市能够上升的信心颇强，愿意作较进取的部署；而若街货较多的位置与现水平距离颇远，则或许反映投资者即使看好大市，信心亦不算特别强，故作部署时亦倾向较保守。</p>
+<p>细心的投资可能还会发现，发行商公布牛熊证收回重货区数据的时候，都会一并公布期指对冲张数，这个数据又是什么呢？由于发行商为恒指牛熊证作对冲，主要以期指作对冲工具，这个数字其实就是指发行商<strong>理论上</strong>为已卖出的牛熊证作对冲，而合共持有的期指合约张数。听上去好似和收回重货区的意义一样，但其实也不尽相同，由于牛熊证的兌换比率各有不同，可以是8000兑1，也可以是10000兑1，甚至是其他比率，街货量数字或在反映市场看法是有所偏差，故此以期指对冲张数将数字标准化，提供一个可作比较的数据。</p>
+]]></content>
+      <categories>
+        <category>港股</category>
+      </categories>
+      <tags>
+        <tag>牛熊证</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「牛熊证篇」第四课：影响牛熊证价格的市场因素</title>
+    <url>/posts/7b60542b.html</url>
+    <content><![CDATA[<p>影响牛熊证价格的市场因素</p>
+<a id="more"></a>
+
+<div id="dplayer4" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"theme":"#FADFA3","loop":true,"video":{"url":"/posts/7b60542b/4.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+
+<h2 id="1-相关资产流通量"><a href="#1-相关资产流通量" class="headerlink" title="1) 相关资产流通量"></a>1) <strong>相关资产流通量</strong></h2><p>相关资产流通量是影响牛熊证市场价格的重要因素之一，因牛熊证的对冲值相当接近+1（牛证）或-1（熊证），发行商进行对冲时，视乎兌换比率，几乎是1兑1的方式购买或沽出相关资产，故对相关资产的流通量需求甚大，若相关资产流通量不足，发行商的对冲成本大增，相应所收的财务费用亦会增加，如此便造成买卖差价扩大的情况。</p>
+<h2 id="2-牛熊证供求"><a href="#2-牛熊证供求" class="headerlink" title="2) 牛熊证供求"></a>2) <strong>牛熊证供求</strong></h2><p>牛熊证供求因素亦对牛熊证价格直接造成影响，市场供求一般可透过观察牛熊证的街货量来衡量，街货是指投资者持仓过夜的货。街货量比重愈大，牛熊证愈受市场供求所影响，一般而言，当街货量超过五成时，牛熊证价格比较容易受到市场供求影响而偏离理论价格。</p>
+<h2 id="3-发行商操守"><a href="#3-发行商操守" class="headerlink" title="3) 发行商操守"></a>3) <strong>发行商操守</strong></h2><p>发行商操守，顾名思义，就是发行商是否跟随相关资产的价格波动、流通量等因素而给予合理的牛熊证买卖价、差价，以及足量的买卖盘。</p>
 ]]></content>
       <categories>
         <category>港股</category>
@@ -407,236 +637,6 @@
 <p>因此，对于能够承受高风险的投资者来说，顺理成章便会选择行使价与收回价较近的牛熊证，以其高实际杠杆博取更优厚潜在的回报，不过这样的条款也可能是双面刃，因为若看错方向，潜在损失亦可能较高，而波动时下，大市轻易一举越过收回价及行使价，亦令收回剩余价格的可能性减低。</p>
 <p>不过，投资牛熊证而不选择窝轮的，目的均是想拥有更高杠杆，这亦解释了收回价与行使价距离较少的牛熊证，较受市场追捧的原因。</p>
 ]]></content>
-      <categories>
-        <category>港股</category>
-      </categories>
-      <tags>
-        <tag>牛熊证</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「牛熊证篇」第五课：牛熊证跳动计算</title>
-    <url>/posts/8995fcfd.html</url>
-    <content><![CDATA[<p>相关资产价格变动，成为了影响牛熊证价格的最主要因素。无论是股份或指数牛熊证，投资前除了要留意收回水平外，亦一定要留意换股比率，因为换股比率某程度上说明了该牛熊证的敏感度</p>
-<a id="more"></a>
-
-<div id="dplayer3" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"theme":"#FADFA3","loop":true,"video":{"url":"/posts/8995fcfd/5.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-
-<p>相关资产价格变动，成为了影响牛熊证价格的最主要因素。无论是股份或指数牛熊证，投资前除了要留意收回水平外，亦一定要留意换股比率，因为换股比率某程度上说明了该牛熊证的敏感度，计算方法是将换股比率乘以牛熊证每次最小跳动的价格除以对冲值，便能计算出敏感度，公式如下：</p>
-<p>牛熊证敏感度（指数跳动点数） = 牛熊证最小跳动价格x 换股比率/对冲值</p>
-<p>举个例子，若一只恒指牛证价格在0.25元以下，换股比率为10000，由于证价最小跳动价格是0.001元，该牛证的敏感度便为10点 (0.001 x 10000 = 10)，即代表期指每上升或下跌10点，该恒指牛证便会跳动0.001元（1格）。而当一只0.25元以上的牛熊证，由于最小跳动价格增加至0.005元（1格），一只同样拥有10000换股比率的恒指牛证，敏感度便为50 点(0.005 x 10000 = 50)，即期指要上升或下跌50点，牛证才跳动0.005（1格）。</p>
-<p>股价牛熊证方面，由于牛熊证的对冲值是接近100%，通常我们会直接以100%作计算，公式如下：</p>
-<p>牛熊证敏感度（牛熊证跳动格数） = (正股最小跳动价格 x 对冲值)/ (换股比率 x 牛熊证最低跳动价格)</p>
-<p>举例，一只南方A50牛证(2822)，收回价11元，行使价10.7元，牛证价格是0.143元，换股比率10兑1， 假如南中现价12元</p>
-<p>牛熊证敏感度 = (0.02 x 1)/ (10 x 0.001) = 2格</p>
-<p>即是正股跳动1格，轮价跳动约2格</p>
-<p>有些产品跳得快，有些产品跳得慢，投资者看中什么产品，再根据牛熊证敏感度，就可以因应自己的风险承担能力，选择适合自己的产品啦。</p>
-]]></content>
-      <categories>
-        <category>港股</category>
-      </categories>
-      <tags>
-        <tag>牛熊证</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「牛熊证篇」第四课：影响牛熊证价格的市场因素</title>
-    <url>/posts/7b60542b.html</url>
-    <content><![CDATA[<p>影响牛熊证价格的市场因素</p>
-<a id="more"></a>
-
-<div id="dplayer4" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"theme":"#FADFA3","loop":true,"video":{"url":"/posts/7b60542b/4.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-
-<h2 id="1-相关资产流通量"><a href="#1-相关资产流通量" class="headerlink" title="1) 相关资产流通量"></a>1) <strong>相关资产流通量</strong></h2><p>相关资产流通量是影响牛熊证市场价格的重要因素之一，因牛熊证的对冲值相当接近+1（牛证）或-1（熊证），发行商进行对冲时，视乎兌换比率，几乎是1兑1的方式购买或沽出相关资产，故对相关资产的流通量需求甚大，若相关资产流通量不足，发行商的对冲成本大增，相应所收的财务费用亦会增加，如此便造成买卖差价扩大的情况。</p>
-<h2 id="2-牛熊证供求"><a href="#2-牛熊证供求" class="headerlink" title="2) 牛熊证供求"></a>2) <strong>牛熊证供求</strong></h2><p>牛熊证供求因素亦对牛熊证价格直接造成影响，市场供求一般可透过观察牛熊证的街货量来衡量，街货是指投资者持仓过夜的货。街货量比重愈大，牛熊证愈受市场供求所影响，一般而言，当街货量超过五成时，牛熊证价格比较容易受到市场供求影响而偏离理论价格。</p>
-<h2 id="3-发行商操守"><a href="#3-发行商操守" class="headerlink" title="3) 发行商操守"></a>3) <strong>发行商操守</strong></h2><p>发行商操守，顾名思义，就是发行商是否跟随相关资产的价格波动、流通量等因素而给予合理的牛熊证买卖价、差价，以及足量的买卖盘。</p>
-]]></content>
-      <categories>
-        <category>港股</category>
-      </categories>
-      <tags>
-        <tag>牛熊证</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「牛熊证篇」第三课：影响牛熊证价格的理论因素</title>
-    <url>/posts/28c85fa6.html</url>
-    <content><![CDATA[<p>影响牛熊证价格的四个理论因素</p>
-<a id="more"></a>
-
-<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"video":{"url":"/posts/28c85fa6/3.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-
-
-<ol>
-<li><p><strong>相关资产价格</strong>的变动直接影响牛熊证的价格，现时市场上可发行的牛熊证的内在值占其理论价格较大的部分，故相关资产价格变动最为影响牛熊证的价格；若相关资产价格上升，牛证的价格一般也会上升，反之亦然；相关资产价格若下跌，熊证的价格一般会上升，反之亦然。</p>
-</li>
-<li><p><strong>行使价</strong>的高低亦会直接影响牛熊证的内在值，相同相关资产的牛证，假设兌换比率相同，行使价愈高，其理论价格便愈低，反之亦然。相同相关资产的熊证，假设兌换比率相同，行使价愈高，其理论价格便愈高，反之亦然。</p>
-</li>
-<li><p><strong>牛熊证的尚余时间</strong>愈长，其财务费用便愈大，投资者可视牛熊证为孖展投资，投资者只要付出少于投资相关资产的资金成本，便可获得与投资相关资产相同的利润，财务费用就像牛熊证在投资期限内，向发行商借款投资所需支付的利息，故投资期限愈长，所需支付的利息理应愈多，故牛熊证价格会愈高。</p>
-</li>
-<li><p><strong>相关资产波幅</strong>对牛熊证价格影响相对轻微。</p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>港股</category>
-      </categories>
-      <tags>
-        <tag>牛熊证</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「牛熊证篇」第二课：牛熊证价格的组成部分</title>
-    <url>/posts/b0308649.html</url>
-    <content><![CDATA[<p>牛熊证价格主要由两个部分组成﹕（1）牛熊证的内在值及（2）发行商所收的财务费用。</p>
-<a id="more"></a>
-
-<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"theme":"#FADFA3","loop":true,"video":{"url":"/posts/b0308649/2.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-
-
-<h3 id="內在值"><a href="#內在值" class="headerlink" title="內在值"></a>內在值</h3><table>
-<thead>
-<tr>
-<th>牛证内在值 =</th>
-<th>（现价－行使价）</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>兌换比率</td>
-<td></td>
-</tr>
-<tr>
-<td>熊证内在值 =</td>
-<td>（行使价－现价）</td>
-</tr>
-<tr>
-<td>兌换比率</td>
-<td></td>
-</tr>
-</tbody></table>
-<h3 id="财务费用"><a href="#财务费用" class="headerlink" title="财务费用"></a>财务费用</h3><p>财务费用由发行商厘订，当中包括了发行商的借贷成本、预期相关资产普通股息的调整及发行商所收取的利润。不同的发行商各自有不同的计算方法，但总括来说，牛熊证的尚余时间愈长，其财务费用便愈大，牛熊证价格理论上会愈高。</p>
-<p>例子：<br>就指数牛熊证而言，指数的走势与牛熊证价格大致如下﹕</p>
-<table>
-<thead>
-<tr>
-<th align="left">编号</th>
-<th align="left"><strong>A</strong></th>
-<th align="left"><strong>B</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">相关资产</td>
-<td align="left">ABC指数</td>
-<td align="left">ABC指数</td>
-</tr>
-<tr>
-<td align="left">牛／熊</td>
-<td align="left">牛</td>
-<td align="left">熊</td>
-</tr>
-<tr>
-<td align="left">每手股数</td>
-<td align="left">10,000</td>
-<td align="left">10,000</td>
-</tr>
-<tr>
-<td align="left">行使价</td>
-<td align="left">21,800点</td>
-<td align="left">24,200点</td>
-</tr>
-<tr>
-<td align="left">收回价</td>
-<td align="left">22,000点</td>
-<td align="left">24,000点</td>
-</tr>
-<tr>
-<td align="left">到期日</td>
-<td align="left">2016年10月</td>
-<td align="left">2016年12月</td>
-</tr>
-<tr>
-<td align="left">财务费用</td>
-<td align="left">1%</td>
-<td align="left">1.5%</td>
-</tr>
-<tr>
-<td align="left"><strong>兌换</strong>比率</td>
-<td align="left">10,000</td>
-<td align="left">10,000</td>
-</tr>
-<tr>
-<td align="left">指数现价</td>
-<td align="left">23,000</td>
-<td align="left">23,000</td>
-</tr>
-</tbody></table>
-<p>假设指数现处于23,000点水平，指数牛证的价格为</p>
-<table>
-<thead>
-<tr>
-<th>(23,000点 － 21,800点)</th>
-<th>x 1.01 ＝ 0.1212 (元)</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>10,000</td>
-<td></td>
-</tr>
-</tbody></table>
-<p>指数熊证的价格为</p>
-<table>
-<thead>
-<tr>
-<th>(24,200点 － 23,000点)</th>
-<th>x 1.015 ＝ 0.1218 (元)</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>10,000</td>
-<td></td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>港股</category>
-      </categories>
-      <tags>
-        <tag>牛熊证</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>牛熊证篇-第一课：基本概念</title>
-    <url>/posts/caa58369.html</url>
-    <content><![CDATA[<p>牛熊证是由投资银行发行的衍生产品，并于香港联合交易所上市，透过自动对盘系统 AMS/3 进行交易，交收时间也以 T+2 为原则，只要开设股票户口，又或透过股票经纪便可买卖。牛熊证备有以下特点：</p>
-<ul>
-<li>  具有杠杆作用</li>
-<li>  附有强制性收回机制</li>
-<li>  R 类被强制收回时可能有余值；N 类则没有</li>
-</ul>
-<a id="more"></a>
-
-<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"/posts/caa58369/aaa.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-
-<h3 id="牛证"><a href="#牛证" class="headerlink" title="牛证"></a>牛证</h3><p>购入牛证就如看好相关资产价格会上升，当相关资产（现时主要为指数或股份，但亦可以是其他资产或商品）的价格愈高，牛证的价值理论上会相应提高。故当投资者预期，相关资产股价将会上升时，可考虑买入牛证，当牛证随着相关资产股价上升，投资者可沽出牛证获利，赚取相关资产股价上升的利润。</p>
-<h3 id="熊证"><a href="#熊证" class="headerlink" title="熊证"></a>熊证</h3><p>熊证则与牛证相反，购入熊证就如看空相关资产价格于到期日前会下跌，当相关资产的价格愈低，熊证的价值就会相应提高。故当投资者预期，相关资产股价将会下跌时，可​​考虑买入熊证，当熊证因相关资产股价下跌而上升时，投资者可沽出熊证获利。</p>
-<h3 id="杠杆效应"><a href="#杠杆效应" class="headerlink" title="杠杆效应"></a>杠杆效应</h3><p>牛熊证具有杠杆效应，投资者可以投入比较少的资金买卖牛熊证，而获得被「倍大」的回报率。牛熊证与相关资产的理论价格变动比例，可以用实际杠杆来量度，因为杠杆效应的关系以百份比计算，因此，牛熊证价格的升幅或跌幅，会比正股或指数大，故风险亦相对较高。</p>
-<p>例子:</p>
-<table><tbody><tr><td><strong>编号</strong></td><td>A</td><td><strong>收回价</strong></td><td>20,200 點</td></tr><tr><td><strong>相关资产</strong></td><td>恒指</td><td><strong>到期日</strong></td><td>2017 年 1 月</td></tr><tr><td><strong>牛／熊</strong></td><td>牛</td><td><strong>财务费用</strong></td><td>10%</td></tr><tr><td><strong>每手股数</strong></td><td>10,000</td><td><strong>兌换比率</strong></td><td>10,000</td></tr><tr><td><strong>行使价</strong></td><td>20,000 點</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
-
-<p>假设恒指现价为 22,000 点，投资者买入恒指牛证 A 所需支付的价格为</p>
-<p>(22,000 －20,000) / 10,000 x 1.1 = 0.22 元</p>
-<p>当恒指即日上升 100 点 (升幅不足 0.5%) 时，假设财务费用维持不变，投资者所持的恒指牛证 A 价格将会升至</p>
-<p>(22,100 －20,000) / 10,000 x 1.1 ＝ 0.231 元</p>
-<p>升幅约 5.00%。</p>
-<table><thead><tr><th scope="col">恒指现价</th><th scope="col">相对升幅</th><th scope="col">牛证 A 价格 (元)</th><th scope="col">相对升幅</th></tr></thead><tbody><tr><td>22,000</td><td>不适用</td><td>0.220</td><td>不适用</td></tr><tr><td>22,100</td><td>0.45%</td><td>0.231</td><td>5.00%</td></tr><tr><td>22,200</td><td>0.45%</td><td>0.242</td><td>4.76%</td></tr><tr><td>22,300</td><td>0.45%</td><td>0.253</td><td>4.55%</td></tr><tr><td>22,400</td><td>0.45%</td><td>0.264</td><td>4.35%</td></tr><tr><td>22,500</td><td>0.45%</td><td>0.275</td><td>4.17%</td></tr><tr><td>22,600</td><td>0.44%</td><td>0.286</td><td>4.00%</td></tr><tr><td>22,700</td><td>0.44%</td><td>0.297</td><td>3.85%</td></tr><tr><td>22,800</td><td>0.44%</td><td>0.308</td><td>3.70%</td></tr></tbody></table>
-
-<h3 id="收回机制"><a href="#收回机制" class="headerlink" title="收回机制"></a>收回机制</h3><p>牛熊证设强制性收回机制，此机制容许发行商在牛熊证到期日前，若相关资产价格触及上市文件内指定的价格（即「收回价」），发行商会即时收回有关牛熊证；亦即是说，该牛熊证将提早到期并即时终止在市场上买卖，原定的到期日则不再有效。</p>
-<p>牛熊证分为 N 类和 R 类，目前香港市场只有 R 类牛熊证。</p>
-<p><strong>N 类牛熊证的收回价等同行使价，一旦相关资产的价格触及或超越收回价，投资者将不会收到任何现金款项。</strong></p>
-<p><strong>R 类牛熊证的收回价与行使价不同，牛证的收回价必定高于行使价，而熊证的收回价则必定低于行使价，故若强制收回事件发生时，R 类牛熊证的投资者仍可能可收回少量现金款项，俗称「剩余价值」，在某些情况下可能没有剩余价值。</strong></p>
-<p>就强制性收回机制这特性，由于若相关资产价格触及收回价时便会被马上收回，投资者因而即时损失大部分、甚至所有资金，没有等候相关资产价格反弹（熊证则为回落）的机会。</p>
-<p>总括而言，牛熊证的价值状况表列如下：</p>
-<table><thead><tr><th scope="col">&nbsp;</th><th scope="col">牛證</th><th scope="col">熊證</th></tr></thead><tbody><tr><td><strong>N 类</strong></td><td>相关资产价 &gt; 收回价 = 行使价</td><td>相关资产价 &lt; 收回价 = 行使价</td></tr><tr><td><strong>R 类</strong></td><td>相关资产价 &gt; 收回价 &gt; 行使价</td><td>相关资产价 &lt; 收回价 &lt; 行使价</td></tr><tr><td><strong>收回条件</strong></td><td>相关资产价下跌至触及收回价</td><td>相关资产价上升至触及收回价</td></tr></tbody></table>]]></content>
       <categories>
         <category>港股</category>
       </categories>
