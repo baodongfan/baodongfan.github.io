@@ -109,8 +109,9 @@ deploy:
   - type: git
     repo:
       github: https://github.com/baodongfan/baodongfan.github.io.git
+    #  coding: https://e.coding.net/fanbd/myblog/myblog.git
     branch: master
-  - type: baidu_url_submitter
+  # - type: baidu_url_submitter
 
 # 锚板配置
 live2d:
