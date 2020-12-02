@@ -79,7 +79,7 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/img/favicon.png
 
 # Avatar (頭像)
 avatar:
@@ -124,12 +124,12 @@ cover:
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-    - /my_imgs/xingkong.webp
+    - https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.webp
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-  flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  flink: https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/img/friend_404.gif
+  post_page: https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/img/404.jpg
 
 # A simple 404 page
 error_404:
@@ -183,19 +183,19 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
-    # - img: /img/wechat.jpg
-    #   link:
-    #   text: wechat
-    # - img: /img/alipay.jpg
-    #   link:
-    #   text: alipay
+     - img: https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/wechat.jpg
+       link:
+       text: wechat
+     - img: https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/alipay.jpg
+       link:
+       text: alipay
 
 # Related Articles
 related_post:
   enable: true
-  limit: 6 # Number of posts displayed
+  limit: 3 # Number of posts displayed
   date_type: created # or created or updated 文章日期顯示創建日或者更新日
 
 # figcaption (圖片描述文字)
@@ -477,7 +477,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: /img/background.jpg
+# background: /img/background.jpg
 
 # Footer Background
 footer_bg: true
@@ -692,9 +692,9 @@ newest_comments:
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
-  enable: false
+  enable: true
   # The text of a button
-  default: 繁
+  default: 简
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
@@ -805,7 +805,7 @@ pangu:
 # https://github.com/verlok/lazyload
 lazyload:
   enable: false
-  post: /img/loading.gif
+  post: https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/img/loading.gif
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
@@ -834,17 +834,19 @@ fragment_cache: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
-    - <link rel="stylesheet" href="/my_css/butterfly.css">
+    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_css/butterfly.css">
     # busuanzi
     - <meta name="referrer" content="no-referrer-when-downgrade" />
     # google search console
     - <meta name="google-site-verification" content="aDU1RuLwYHqv2FjxiffQ1KCNO9phDnKTv67lFNZkuhQ" />
+
+    
+
   bottom:
     # 底部养鱼
-     - <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
-
+    - <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
      # 底部贴边播放器
-     - <div class="aplayer no-destroy" data-id="5336109995" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="false" data-volume="0.3" data-lrcType="1" muted></div>
+    - <div class="aplayer no-destroy" data-id="5336109995" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="false" data-volume="0.3" data-lrcType="1" muted></div>
 
 
 
