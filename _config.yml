@@ -108,7 +108,7 @@ theme: Butterfly
 deploy:
   - type: git
     repo:
-      github: https://github.com/baodongfan/baodongfan.github.io.git
+      github: git@github.com:baodongfan/baodongfan.github.io.git
       coding: https://e.coding.net/fanbd/myblog/myblog.git
     branch: master
   - type: baidu_url_submitter
