@@ -42,7 +42,10 @@ copy:
 #   icon: link || the description
 social:
   # fab fa-github: https://github.com/xxxxx || Github
-  fas fa-envelope: mailto:1071989685@qq.com || Email
+  fas fa-envelope: mailto:fanbd7@163.com || Email
+  fab fa-qq: tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1071989685 || QQ
+  fab fa-weixin: https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/joinme.jpg || WeChat
+  
 
 # search (搜索)
 # --------------------------------------
@@ -626,9 +629,9 @@ aside:
     enable: true
     description:
     button:
-      icon: fab fa-github
-      text: Follow Me
-      link: 
+      icon: fas fa-bookmark
+      text: Ctrl+D加入书签
+      link: <input type="button" name="btn2" id="btn2" value="提示" onclick="javaScript:alert('您确定要删除吗？');
   card_announcement:
     enable: true
     content: <b><font size=3 color=red>法巴学堂的格式比较乱，周末重新整理了一下文章，公式整理了一下</font></b>  <img src='https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/gonggao.gif'>
