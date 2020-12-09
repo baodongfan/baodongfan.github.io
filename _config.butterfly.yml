@@ -456,7 +456,7 @@ theme_color:
   button_hover: "#FF7242"
   text_selection: "#00c4b6"
   link_color: "#99a9bf"
-  meta_color: "#858585"
+  meta_color: "#0ad3f3"
   hr_color: "#A4D8FA"
   code_foreground: "#F47466"
   code_background: "rgba(27, 31, 35, .05)"
