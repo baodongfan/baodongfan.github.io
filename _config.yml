@@ -109,14 +109,14 @@ deploy:
   - type: git
     repo:
       github: git@github.com:baodongfan/baodongfan.github.io.git
-      coding: https://e.coding.net/fanbd/myblog/myblog.git
+    #  coding: git@e.coding.net:fanbd1/mudong/fanbd1.git
     branch: master
   - type: baidu_url_submitter
 
 # 锚板配置
 live2d:
   # 固定写法，具体用途参阅下方文档
-  enable: true
+  enable: false
   scriptFrom: local
   pluginRootPath: live2dw/
   pluginJsPath: lib/

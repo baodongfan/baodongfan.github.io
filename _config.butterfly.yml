@@ -638,7 +638,7 @@ aside:
       link: <input type="button" name="btn2" id="btn2" value="提示" onclick="javaScript:alert('您确定要删除吗？');
   card_announcement:
     enable: true
-    content: <b><font size=3 color=red>法巴学堂的格式比较乱，周末重新整理了一下文章，公式整理了一下</font></b>  <img src='https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/gonggao.gif'>
+    content: <b><font size=3 color=red>记录个人看过的，感兴趣的东西，不做推荐，纯粹是爱好</font></b>  <img src='https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/gonggao.gif'>
   card_recent_post:
     enable: false
     limit: 5 # if set 0 will show all
