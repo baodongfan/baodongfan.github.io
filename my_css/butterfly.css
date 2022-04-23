@@ -37,3 +37,31 @@ img {
     /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
   }
 
+/* 所有页面背景 */
+
+#recent-posts>.recent-post-item,
+.layout>div:first-child:not(.recent-posts),
+#aside-content .card-widget {
+    background: rgba(255, 255, 255, .8);
+}
+
+/* 取消页脚背景 */
+
+#footer {
+    background: none;
+}
+
+/* 导航栏居中 */
+#navFn{
+    flex: 1;
+    text-align: right;
+    }
+    #nav
+      #search-button{
+        display: inline;
+        padding: 0 0 0 0.3rem ;
+        position: relative;
+        padding-bottom: 0.3rem;
+        text-shadow: 0.05rem 0.05rem 0.1rem rgb(0 0 0 / 30%);
+        cursor: pointer;
+    }
