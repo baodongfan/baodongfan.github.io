@@ -485,8 +485,19 @@
 
         let carouselIntervalId;
         
+        // Loop to call the next cover article picture.
+        let autoCarousel = function () {
+            carouselIntervalId = setInterval(function () {
+                coverSlider.carousel('next');
+            }, 5000);
+        };
+        autoCarousel();
+        
 
         function restartPlay() {
+            
+            clearInterval(carouselIntervalId);
+            autoCarousel();
             
         };
 
@@ -627,6 +638,108 @@
              <!-- 隐藏某个文章 -->
             <div class="article col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
+                    <a href="/posts/99d1273b.html">
+                        <div class="card-image">
+                            
+                            
+                            <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="为什么投资港股美股">
+                            
+                            <span class="card-title">为什么投资港股美股</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary block-with-text">
+                            
+                                为什么要投资港股美股？
+对于国人而言，能够接触的投资最方便的是A股，但是由于A股特殊的市场规则，A股的盈亏比比较低，限制也比较多，T+1，涨跌停，大部分投资者只能单向做多，缺少对冲工具。
+在此情况下，不少投资者选择同时参与A股、港股和美股投
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2022-04-23
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fas fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/%E7%A7%91%E6%99%AE/" class="post-category">
+                                    科普
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/%E6%B8%AF%E8%82%A1/">
+                            <span class="chip bg-color">港股</span>
+                        </a>
+                        
+                        <a href="/tags/%E7%BE%8E%E8%82%A1/">
+                            <span class="chip bg-color">美股</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+              <!-- 隐藏某个文章 -->
+            
+             <!-- 隐藏某个文章 -->
+            <div class="article col s12 m6 l4" data-aos="zoom-in">
+                <div class="card">
+                    <a href="/posts/cfc657db.html">
+                        <div class="card-image">
+                            
+                            
+                            <img src="/medias/featureimages/23.jpg" class="responsive-img" alt="目录">
+                            
+                            <span class="card-title">目录</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary block-with-text">
+                            
+                                目录索引博客的形式是以文章的发布时间为顺序，依次排列，不方便查阅。
+
+想找相应内容的方式有两种：
+
+翻页看标题
+根据右侧 “ 标签 ” 栏查找相应内容。
+
+现在提供第三种方法，置顶这篇目录，手动添加标题和目录（点开下面标签）：
+
+    
+
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-06
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fas fa-user fa-fw"></i>
+                                Brandon
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                </div>
+            </div>
+              <!-- 隐藏某个文章 -->
+            
+             <!-- 隐藏某个文章 -->
+            <div class="article col s12 m6 l4" data-aos="zoom-in">
+                <div class="card">
                     <a href="/posts/1afb42b6.html">
                         <div class="card-image">
                             
@@ -673,61 +786,6 @@
                         
                         <a href="/tags/%E5%A4%A7%E9%99%86%E5%8D%A1/">
                             <span class="chip bg-color">大陆卡</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/99d1273b.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="为什么投资港股美股">
-                            
-                            <span class="card-title">为什么投资港股美股</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                为什么要投资港股美股？
-对于国人而言，能够接触的投资最方便的是A股，但是由于A股特殊的市场规则，A股的盈亏比比较低，限制也比较多，T+1，涨跌停，大部分投资者只能单向做多，缺少对冲工具。
-在此情况下，不少投资者选择同时参与A股、港股和美股投
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2022-04-23
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/%E7%A7%91%E6%99%AE/" class="post-category">
-                                    科普
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/%E6%B8%AF%E8%82%A1/">
-                            <span class="chip bg-color">港股</span>
-                        </a>
-                        
-                        <a href="/tags/%E7%BE%8E%E8%82%A1/">
-                            <span class="chip bg-color">美股</span>
                         </a>
                         
                     </div>
@@ -865,53 +923,6 @@ A股：万分之几的中签率
                         <div class="publish-info">
                             <span class="publish-date">
                                 <i class="far fa-clock fa-fw icon-date"></i>2020-12-17
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-user fa-fw"></i>
-                                Brandon
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/cfc657db.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/23.jpg" class="responsive-img" alt="目录">
-                            
-                            <span class="card-title">目录</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                目录索引博客的形式是以文章的发布时间为顺序，依次排列，不方便查阅。
-
-想找相应内容的方式有两种：
-
-翻页看标题
-根据右侧 “ 标签 ” 栏查找相应内容。
-
-现在提供第三种方法，置顶这篇目录，手动添加标题和目录（点开下面标签）：
-
-    
-
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-06
                             </span>
                             <span class="publish-author">
                                 
