@@ -996,7 +996,7 @@
 
         var int = setInterval(fixCount, 50);  // 50ms周期检测函数
         var pvcountOffset = 3256;  // 初始化首次数据
-        var uvcountOffset = 2133;
+        var uvcountOffset = 865;
 
         function fixCount() {
             if (document.getElementById("busuanzi_container_site_pv").style.display != "none") {
@@ -1198,6 +1198,19 @@ $(function () {
 
     
 
+    
+
+    <!-- 标签栏动态文字-->
+    <script type="text/javascript">
+        var OriginTitile = document.title,
+            st;
+        document.addEventListener("visibilitychange", function () {
+            document.hidden ? (document.title = "看不见我🙈~看不见我🙈~", clearTimeout(st)) : (document.title =
+                "(๑•̀ㅂ•́) ✧被发现了～", st = setTimeout(function () {
+                    document.title = OriginTitile
+                }, 3e3))
+        })
+    </script>
     
 
     <!--腾讯兔小巢-->
