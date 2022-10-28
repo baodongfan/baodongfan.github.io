@@ -930,16 +930,16 @@ SIB入金流程有两种，如果跟SIB有合作，可以直接快捷转账，�
                 
             
             
-                <span id="busuanzi_container_site_pv">
+                <span id="busuanzi_container_site_pv" style="display:none"></span>
                 &nbsp;|&nbsp;<i class="far fa-eye"></i>&nbsp;总访问量:&nbsp;
                     <span id="busuanzi_value_site_pv" class="white-color"></span>
-            </span>
             
             
-                <span id="busuanzi_container_site_uv">
+            
+                <span id="busuanzi_container_site_uv" style="display:none"></span>
                 &nbsp;|&nbsp;<i class="fas fa-users"></i>&nbsp;总访问人数:&nbsp;
                     <span id="busuanzi_value_site_uv" class="white-color"></span>
-            </span>
+            
             
             <br>
 
@@ -1038,6 +1038,26 @@ SIB入金流程有两种，如果跟SIB有合作，可以直接快捷转账，�
 </footer>
 
 <div class="progress-bar"></div>
+
+<script>
+    $(document).ready(function () {
+
+        var int = setInterval(fixCount, 50);  // 50ms周期检测函数
+        var pvcountOffset = 3256;  // 初始化首次数据
+        var uvcountOffset = 2133;
+
+        function fixCount() {
+            if (document.getElementById("busuanzi_container_site_pv").style.display != "none") {
+                $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + pvcountOffset);
+                clearInterval(int);
+            }
+            if ($("#busuanzi_container_site_pv").css("display") != "none") {
+                $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + uvcountOffset); // 加上初始数据 
+                clearInterval(int); // 停止检测
+            }
+        }
+    });
+</script>
 
 
     <!-- 搜索遮罩框 -->
