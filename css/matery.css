@@ -242,7 +242,7 @@ mark {
 
 .bg-color {
     background-image: linear-gradient(to right, #40a162 0%, #13ded3 100%);
-    opacity: 0.6;
+    opacity: 1;
 }
 
 .text-color {
@@ -1609,7 +1609,7 @@ thead {
     text-decoration: underline;
 }
 
-.post-statis .statis .count a {
+.post-statis .statis .count a {                                 
     color: #42b983;
 }
 
