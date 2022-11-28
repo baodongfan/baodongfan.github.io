@@ -1,703 +1,162 @@
-<!DOCTYPE HTML>
-<html lang="zh-CN">
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>木东の世界 - 木东の世界</title><meta name="author" content="Brandon"><meta name="copyright" content="Brandon"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="ffffff"><meta name="description" content="To learn, to share, to play">
+<meta property="og:type" content="website">
+<meta property="og:title" content="木东の世界">
+<meta property="og:url" content="https://blog.mengjiao.vip/index.html">
+<meta property="og:site_name" content="木东の世界">
+<meta property="og:description" content="To learn, to share, to play">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://blog.mengjiao.vip/my_imgs/avatar_bilibili.jpg">
+<meta property="article:author" content="Brandon">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://blog.mengjiao.vip/my_imgs/avatar_bilibili.jpg"><link rel="shortcut icon" href="/my_imgs/avatar_bilibili.jpg"><link rel="canonical" href="https://blog.mengjiao.vip/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: true,
+    post: false
+  },
+  runtime: '',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery/dist/fjGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery/dist/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isAnchor: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '木东の世界',
+  isPost: false,
+  isHome: true,
+  isHighlightShrink: false,
+  isToc: false,
+  postUpdate: '2022-11-29 00:58:52'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
 
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
 
-<head>
-    <meta charset="utf-8">
-    <meta name="keywords" content="木东の世界">
-    <meta name="description" content="To learn, to share, to play">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <meta name="renderer" content="webkit|ie-stand|ie-comp">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="referrer" content="no-referrer-when-downgrade">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
 
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
 
-    <title>木东の世界</title>
-    <link rel="icon" type="image/jpeg" href="/avatar_bilibili.jpg">
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
     
-
-
-    <!-- index cover -->
-    <!-- <link rel="stylesheet preload" type="text/css" href="/css/indexcover.css"> -->
-    <style>
-        .carousel-control {
-            width: 45px;
-            height: 45px;
-            line-height: 55px;
-            border-radius: 45px;
-            background: transparent;
-            cursor: pointer;
-            z-index: 100;
-        }
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
         
-        #prev-cover {
-            position: absolute;
-            top: 48%;
-            left: 8px;
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
         }
-        
-        #next-cover {
-            position: absolute;
-            top: 48%;
-            right: 8px;;
-        }
-        
-        #prev-cover i {
-            margin-right: 3px;
-        }
-        
-        #next-cover i {
-            margin-left: 3px;
-        }
-        
-        .carousel-control:hover {
-            background-color: rgba(0, 0, 0, .4);
-        }
-        
-        .carousel-control i {
-            color: #fff;
-            font-size: 2.4rem;
-        }
-    </style>
-
-
-
-<link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.min.css">
-<link rel="stylesheet" type="text/css" href="/libs/materialize/materialize.min.css">
-<link rel="stylesheet" type="text/css" href="/libs/aos/aos.css">
-<link rel="stylesheet" type="text/css" href="/libs/animate/animate.min.css">
-<link rel="stylesheet" type="text/css" href="/libs/lightGallery/css/lightgallery.min.css">
-<link rel="stylesheet" type="text/css" href="/css/matery.css">
-<link rel="stylesheet" type="text/css" href="/css/my.css">
-<link rel="stylesheet" type="text/css" href="/css/dark.css" media="none" onload="if(media!='all')media='all'">
-
-
-
-
-    <link rel="stylesheet" href="/libs/tocbot/tocbot.css">
-    <link rel="stylesheet" href="/css/post.css">
-
-
-
-
-
-
-    <script src="/libs/jquery/jquery-3.6.0.min.js"></script>
-
-<!-- hexo injector head_end start --><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Zfour/Butterfly-double-row-display@1.00/cardlistpost.min.css"/>
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><link rel="stylesheet" href="/my_css/butterfly.css"  media="defer" onload="this.media='all'"><meta name="referrer" content="no-referrer-when-downgrade" /><meta name="google-site-verification" content="aDU1RuLwYHqv2FjxiffQ1KCNO9phDnKTv67lFNZkuhQ" /><!-- hexo injector head_end start --><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Zfour/Butterfly-double-row-display@1.00/cardlistpost.min.css"/>
 <style>#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap > .tags:before {content:"\A";
   white-space: pre;}#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap > .tags > .article-meta__separator{display:none}</style>
-<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head>
-
-
-<body>
-    <header class="navbar-fixed">
-    <nav id="headNav" class="bg-color nav-transparent">
-        <div id="navContainer" class="nav-wrapper container">
-            <div class="brand-logo">
-                <a href="/" class="waves-effect waves-light">
-                    
-                    <img src="/avatar_fox.png" class="logo-img" alt="LOGO">
-                    
-                    <span class="logo-span">木东の世界</span>
-                </a>
-            </div>
-            
-
-<a href="#" data-target="mobile-nav" class="sidenav-trigger button-collapse"><i class="fas fa-bars"></i></a>
-<ul class="right nav-menu">
-  
-  <li class="hide-on-med-and-down nav-item">
-    
-    <a href="/" class="waves-effect waves-light">
-      
-      <i class="fas fa-home" style="zoom: 0.6;"></i>
-      
-      <span>首页</span>
-    </a>
-    
-  </li>
-  
-  <li class="hide-on-med-and-down nav-item">
-    
-    <a href="/tags" class="waves-effect waves-light">
-      
-      <i class="fas fa-tags" style="zoom: 0.6;"></i>
-      
-      <span>标签</span>
-    </a>
-    
-  </li>
-  
-  <li class="hide-on-med-and-down nav-item">
-    
-    <a href="/categories" class="waves-effect waves-light">
-      
-      <i class="fas fa-bookmark" style="zoom: 0.6;"></i>
-      
-      <span>分类</span>
-    </a>
-    
-  </li>
-  
-  <li class="hide-on-med-and-down nav-item">
-    
-    <a href="/archives" class="waves-effect waves-light">
-      
-      <i class="fas fa-archive" style="zoom: 0.6;"></i>
-      
-      <span>归档</span>
-    </a>
-    
-  </li>
-  
-  <li class="hide-on-med-and-down nav-item">
-    
-    <a href="/about" class="waves-effect waves-light">
-      
-      <i class="fas fa-user-circle" style="zoom: 0.6;"></i>
-      
-      <span>关于</span>
-    </a>
-    
-  </li>
-  
-  <li class="hide-on-med-and-down nav-item">
-    
-    <a href="/contact" class="waves-effect waves-light">
-      
-      <i class="fas fa-comments" style="zoom: 0.6;"></i>
-      
-      <span>留言板</span>
-    </a>
-    
-  </li>
-  
-  <li class="hide-on-med-and-down nav-item">
-    
-    <a href="/friends" class="waves-effect waves-light">
-      
-      <i class="fas fa-address-book" style="zoom: 0.6;"></i>
-      
-      <span>友情链接</span>
-    </a>
-    
-  </li>
-  
-  <li>
-    <a href="#searchModal" class="modal-trigger waves-effect waves-light">
-      <i id="searchIcon" class="fas fa-search" title="搜索" style="zoom: 0.85;"></i>
-    </a>
-  </li>
-  <li>
-    <a href="javascript:;" class="waves-effect waves-light" onclick="switchNightMode()" title="深色/浅色模式" >
-      <i id="sum-moon-icon" class="fas fa-sun" style="zoom: 0.85;"></i>
-    </a>
-  </li>
-</ul>
-
-
-<div id="mobile-nav" class="side-nav sidenav">
-
-    <div class="mobile-head bg-color">
-        
-        <img src="/avatar_fox.png" class="logo-img circle responsive-img">
-        
-        <div class="logo-name">木东の世界</div>
-        <div class="logo-desc">
-            
-            To learn, to share, to play
-            
-        </div>
-    </div>
-
-    <ul class="menu-list mobile-menu-list">
-        
-        <li class="m-nav-item">
-	  
-		<a href="/" class="waves-effect waves-light">
-			
-			    <i class="fa-fw fas fa-home"></i>
-			
-			首页
-		</a>
-          
-        </li>
-        
-        <li class="m-nav-item">
-	  
-		<a href="/tags" class="waves-effect waves-light">
-			
-			    <i class="fa-fw fas fa-tags"></i>
-			
-			标签
-		</a>
-          
-        </li>
-        
-        <li class="m-nav-item">
-	  
-		<a href="/categories" class="waves-effect waves-light">
-			
-			    <i class="fa-fw fas fa-bookmark"></i>
-			
-			分类
-		</a>
-          
-        </li>
-        
-        <li class="m-nav-item">
-	  
-		<a href="/archives" class="waves-effect waves-light">
-			
-			    <i class="fa-fw fas fa-archive"></i>
-			
-			归档
-		</a>
-          
-        </li>
-        
-        <li class="m-nav-item">
-	  
-		<a href="/about" class="waves-effect waves-light">
-			
-			    <i class="fa-fw fas fa-user-circle"></i>
-			
-			关于
-		</a>
-          
-        </li>
-        
-        <li class="m-nav-item">
-	  
-		<a href="/contact" class="waves-effect waves-light">
-			
-			    <i class="fa-fw fas fa-comments"></i>
-			
-			留言板
-		</a>
-          
-        </li>
-        
-        <li class="m-nav-item">
-	  
-		<a href="/friends" class="waves-effect waves-light">
-			
-			    <i class="fa-fw fas fa-address-book"></i>
-			
-			友情链接
-		</a>
-          
-        </li>
-        
-        
-    </ul>
-</div>
-
-
-        </div>
-
-        
-    </nav>
-
-</header>
-
-    
-
-
-<div class="carousel carousel-slider center index-cover" data-indicators="true" style="margin-top: -64px;">
-    
-        <div id="prev-cover" class="left waves-effect carousel-control">
-            <i class="icon fa fa-angle-left"></i>
-        </div>
-        <div id="next-cover" class="right waves-effect carousel-control">
-            <i class="icon fa fa-angle-right"></i>
-        </div>
-    
-
-    <div class="carousel-item  white-text bg-cover about-cover">
-        <div class="container">
-            <div class="row">
-    <div class="col s10 offset-s1 m8 offset-m2 l8 offset-l2">
-        <div class="brand">
-            <div class="title center-align">
-                
-                木东の世界
-                
-            </div>
-
-            <div class="description center-align">
-                
-                <span id="subtitle"></span>
-                <script src="/libs/typed/typed.js"></script>
-                <script>
-                    var typed = new Typed("#subtitle", {
-                        strings: [ 
-                            
-                                "从来没有真正的绝境, 只有心灵的迷途",
-                            
-                                "Never really desperate, only the lost of the soul",
-                            
-                        ],
-                        startDelay: 300,
-                        typeSpeed: 100,
-                        loop: true,
-                        backSpeed: 50,
-                        showCursor: true
-                    });
-                </script>
-                
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<script>
-    // 每天切换 banner 图.  Switch banner image every day.
-    var bannerUrl = "/medias/banner/" + new Date().getDay() + '.jpg';
-    $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
-</script>
-
-
-
-            <div class="cover-btns">
-                <a href="#indexCard" class="waves-effect waves-light btn">
-                    <i class="fa fa-angle-double-down"></i>开始阅读
-                </a>
-
-                
-                    <a href="https://space.bilibili.com/29824856" class="waves-effect waves-light btn" target="_blank">
-                        <i class="fab fa-youtube"></i>B站
-                    </a>
-                
-            </div>
-            <div class="cover-social-link">
-    <a href="https://github.com/blinkfox" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
-        <i class="fab fa-github"></i>
-    </a>
-
-
-
-    <a href="mailto:fanbd7@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
-        <i class="fas fa-envelope-open"></i>
-    </a>
-
-
-
-
-
-
-
-    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1071989685" class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1071989685" data-position="top" data-delay="50">
-        <i class="fab fa-qq"></i>
-    </a>
-
-
-
-
-
-
-
-    <a href="/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
-        <i class="fas fa-rss"></i>
-    </a>
-
-</div>
-        </div>
-    </div>
-
-    
-        
-
-        
-            
-            <div class="carousel-item amber white-text carousel-post bg-cover"
-                 style="background-image: url('/medias/featureimages/6.jpg');">
-                <div class="container">
-                    <div class="row">
-                        <div class="col s10 offset-s1">
-                            <div class="title center-align">为什么投资港股美股</div>
-                            <div class="description center-align">
-                                
-                                    为什么要投资港股美股？
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head><body><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="/my_imgs/avatar_bilibili.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">31</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">49</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="page" id="body-wrap"><header class="full_page" id="page-header" style="background: none"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">木东の世界</a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="site-info"><h1 id="site-title">木东の世界</h1><div id="site-subtitle"><span id="subtitle"></span></div><div id="site_social_icons"><a class="social-icon" href="mailto:fanbd7@163.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="tencent://AddContact/?fromId=45&amp;fromSubId=1&amp;subcmd=all&amp;uin=1071989685" target="_blank" title="QQ"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/joinme.jpg" target="_blank" title="WeChat"><i class="fab fa-weixin"></i></a><a class="social-icon" href="https://space.bilibili.com/29824856" target="_blank" title="小B站"><i class="fab fa-youtube"></i></a></div></div><div id="scroll-down"><i class="fas fa-angle-down scroll-down-effects"></i></div></header><main class="layout" id="content-inner"><div class="recent-posts" id="recent-posts"><div class="recent-post-item"><div class="post_cover left"><a href="/posts/99d1273b.html" title="为什么投资港股美股"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="为什么投资港股美股"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/99d1273b.html" title="为什么投资港股美股">为什么投资港股美股</a><div class="article-meta-wrap"><span class="article-meta"><i class="fas fa-thumbtack sticky"></i><span class="sticky">置顶</span><span class="article-meta-separator">|</span></span><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-04-23T14:20:57.000Z" title="发表于 2022-04-23 22:20:57">2022-04-23</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E7%A7%91%E6%99%AE/">科普</a></span></div><div class="content">为什么要投资港股美股？
 对于国人而言，能够接触的投资最方便的是A股，但是由于A股特殊的市场规则，A股的盈亏比比较低，限制也比较多，T+1，涨跌停，大部分投资者只能单向做多，缺少对冲工具。
-在此情况下，不少投资者选择同时参与A股、港股和美股投
-                                
-                            </div>
-                            <div class="cover-btns">
-                                <a href="/posts/99d1273b.html" class="waves-effect waves-light btn"
-                                   target="_blank">
-                                    <i class="icon fa fa-eye fa-fw"></i>阅读更多
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        
-    
-</div>
-
-<script>
-    $(function () {
-        let coverSlider = $('.carousel');
-
-        //用户触摸轮播自动 restartPlay 是否生效
-        let initUserPressedOrDraggedActive = false
-
-        //用户触摸轮播自动 restartPlay
-        function initUserPressedOrDragged(instance) {
-            setInterval(() => {
-                if (instance.pressed || instance.dragged) {
-                    // console.log('initUserPressedOrDragged: ',instance.pressed,instance.dragged)
-                    restartPlay()
-                }
-            }, 1000)
-        }
-
-        coverSlider.carousel({
-            duration: Number('120'),
-            fullWidth: true,
-            indicators: 'true' === 'true',
-            onCycleTo() {
-                if (!initUserPressedOrDraggedActive) {
-                    // console.log('initUserPressedOrDraggedActive')
-                    initUserPressedOrDragged(this)
-                    initUserPressedOrDraggedActive = true
-                }
-            },
-        })
-
-        let carouselIntervalId;
-        
-        // Loop to call the next cover article picture.
-        let autoCarousel = function () {
-            carouselIntervalId = setInterval(function () {
-                coverSlider.carousel('next');
-            }, 5000);
-        };
-        autoCarousel();
-        
-
-        function restartPlay() {
-            
-            clearInterval(carouselIntervalId);
-            autoCarousel();
-            
-        };
-
-        
-        // prev and next cover post.
-        $('#prev-cover').click(function () {
-            coverSlider.carousel('prev');
-            restartPlay();
-        });
-        $('#next-cover').click(function () {
-            coverSlider.carousel('next');
-            restartPlay();
-        });
-        
-    });
-</script>
+在此情况下，不少投资者选择同时参与A股、港股和美股投资，优势主要有以下几点：
+1. 丰富的对冲工具投资中没有百分百确定的事，唯一确定的就是不确定性，所以做任何投资都要有风险意识，要有保护自己资产的手段，在股市中常用的就是做空对冲。
+想象一下，当你买进股票一路下跌，你会怎么办？止损卖掉出来？继续加仓盼着上涨？还是拿着不动，等着？
+其实，还有另外的办法，做空，靠着下跌赚钱，弥补股票的亏损，下面介绍几个做空对冲的工具方法
+1.1 指数期货做多做空当你的股票下跌，大盘指数也不会好到哪里，特别是A股，涨一天跌三天，这时候，如果有做空指数的工具，也能赚的彭满钵满，在A股里这样的机会少，但是港美股里做空就容易的多。
 
 
-
-<main class="content">
-
-    
-    <div id="indexCard" class="index-card">
-        <div class="container ">
-            <div class="card">
-                <div class="card-content">
-                    
-                        <div class="dream">
-    
-    <div class="title center-align">
-        <i class="far fa-lightbulb"></i>&nbsp;&nbsp;人生理念
-    </div>
-    
-    <div class="row">
-        <div class="col l8 offset-l2 m10 offset-m1 s10 offset-s1 center-align text">
-            古之欲明德于天下者，先治其国；欲治其国者，先齐其家；欲齐其家者，先修其身；欲修其身者，先正其心；欲正其心者，先诚其意；欲诚其意者，先致其知，致知在格物。物格而后知至，知至而后意诚，意诚而后心正，心正而后身修，身修而后家齐，家齐而后国治，国治而后天下平。
-        </div>
-    </div>
-</div>
-
-                    
-
-                    
-
-                    
-
-                    
-                    <div id="recommend-sections" class="recommend">
-                        
-
-
-
-
-
-<div class="title"><i class="far fa-thumbs-up"></i>&nbsp;&nbsp;推荐文章</div>
-
-<div class="row">
-
-    
-    
-    <div class="col s12 m6" >
-        
-            <div class="post-card" style="background-image: url('/medias/featureimages/6.jpg')">
-            
-            <div class="post-body">
-                <div class="post-categories">
-                    
-                        
-                            <a href="/categories/%E7%A7%91%E6%99%AE/" class="category">科普</a>
-                        
-                    
-                </div>
-                <a href="/posts/99d1273b.html">
-                    <h3 class="post-title">为什么投资港股美股</h3>
-                </a>
-                <p class="post-description">
-                    
-                        为什么要投资港股美股？
-对于国人而言，能够接触的投资最方便的是A股，但是由于A股特殊的市场规则，A股的盈亏比比较低，限制也比较多，T+1，涨
-                    
-                </p>
-                <a href="/posts/99d1273b.html" class="read-more btn waves-effect waves-light" style="background: linear-gradient(to right, #FF5E3A 0%, #FF2A68 100%)" target="_blank">
-                    <i class="icon far fa-eye fa-fw"></i>阅读更多
-                </a>
-            </div>
-        </div>
-    </div>
-    
-    
-    <div class="col s12 m6" >
-        
-            <div class="post-card" style="background-image: url('/medias/featureimages/23.jpg')">
-            
-            <div class="post-body">
-                <div class="post-categories">
-                    
-                        
-                    
-                </div>
-                <a href="/posts/cfc657db.html">
-                    <h3 class="post-title">目录</h3>
-                </a>
-                <p class="post-description">
-                    
-                        目录索引博客的形式是以文章的发布时间为顺序，依次排列，不方便查阅。
-
-想找相应内容的方式有两种：
-
-翻页看标题
-根据右侧 “ 标签 ” 栏查
-                    
-                </p>
-                <a href="/posts/cfc657db.html" class="read-more btn waves-effect waves-light" style="background: linear-gradient(to right, #EF4DB6 0%, #C643FC 100%)" target="_blank">
-                    <i class="icon far fa-eye fa-fw"></i>阅读更多
-                </a>
-            </div>
-        </div>
-    </div>
-    
-
-</div>
-
-
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-    
-
-    
-
-    <!-- 所有文章卡片 -->
-    <article id="articles" class="container articles">
-        <div class="row article-row">
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/99d1273b.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="为什么投资港股美股">
-                            
-                            <span class="card-title">为什么投资港股美股</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                为什么要投资港股美股？
-对于国人而言，能够接触的投资最方便的是A股，但是由于A股特殊的市场规则，A股的盈亏比比较低，限制也比较多，T+1，涨跌停，大部分投资者只能单向做多，缺少对冲工具。
-在此情况下，不少投资者选择同时参与A股、港股和美股投
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2022-04-23
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/%E7%A7%91%E6%99%AE/" class="post-category">
-                                    科普
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/%E6%B8%AF%E8%82%A1/">
-                            <span class="chip bg-color">港股</span>
-                        </a>
-                        
-                        <a href="/tags/%E7%BE%8E%E8%82%A1/">
-                            <span class="chip bg-color">美股</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/cfc657db.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/23.jpg" class="responsive-img" alt="目录">
-                            
-                            <span class="card-title">目录</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                目录索引博客的形式是以文章的发布时间为顺序，依次排列，不方便查阅。
+迷你纳指——对应美股纳斯达克指数
+迷你道指——对应美股道琼斯指数
+迷你标普——对应美股标普500指数
+迷你罗素——对应美股罗素2000指数
+恒指期货——对应港股恒生指数大盘
+MSCI中国A50期货— ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/posts/cfc657db.html" title="目录"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="目录"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/cfc657db.html" title="目录">目录</a><div class="article-meta-wrap"><span class="article-meta"><i class="fas fa-thumbtack sticky"></i><span class="sticky">置顶</span><span class="article-meta-separator">|</span></span><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-06T14:52:48.000Z" title="发表于 2020-12-06 22:52:48">2020-12-06</time></span></div><div class="content">目录索引博客的形式是以文章的发布时间为顺序，依次排列，不方便查阅。
 
 想找相应内容的方式有两种：
 
@@ -707,1047 +166,220 @@
 现在提供第三种方法，置顶这篇目录，手动添加标题和目录（点开下面标签）：
 
     
+        牛熊证篇
+    
+        
+        1. 「牛熊证篇-第一课：基本概念
+        2. 「牛熊证篇」第二课：牛熊证价格的组成部分 
+        3.  「牛熊证篇」第三课：影响牛熊证价格的理论因素
+        4. 「牛熊证篇」第四课：影响牛熊证价格的市场因素 
+        5. 「牛熊证篇」第五课：牛熊证跳动计算 
+        6. 「牛熊证篇」第六课：行使价与收回价的距离 
+        7. 「牛熊证篇」第七课：挑选牛熊证六步曲 
+        8. 「牛熊证篇」第八课：收回后的剩余价值计算 
+        9. 「牛熊证篇」第九课：持证到期的结算方法 
+        10. 「牛熊证篇」第十课：牛熊证重货区及期指对冲张数 
+    
 
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-06
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-user fa-fw"></i>
-                                Brandon
-                                
-                            </span>
-                        </div>
-                    </div>
 
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/1afb42b6.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="三种入金方式视频流程">
-                            
-                            <span class="card-title">三种入金方式视频流程</span>
-                        </div>
-                    </a>
 
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                港卡和大陆卡入金视频操作有朋友联系我，图文的流程不方便看，我从网上找了不少资源，找到一家有录制的视频流程也是因为时间久了，不是最新的，不过思路是一样的，可以借鉴但是注意，我这里只是举例，具体你要入金到哪家券商，根据你入金的券商信息去填，我这
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2022-04-24
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/%E6%B8%AF%E7%BE%8E%E8%82%A1/" class="post-category">
-                                    港美股
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
+    
+        认股证篇（窝轮 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/1afb42b6.html" title="三种入金方式视频流程"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="三种入金方式视频流程"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/1afb42b6.html" title="三种入金方式视频流程">三种入金方式视频流程</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2022-04-24T13:39:33.000Z" title="发表于 2022-04-24 21:39:33">2022-04-24</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E7%BE%8E%E8%82%A1/">港美股</a></span></div><div class="content">港卡和大陆卡入金视频操作有朋友联系我，图文的流程不方便看，我从网上找了不少资源，找到一家有录制的视频流程也是因为时间久了，不是最新的，不过思路是一样的，可以借鉴但是注意，我这里只是举例，具体你要入金到哪家券商，根据你入金的券商信息去填，我这里只是提供思路并不做推荐，入金信息别都直接照抄，具体的找你的券商经理资讯！！不做任何投资和引导建议！！
+大陆银行卡入金
+     
 
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/%E6%B8%AF%E5%8D%A1/">
-                            <span class="chip bg-color">港卡</span>
-                        </a>
-                        
-                        <a href="/tags/%E5%85%A5%E9%87%91/">
-                            <span class="chip bg-color">入金</span>
-                        </a>
-                        
-                        <a href="/tags/%E5%A4%A7%E9%99%86%E5%8D%A1/">
-                            <span class="chip bg-color">大陆卡</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/1aa871c7.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="大陆卡购汇入金操作方法">
-                            
-                            <span class="card-title">大陆卡购汇入金操作方法</span>
-                        </div>
-                    </a>
 
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                SIB入金流程【首推】
+
+港卡FPS方式入金
+     
+
+
+
+港卡网银入金
+     
+
+
+
+</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/posts/1aa871c7.html" title="大陆卡购汇入金操作方法"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="大陆卡购汇入金操作方法"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/1aa871c7.html" title="大陆卡购汇入金操作方法">大陆卡购汇入金操作方法</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-06-05T16:24:28.000Z" title="发表于 2021-06-06 00:24:28">2021-06-06</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E7%BE%8E%E8%82%A1/">港美股</a></span></div><div class="content">SIB入金流程【首推】
 SIB入金流程有两种，如果跟SIB有合作，可以直接快捷转账，免费切快速，建议可以开一个SIB，使用比较方便 
 
   SIB开户教程   :SIB开户教程
 电脑版
-  首先通过官网登陆账户，SIB官网:https://
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2021-06-06
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/%E6%B8%AF%E7%BE%8E%E8%82%A1/" class="post-category">
-                                    港美股
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
+  首先通过官网登陆账户，SIB官网:https://ebank.standardintbank.com 选择转账汇款  
 
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/%E5%A4%A7%E9%99%86%E5%8D%A1/">
-                            <span class="chip bg-color">大陆卡</span>
-                        </a>
-                        
-                        <a href="/tags/%E8%B4%AD%E6%B1%87/">
-                            <span class="chip bg-color">购汇</span>
-                        </a>
-                        
-                        <a href="/tags/%E8%B7%A8%E5%A2%83%E6%B1%87%E6%AC%BE/">
-                            <span class="chip bg-color">跨境汇款</span>
-                        </a>
-                        
-                        <a href="/tags/%E8%B7%A8%E5%A2%83%E8%BD%AC%E8%B4%A6/">
-                            <span class="chip bg-color">跨境转账</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/296de9ff.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/17.jpg" class="responsive-img" alt="金融工具梳理">
-                            
-                            <span class="card-title">金融工具梳理</span>
-                        </div>
-                    </a>
 
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                定向降准、再贷款、OMO、MLF、TMLF、SLF、PSL、SLO、CRA、TLF概念非常多，日常研究和撰写报告过程中也特别容易混淆。
-在做具体介绍分类之前，先简单从央行资产负债表结构了解一下这些工具，上述所有工具中除了定向降准和CRA之外
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2021-01-05
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-user fa-fw"></i>
-                                Brandon
-                                
-                            </span>
-                        </div>
-                    </div>
 
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/b37cc1ce.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/9.jpg" class="responsive-img" alt="港股打新入金方法">
-                            
-                            <span class="card-title">港股打新入金方法</span>
-                        </div>
-                    </a>
+  接下来，如果要汇款的券商有跟SIB合作，选快捷入金，如果券商没跟SIB合作，选择国际转账   建议选那些跟SIB有合作的券商，毕竟银行不傻，你懂的  
 
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                港股打新入金港股打新跟A股打新的最大区别：中签率！
+
+手机版
+  首先通过二维码下载app  
+
+
+
+  登陆进去之后就很简单了，方式跟官网上的操作差不多，还是建议选快捷转账， 简单省事  
+
+
+工商银行工行购汇港币
+ 打开工商银行APP首页，点击全部，找到投资理财—结售汇—港币，进入购汇页面  选择购汇币种: 存入港元选择“港币HKD”； 钞汇标志：汇； 购汇金额：填写购汇金额； 购汇资金用途：根据实际情况填写，优先选择海外购物，其次因私旅游 ！购汇用途和转账用途保持一致！
+ 确认购汇信息，完成购汇。 
+
+
+工行跨境汇款
+ 打开工商银行APP首页，点击全部，点击境外汇款 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/296de9ff.html" title="金融工具梳理"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="金融工具梳理"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/296de9ff.html" title="金融工具梳理">金融工具梳理</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2021-01-05T15:42:08.000Z" title="发表于 2021-01-05 23:42:08">2021-01-05</time></span></div><div class="content">定向降准、再贷款、OMO、MLF、TMLF、SLF、PSL、SLO、CRA、TLF概念非常多，日常研究和撰写报告过程中也特别容易混淆。
+在做具体介绍分类之前，先简单从央行资产负债表结构了解一下这些工具，上述所有工具中除了定向降准和CRA之外，其他货币投放都体现在央行资产端对其他存款性公司债权，也就是央行投放货币需要寻找一个渠道，2004年到2014年，外汇占款是主流；2014年以后外汇流入减少，央行不需要通过购买外汇资产稳定汇率防止过快升值，外汇占款总体下降。
+所以央行从2014年开始陆续启动了全新的基础货币或者流动性投放渠道。
+所谓放水，其实分为两个层级：一是央行投放基础货币到存款类金融机构层面（以银行为主），或者虽然没有投放基础货币，但改变基础货币结构，释放流动性比如降准；二是指挥银行对实体企业和个人进行信贷扩张——即业内常说的宽货币、宽信用的两个层级。
+本文集中在第一个层面，关于第二个层面货币传导，笔者将在近期结合银保监会政策进行探讨。
+本文纲要一、央行货币政策的分类二、央行创新流动性工具和信贷支持三、公开市场操作四、央行再贷款前世今生（下篇）一、央行货币政策的分类（一）是否增加 ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/posts/b37cc1ce.html" title="港股打新入金方法"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="港股打新入金方法"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/b37cc1ce.html" title="港股打新入金方法">港股打新入金方法</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-17T12:55:54.000Z" title="发表于 2020-12-17 20:55:54">2020-12-17</time></span></div><div class="content">港股打新入金港股打新跟A股打新的最大区别：中签率！
 A股：万分之几的中签率
 港股：百分之几的中签率，甚至上乙组之后可以达到百分百中签率（只是分的多或少）
-但是港股出入金是让人比较在意的地方！不过没有境外卡，但想要投资港股美股打新的海外华人有
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-17
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-user fa-fw"></i>
-                                Brandon
-                                
-                            </span>
-                        </div>
-                    </div>
+但是港股出入金是让人比较在意的地方！不过没有境外卡，但想要投资港股美股打新的海外华人有福啦！😄
+我找到一个方法：😊
 
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/8c49e1a1.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/8.jpg" class="responsive-img" alt="「认股证篇」番外篇二：窝轮牛熊证价格变化及其相关因素">
-                            
-                            <span class="card-title">「认股证篇」番外篇二：窝轮牛熊证价格变化及其相关因素</span>
-                        </div>
-                    </a>
+开通SIB（标准国际银行）账户
 
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                「认股证篇」番外篇：窝轮牛熊证价格变化及其相关因素
+SIB入金到方德（免费）流程如下： 流程  
+
+
+</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/8c49e1a1.html" title="「认股证篇」番外篇二：窝轮牛熊证价格变化及其相关因素"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」番外篇二：窝轮牛熊证价格变化及其相关因素"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/8c49e1a1.html" title="「认股证篇」番外篇二：窝轮牛熊证价格变化及其相关因素">「认股证篇」番外篇二：窝轮牛熊证价格变化及其相关因素</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-05T11:17:27.000Z" title="发表于 2020-12-05 19:17:27">2020-12-05</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">「认股证篇」番外篇：窝轮牛熊证价格变化及其相关因素
      
 
 
 近年利用牛熊证及窝轮作短线投资的投资者越来越多，投资者对轮证计算的理解亦越来越成熟。
-一般而言牛熊证因为是价内产品，主要影响价格的因素是相关资产价格，其实近年利率上升，加上
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-05
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/%E6%B8%AF%E8%82%A1/" class="post-category">
-                                    港股
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
+一般而言牛熊证因为是价内产品，主要影响价格的因素是相关资产价格，其实近年利率上升，加上股票本身会派息，利率及股息亦会影响牛熊证定价。
+至于窝轮，理论上可以影响窝轮定价的因素有六个:
 
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/%E8%A1%8C%E4%BD%BF%E4%BB%B7/">
-                            <span class="chip bg-color">行使价</span>
-                        </a>
-                        
-                        <a href="/tags/%E7%AA%9D%E8%BD%AE/">
-                            <span class="chip bg-color">窝轮</span>
-                        </a>
-                        
-                        <a href="/tags/%E7%9B%B8%E5%85%B3%E8%B5%84%E4%BA%A7%E4%BB%B7%E6%A0%BC/">
-                            <span class="chip bg-color">相关资产价格</span>
-                        </a>
-                        
-                        <a href="/tags/%E5%BC%95%E4%BC%B8%E6%B3%A2%E5%B9%85/">
-                            <span class="chip bg-color">引伸波幅</span>
-                        </a>
-                        
-                        <a href="/tags/%E5%88%A9%E7%8E%87/">
-                            <span class="chip bg-color">利率</span>
-                        </a>
-                        
-                        <a href="/tags/%E8%82%A1%E6%81%AF/">
-                            <span class="chip bg-color">股息</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/919d49da.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/22.jpg" class="responsive-img" alt="「认股证篇」番外篇：时间值与溢价">
-                            
-                            <span class="card-title">「认股证篇」番外篇：时间值与溢价</span>
-                        </div>
-                    </a>
+相关资产价格。简单而言，相关资产价格上升，CALL轮价格上升，而PUT轮价格下跌，但为何有时会有机会在相关资产上升时，CALL轮价格不跟升呢。此时要留意窝轮之对冲值(DELTA)。对冲值是界定于0至1的数值，越接近零时表示窝轮对相关资产价格升跌越不敏感，一般会于相关资产价格远低于CALL轮的行使价时出现，特别是越短期的窝轮，因此，当发现窝轮的对冲值越小时，例如0.25或以下，便要注意相关资产的升跌未必会完全反映于轮价上。
 
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                「认股证篇」番外篇：时间值与溢价
+行使价。行使价越高，CALL轮之价格越细。但因为窝轮的行使价在上市时已定，所以只影响投资者在挑选时的选择。
+
+年期。年期越长，一般轮价亦越高，除非到期日跨越股息除净日。时间值(THETA)则是量度每日轮价的损耗指标，一般较长期的窝轮， ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/posts/919d49da.html" title="「认股证篇」番外篇：时间值与溢价"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」番外篇：时间值与溢价"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/919d49da.html" title="「认股证篇」番外篇：时间值与溢价">「认股证篇」番外篇：时间值与溢价</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-05T10:25:31.000Z" title="发表于 2020-12-05 18:25:31">2020-12-05</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">「认股证篇」番外篇：时间值与溢价
      
 
 
 很多投资者会问，究竟窝轮的溢价和时间值有什么分别，简单说，溢价就是你持有窝轮到期的持有成本，至于时间值就是每天的时间损耗。
-一般情况，如果你是短炒窝轮，持仓可能只是几天或者一个星期，那你可能
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-05
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/%E6%B8%AF%E8%82%A1/" class="post-category">
-                                    港股
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/%E7%AA%9D%E8%BD%AE/">
-                            <span class="chip bg-color">窝轮</span>
-                        </a>
-                        
-                        <a href="/tags/%E8%AE%A4%E8%B4%AD%E8%AF%81%E6%BA%A2%E4%BB%B7/">
-                            <span class="chip bg-color">认购证溢价</span>
-                        </a>
-                        
-                        <a href="/tags/%E8%AE%A4%E6%B2%BD%E8%AF%81%E6%BA%A2%E4%BB%B7/">
-                            <span class="chip bg-color">认沽证溢价</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/7fbe41c9.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/17.jpg" class="responsive-img" alt="「认股证篇」第十课：窝轮与牛熊证的比较">
-                            
-                            <span class="card-title">「认股证篇」第十课：窝轮与牛熊证的比较</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                「认股证篇」第十课：窝轮与牛熊证的比较
+一般情况，如果你是短炒窝轮，持仓可能只是几天或者一个星期，那你可能要多留意时间值。一般发行商的时间值会以每天作为计算单位，每天该窝轮理论应该要扣多少钱。假如你打算持货一个星期，那你的时间值损耗就是五天，所以在你买该窝轮之前,你要考虑到五天之后假如正股不升不跌你可能面对的时间值损失。无论认购证还是认沽证，愈接近到期日或者愈贴近行使价,时间值损耗都会愈大的。
+至于溢价，一般是反映你如果持仓到到期日，正股需要上升几多百分比，你才可以收回你现时买入窝轮的价钱，所以溢价的考虑只是假设你持仓到到期日才会有关。如果你是短线买卖，就是可能买了几日后就卖出去，那溢价的考虑因素就不太大，因为可能你买入的时候溢价是偏高，但是只要你卖出的时候溢价可能依然存在的话，那其实你只要考虑买入价和卖出价的价差而已。当然如果一不留神，买了窝轮之后被套牢，你就要留意溢价了，因为如果溢价太高，就是说正股可能要在到期日的时候升很多你才可以拿回本金，那这个时 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/7fbe41c9.html" title="「认股证篇」第十课：窝轮与牛熊证的比较"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第十课：窝轮与牛熊证的比较"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/7fbe41c9.html" title="「认股证篇」第十课：窝轮与牛熊证的比较">「认股证篇」第十课：窝轮与牛熊证的比较</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-05T08:23:16.000Z" title="发表于 2020-12-05 16:23:16">2020-12-05</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">「认股证篇」第十课：窝轮与牛熊证的比较
      
 
 
 来到这一刻，如果有看完我们法巴学堂，牛熊证跟窝轮的部分，应该都已经对两种产品，有一定的概念，那如果投资者对衍生工具有兴趣，应该选牛熊证、还是窝轮好呢？
-这个时候，我想大声的讲一句，「W
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-05
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/%E6%B8%AF%E8%82%A1/" class="post-category">
-                                    港股
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
+这个时候，我想大声的讲一句，「Why Not Both？」
+牛熊证跟窝轮，两种产品的特性不同，看看这个表。
 
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/%E7%AA%9D%E8%BD%AE/">
-                            <span class="chip bg-color">窝轮</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/90e1eb23.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/17.jpg" class="responsive-img" alt="「认股证篇」第九课：窝轮实战：锁利及对冲">
-                            
-                            <span class="card-title">「认股证篇」第九课：窝轮实战：锁利及对冲</span>
-                        </div>
-                    </a>
 
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                「认股证篇」第九课：窝轮实战：锁利及对冲
+
+
+牛熊证
+窝轮
+
+
+
+
+提供杠杆
+一样
+
+
+年期有限(设有到期日)
+一样
+
+
+有收回风险(设有收回价)
+没有收回风险
+
+
+引伸波幅并非影响价格的重要因素
+引伸波幅是影响价格的重要因素
+
+
+时间值损耗并非影响价格的重要因素
+时间值损耗是影响价格的重要因素
+
+
+
+
+牛熊证跟窝轮一样，都是具有杠杆效应的产品，而且都有年期，意思是只可以在指定时间内作交投。
+不同的地方是，牛熊证设有收回机制，当相关资产价格到达收回价时，就会立即停止买卖等结算，就算之后相关资产的价格有所变动，都已经没仇报；而引伸波幅同时间值并非影响价格的重要因素。
+窝轮呢？就是没有收回机制的，一只CALL轮就算因为正股急跌而导致轮价急跌，之后如果正股在期内回升，窝轮价格都有机会回升，投资者可能会觉得「有仇报」；但 ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/posts/90e1eb23.html" title="「认股证篇」第九课：窝轮实战：锁利及对冲"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第九课：窝轮实战：锁利及对冲"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/90e1eb23.html" title="「认股证篇」第九课：窝轮实战：锁利及对冲">「认股证篇」第九课：窝轮实战：锁利及对冲</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-05T07:56:34.000Z" title="发表于 2020-12-05 15:56:34">2020-12-05</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">「认股证篇」第九课：窝轮实战：锁利及对冲
      
 
 
 说了窝轮这么久，是不是想亲身参与一下？窝轮除了可以作为以小博大的投资工具，如果配合到正股买卖，还可以帮到大家配置资产组合，这一课会集中讲述两种策略，锁利跟对冲。
-锁利部署先说锁利，顾
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-05
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/%E6%B8%AF%E8%82%A1/" class="post-category">
-                                    港股
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
+锁利部署先说锁利，顾名思义，就是怎样锁定利润。有时候投资者买了一只正股，上升了，有钱赚，当然很开心啦，但什么时候放好呢？放了，会不会还能升更多？但不放，会不会之后又下跌呢？心是不是十五十六呢？这个时候，窝轮帮到你。
 
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/%E7%AA%9D%E8%BD%AE/">
-                            <span class="chip bg-color">窝轮</span>
-                        </a>
-                        
-                        <a href="/tags/%E9%94%81%E5%88%A9%E9%83%A8%E7%BD%B2/">
-                            <span class="chip bg-color">锁利部署</span>
-                        </a>
-                        
-                        <a href="/tags/%E5%AF%B9%E5%86%B2%E9%83%A8%E7%BD%B2/">
-                            <span class="chip bg-color">对冲部署</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/c52bf4a0.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/23.jpg" class="responsive-img" alt="「认股证篇」第八课：选择窝轮五步曲">
-                            
-                            <span class="card-title">「认股证篇」第八课：选择窝轮五步曲</span>
-                        </div>
-                    </a>
+方法很简单，当你买了那只股票升了之后，先行沽出部分正股，先锁定一部分利润，再购入与同一资产挂钩的窝轮，由于窝轮具有以小博大的特性，投资者可以用较少资金，部署同一数量的正股。
+如果之后正股继续上升，当然再开心一点，因为股票跟窝轮价格都能够上升；但如果下跌呢？由于窝轮的成本较低，而且亏损都只是投入的全部本金，而你之前已经锁定了部分利润，如果数算得好，潜在亏损将会减低！
+至于这条数是怎样计算呢？有个公式给大家参考：
 
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                「认股证篇」第八课：选择窝轮五步曲
+
+计划买入的窝轮数目=\dfrac{正股数量}{对冲值} \times 兑换比率
+投资者选了想用来做锁利部署的窝轮之后，用它的对冲值跟兌换比率，代 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/c52bf4a0.html" title="「认股证篇」第八课：选择窝轮五步曲"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第八课：选择窝轮五步曲"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/c52bf4a0.html" title="「认股证篇」第八课：选择窝轮五步曲">「认股证篇」第八课：选择窝轮五步曲</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-05T07:41:08.000Z" title="发表于 2020-12-05 15:41:08">2020-12-05</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">「认股证篇」第八课：选择窝轮五步曲
      
 
 
-我们一直在讲，说过窝轮的特性，影响价格的不同因素，还有敏感度、结算的方法等等，如果有投资者真是有兴趣想部署窝轮，其实应该怎做才好呢？为了方便大家，我们集诸家之大成，总结成一套心法，它就是窝
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-05
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/%E6%B8%AF%E8%82%A1/" class="post-category">
-                                    港股
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/%E7%AA%9D%E8%BD%AE/">
-                            <span class="chip bg-color">窝轮</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-              <!-- 隐藏某个文章 -->
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/posts/f17a6be6.html">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/9.jpg" class="responsive-img" alt="「认股证篇」第七课：窝轮到期的结算">
-                            
-                            <span class="card-title">「认股证篇」第七课：窝轮到期的结算</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                「认股证篇」第七课：窝轮到期的结算
+我们一直在讲，说过窝轮的特性，影响价格的不同因素，还有敏感度、结算的方法等等，如果有投资者真是有兴趣想部署窝轮，其实应该怎做才好呢？为了方便大家，我们集诸家之大成，总结成一套心法，它就是窝 轮 五 步 曲！
+第一步，建立看法！无论买CALL或买PUT，首先是你要先有看法，你是看好还是看空？这个是方向问题。
+如果是看好，你看好的，是指数、股票、外汇、商品还是其他的？这个是选择问题，你要对特定的资产，有一个明确的看法，先可以再寻找它的相关产品。
+第二步，选杠杆！窝轮有以小博大的特性，而一只窝轮的实际杠杆，就是倍大潜在回报或者亏损的指标。
+高的实际杠杆，看对方向当然好，但如果看错方向，亏损都会倍大；如果实际杠杆低一些，看对方向可以获得的回报，可能会少一些，但看错方向的亏损都会少一点。
+而实际杠杆的高低，又取决于行使价的高低，以及年期的长短，假设其他因素不变，较价外的产品，实际杠杆会高一些，到价或价外的会低一些，而年期方面，短身的产品，实际杠杆会高一些，而长身的就会低一些，所以投资者可以根据自己承担风险的能力、和部署的时间，去选适合自己的产品 ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/posts/f17a6be6.html" title="「认股证篇」第七课：窝轮到期的结算"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第七课：窝轮到期的结算"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/f17a6be6.html" title="「认股证篇」第七课：窝轮到期的结算">「认股证篇」第七课：窝轮到期的结算</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-05T07:28:02.000Z" title="发表于 2020-12-05 15:28:02">2020-12-05</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">「认股证篇」第七课：窝轮到期的结算
      
 &lt;/br&gt;上一节说完怎样计算窝轮跳动敏感度，今天继续计算，而算的是当一只窝轮到期时，应该怎样做结算。
-现金结算额虽然大部分投资者，买卖窝轮一般都是做短线部署，不过如果买了之后，真的
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-05
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/categories/%E6%B8%AF%E8%82%A1/" class="post-category">
-                                    港股
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
+现金结算额虽然大部分投资者，买卖窝轮一般都是做短线部署，不过如果买了之后，真的是一直持有至到期还未卖到，窝轮就会自动进行结算，价内窝轮将会收到现金结算额，而价外轮的现金结算额是0，大家还记不记得之前已经讲过，什么叫价外、到价同价内呀？
+窝轮结算方法先讲窝轮的结算方法，CALL轮跟PUT轮的公式，分别是：
+认购证：
 
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tags/%E7%AA%9D%E8%BD%AE/">
-                            <span class="chip bg-color">窝轮</span>
-                        </a>
-                        
-                        <a href="/tags/%E7%8E%B0%E9%87%91%E7%BB%93%E7%AE%97%E9%A2%9D/">
-                            <span class="chip bg-color">现金结算额</span>
-                        </a>
-                        
-                        <a href="/tags/%E7%BB%93%E7%AE%97%E6%96%B9%E6%B3%95/">
-                            <span class="chip bg-color">结算方法</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
+
+现金结算额 = \dfrac{结算价 - 行使价}{兑换比率}
+认沽证：
+
+
+现金结算额 = \dfrac{行使价-结算价}{兑换比率}
+公式很简单，但什么是结算价呢，股票轮和指数轮的结算价，得出的方法都有些不同。
+股票轮结算方法先说股票轮，结算价其实是指跟窝轮挂钩的相关资产，到期日之前五个交易日的平均收市价，记住是之前的五个交易日，到期日当天是不算的。
+这样说好像很容易，举个例子算一算才是最实际。
+有只汇丰认购证，行使价是50元，兑换比率是10兑1，今年3月30日到期。
+
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+ ...</div></div></div><nav id="pagination"><div class="pagination"><span class="page-number current">1</span><a class="page-number" href="/page/2/#content-inner">2</a><a class="page-number" href="/page/3/#content-inner">3</a><a class="extend next" rel="next" href="/page/2/#content-inner"><i class="fas fa-chevron-right fa-fw"></i></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="/my_imgs/avatar_bilibili.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">Brandon</div><div class="author-info__description">To learn, to share, to play</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">31</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">49</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div><a id="card-info-btn"><i class="fas fa-bookmark"></i><span>Ctrl+D加入书签</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="mailto:fanbd7@163.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="tencent://AddContact/?fromId=45&amp;fromSubId=1&amp;subcmd=all&amp;uin=1071989685" target="_blank" title="QQ"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/joinme.jpg" target="_blank" title="WeChat"><i class="fab fa-weixin"></i></a><a class="social-icon" href="https://space.bilibili.com/29824856" target="_blank" title="小B站"><i class="fab fa-youtube"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content"><b><font size=3 color=red>记录个人看过的，感兴趣的东西，不做推荐，纯粹是爱好</font></b>  <img src='https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/gonggao.gif' width="100%" height="100%"></div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/posts/1afb42b6.html" title="三种入金方式视频流程"><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="三种入金方式视频流程"/></a><div class="content"><a class="title" href="/posts/1afb42b6.html" title="三种入金方式视频流程">三种入金方式视频流程</a><time datetime="2022-04-24T13:39:33.000Z" title="发表于 2022-04-24 21:39:33">2022-04-24</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/99d1273b.html" title="为什么投资港股美股"><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="为什么投资港股美股"/></a><div class="content"><a class="title" href="/posts/99d1273b.html" title="为什么投资港股美股">为什么投资港股美股</a><time datetime="2022-04-23T14:20:57.000Z" title="发表于 2022-04-23 22:20:57">2022-04-23</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/1aa871c7.html" title="大陆卡购汇入金操作方法"><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="大陆卡购汇入金操作方法"/></a><div class="content"><a class="title" href="/posts/1aa871c7.html" title="大陆卡购汇入金操作方法">大陆卡购汇入金操作方法</a><time datetime="2021-06-05T16:24:28.000Z" title="发表于 2021-06-06 00:24:28">2021-06-06</time></div></div></div></div><div class="card-widget card-categories"><div class="item-headline">
+            <i class="fas fa-folder-open"></i>
+            <span>分类</span>
+            
             </div>
-              <!-- 隐藏某个文章 -->
-            
-        </div>
-    </article>
-
-</main>
-
-
-<div class="container paging">
-    <div class="row">
-        <div class="col s6 m4 l4">
-            
-            <a class="left btn-floating btn-large disabled">
-                <i class="fas fa-angle-left"></i>
-            </a>
-            
-        </div>
-        <div class="page-info col m4 l4 hide-on-small-only">
-            <div class="center-align b-text-gray">1 / 3</div>
-        </div>
-        <div class="col s6 m4 l4">
-            
-            <a href="/page/2/"
-               class="right btn-floating btn-large waves-effect waves-light bg-color">
-                <i class="fas fa-angle-right"></i>
-            </a>
-            
-        </div>
-    </div>
-</div>
-
-
-
-
-    <footer class="page-footer bg-color">
-    
-        <link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
-<style>
-    .aplayer .aplayer-lrc p {
-        
-        display: none;
-        
-        font-size: 12px;
-        font-weight: 700;
-        line-height: 16px !important;
-    }
-
-    .aplayer .aplayer-lrc p.aplayer-lrc-current {
-        
-        display: none;
-        
-        font-size: 15px;
-        color: #42b983;
-    }
-
-    
-    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
-        left: -66px !important;
-    }
-
-    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
-        left: 0px !important;
-    }
-
-    
-</style>
-<div class="">
-    
-    <div class="row">
-        <meting-js class="col l8 offset-l2 m10 offset-m1 s12"
-                   server="netease"
-                   type="playlist"
-                   id="5336109995"
-                   fixed='true'
-                   autoplay='false'
-                   theme='#42b983'
-                   loop='all'
-                   order='random'
-                   preload='auto'
-                   volume='0.7'
-                   list-folded='true'
-        >
-        </meting-js>
-    </div>
-</div>
-
-<script src="/libs/aplayer/APlayer.min.js"></script>
-<script src="/libs/aplayer/Meting.min.js"></script>
-
-    
-
-    <div class="container row center-align"
-         style="margin-bottom: 15px !important;">
-        <div class="col s12 m8 l8 copy-right">
-            Copyright&nbsp;&copy;
-            
-                <span id="year">2020-2022</span>
-            
-            <a href="/about" target="_blank">Brandon</a>
-            |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
-            |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
-            <br>
-            
-                &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">36.9k</span>
-            
-            
-            
-                
-            
-            
-                <span id="busuanzi_container_site_pv" ></span>
-                &nbsp;|&nbsp;<i class="far fa-eye"></i>&nbsp;总访问量:&nbsp;
-                    <span id="busuanzi_value_site_pv" class="white-color"></span>
-            
-            
-            
-                <span id="busuanzi_container_site_uv" style="display:none"></span>
-                &nbsp;|&nbsp;<i class="fas fa-users"></i>&nbsp;总访问人数:&nbsp;
-                    <span id="busuanzi_value_site_uv" class="white-color"></span>
-            
-            
-            <br>
-
-            <!-- 运行天数提醒. -->
-            
-                <span id="sitetime"> Loading ...</span>
-                <script>
-                    var calcSiteTime = function () {
-                        var seconds = 1000;
-                        var minutes = seconds * 60;
-                        var hours = minutes * 60;
-                        var days = hours * 24;
-                        var years = days * 365;
-                        var today = new Date();
-                        var startYear = "2020";
-                        var startMonth = "10";
-                        var startDate = "28";
-                        var startHour = "1";
-                        var startMinute = "1";
-                        var startSecond = "1";
-                        var todayYear = today.getFullYear();
-                        var todayMonth = today.getMonth() + 1;
-                        var todayDate = today.getDate();
-                        var todayHour = today.getHours();
-                        var todayMinute = today.getMinutes();
-                        var todaySecond = today.getSeconds();
-                        var t1 = Date.UTC(startYear, startMonth, startDate, startHour, startMinute, startSecond);
-                        var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
-                        var diff = t2 - t1;
-                        var diffYears = Math.floor(diff / years);
-                        var diffDays = Math.floor((diff / days) - diffYears * 365);
-
-                        // 区分是否有年份.
-                        var language = 'zh-CN';
-                        if (startYear === String(todayYear)) {
-                            document.getElementById("year").innerHTML = todayYear;
-                            var daysTip = 'This site has been running for ' + diffDays + ' days';
-                            if (language === 'zh-CN') {
-                                daysTip = '本站已运行 ' + diffDays + ' 天';
-                            } else if (language === 'zh-HK') {
-                                daysTip = '本站已運行 ' + diffDays + ' 天';
-                            }
-                            document.getElementById("sitetime").innerHTML = daysTip;
-                        } else {
-                            document.getElementById("year").innerHTML = startYear + " - " + todayYear;
-                            var yearsAndDaysTip = 'This site has been running for ' + diffYears + ' years and '
-                                + diffDays + ' days';
-                            if (language === 'zh-CN') {
-                                yearsAndDaysTip = '本站已运行 ' + diffYears + ' 年 ' + diffDays + ' 天';
-                            } else if (language === 'zh-HK') {
-                                yearsAndDaysTip = '本站已運行 ' + diffYears + ' 年 ' + diffDays + ' 天';
-                            }
-                            document.getElementById("sitetime").innerHTML = yearsAndDaysTip;
-                        }
-                    }
-
-                    calcSiteTime();
-                </script>
-            
-            <br>
-            
-        </div>
-        <div class="col s12 m4 l4 social-link social-statis">
-    <a href="https://github.com/blinkfox" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
-        <i class="fab fa-github"></i>
-    </a>
-
-
-
-    <a href="mailto:fanbd7@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
-        <i class="fas fa-envelope-open"></i>
-    </a>
-
-
-
-
-
-
-
-    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1071989685" class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1071989685" data-position="top" data-delay="50">
-        <i class="fab fa-qq"></i>
-    </a>
-
-
-
-
-
-
-
-    <a href="/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
-        <i class="fas fa-rss"></i>
-    </a>
-
-</div>
-    </div>
-</footer>
-
-<div class="progress-bar"></div>
-
-<script>
-    $(document).ready(function () {
-
-        var int = setInterval(fixCount, 50);  // 50ms周期检测函数
-        var pvcountOffset = 3256;  // 初始化首次数据
-        var uvcountOffset = 865;
-
-        function fixCount() {
-            if (document.getElementById("busuanzi_container_site_pv").style.display != "none") {
-                $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + pvcountOffset);
-                clearInterval(int);
-            }
-            if ($("#busuanzi_container_site_pv").css("display") != "none") {
-                $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + uvcountOffset); // 加上初始数据 
-                clearInterval(int); // 停止检测
-            }
-        }
-    });
-</script>
-
-
-    <!-- 搜索遮罩框 -->
-<div id="searchModal" class="modal">
-    <div class="modal-content">
-        <div class="search-header">
-            <span class="title"><i class="fas fa-search"></i>&nbsp;&nbsp;搜索</span>
-            <input type="search" id="searchInput" name="s" placeholder="请输入搜索的关键字"
-                   class="search-input">
-        </div>
-        <div id="searchResult"></div>
-    </div>
-</div>
-
-<script type="text/javascript">
-$(function () {
-    var searchFunc = function (path, search_id, content_id) {
-        'use strict';
-        $.ajax({
-            url: path,
-            dataType: "xml",
-            success: function (xmlResponse) {
-                // get the contents from search data
-                var datas = $("entry", xmlResponse).map(function () {
-                    return {
-                        title: $("title", this).text(),
-                        content: $("content", this).text(),
-                        url: $("url", this).text()
-                    };
-                }).get();
-                var $input = document.getElementById(search_id);
-                var $resultContent = document.getElementById(content_id);
-                $input.addEventListener('input', function () {
-                    var str = '<ul class=\"search-result-list\">';
-                    var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
-                    $resultContent.innerHTML = "";
-                    if (this.value.trim().length <= 0) {
-                        return;
-                    }
-                    // perform local searching
-                    datas.forEach(function (data) {
-                        var isMatch = true;
-                        var data_title = data.title.trim().toLowerCase();
-                        var data_content = data.content.trim().replace(/<[^>]+>/g, "").toLowerCase();
-                        var data_url = data.url;
-                        data_url = data_url.indexOf('/') === 0 ? data.url : '/' + data_url;
-                        var index_title = -1;
-                        var index_content = -1;
-                        var first_occur = -1;
-                        // only match artiles with not empty titles and contents
-                        if (data_title !== '' && data_content !== '') {
-                            keywords.forEach(function (keyword, i) {
-                                index_title = data_title.indexOf(keyword);
-                                index_content = data_content.indexOf(keyword);
-                                if (index_title < 0 && index_content < 0) {
-                                    isMatch = false;
-                                } else {
-                                    if (index_content < 0) {
-                                        index_content = 0;
-                                    }
-                                    if (i === 0) {
-                                        first_occur = index_content;
-                                    }
-                                }
-                            });
-                        }
-                        // show search results
-                        if (isMatch) {
-                            str += "<li><a href='" + data_url + "' class='search-result-title'>" + data_title + "</a>";
-                            var content = data.content.trim().replace(/<[^>]+>/g, "");
-                            if (first_occur >= 0) {
-                                // cut out 100 characters
-                                var start = first_occur - 20;
-                                var end = first_occur + 80;
-                                if (start < 0) {
-                                    start = 0;
-                                }
-                                if (start === 0) {
-                                    end = 100;
-                                }
-                                if (end > content.length) {
-                                    end = content.length;
-                                }
-                                var match_content = content.substr(start, end);
-                                // highlight all keywords
-                                keywords.forEach(function (keyword) {
-                                    var regS = new RegExp(keyword, "gi");
-                                    match_content = match_content.replace(regS, "<em class=\"search-keyword\">" + keyword + "</em>");
-                                });
-
-                                str += "<p class=\"search-result\">" + match_content + "...</p>"
-                            }
-                            str += "</li>";
-                        }
-                    });
-                    str += "</ul>";
-                    $resultContent.innerHTML = str;
-                });
-            }
-        });
-    };
-
-    searchFunc('/search.xml', 'searchInput', 'searchResult');
-});
-</script>
-
-    <!-- 白天和黑夜主题 -->
-<div class="stars-con">
-    <div id="stars"></div>
-    <div id="stars2"></div>
-    <div id="stars3"></div>  
-</div>
-
-<script>
-    function switchNightMode() {
-        $('<div class="Cuteen_DarkSky"><div class="Cuteen_DarkPlanet"></div></div>').appendTo($('body')),
-        setTimeout(function () {
-            $('body').hasClass('DarkMode') 
-            ? ($('body').removeClass('DarkMode'), localStorage.setItem('isDark', '0'), $('#sum-moon-icon').removeClass("fa-sun").addClass('fa-moon')) 
-            : ($('body').addClass('DarkMode'), localStorage.setItem('isDark', '1'), $('#sum-moon-icon').addClass("fa-sun").removeClass('fa-moon')),
-            
-            setTimeout(function () {
-            $('.Cuteen_DarkSky').fadeOut(1e3, function () {
-                $(this).remove()
-            })
-            }, 2e3)
-        })
-    }
-</script>
-
-    <!-- 回到顶部按钮 -->
-<div id="backTop" class="top-scroll">
-    <a class="btn-floating btn-large waves-effect waves-light" href="#!">
-        <i class="fas fa-arrow-up"></i>
-    </a>
-</div>
-
-
-    <script src="/libs/materialize/materialize.min.js"></script>
-    <script src="/libs/masonry/masonry.pkgd.min.js"></script>
-    <script src="/libs/aos/aos.js"></script>
-    <script src="/libs/scrollprogress/scrollProgress.min.js"></script>
-    <script src="/libs/lightGallery/js/lightgallery-all.min.js"></script>
-    <script src="/js/matery.js"></script>
-
-    
-
-    
-
-    <!-- 雪花特效 -->
-    
-
-    <!-- 鼠标星星特效 -->
-    
-
-     
-        <script src="https://ssl.captcha.qq.com/TCaptcha.js"></script>
-        <script src="/libs/others/TencentCaptcha.js"></script>
-        <button id="TencentCaptcha" data-appid="xxxxxxxxxx" data-cbfn="callback" type="button" hidden></button>
-    
-
-    <!-- Baidu Analytics -->
-
-    <!-- Baidu Push -->
-
-<script>
-    (function () {
-        var bp = document.createElement('script');
-        var curProtocol = window.location.protocol.split(':')[0];
-        if (curProtocol === 'https') {
-            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
-        } else {
-            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-        }
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(bp, s);
-    })();
-</script>
-
-    
-    <script src="/libs/others/clicklove.js" async="async"></script>
-    
-    
-    <script async src="/libs/others/busuanzi.pure.mini.js"></script>
-    
-
-    
-
-    
-
-    <!-- 标签栏动态文字-->
-    <script type="text/javascript">
-        var OriginTitile = document.title,
-            st;
-        document.addEventListener("visibilitychange", function () {
-            document.hidden ? (document.title = "看不见我🙈~看不见我🙈~", clearTimeout(st)) : (document.title =
-                "(๑•̀ㅂ•́) ✧被发现了～", st = setTimeout(function () {
-                    document.title = OriginTitile
-                }, 3e3))
-        })
-    </script>
-    
-
-    <!--腾讯兔小巢-->
-    
-    
-
-    
-
-    
-    <script type="text/javascript" src="/libs/background/ribbon-dynamic.js" async="async"></script>
-    
-
-    
-    <script src="/libs/instantpage/instantpage.js" type="module"></script>
-    
-
-<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":true},"log":false});</script></body>
-
-</html>
+            <ul class="card-category-list" id="aside-cat-list">
+            <li class="card-category-list-item "><a class="card-category-list-link" href="/categories/%E5%AE%9E%E4%BA%8B%E6%9D%82%E8%B0%88/"><span class="card-category-list-name">实事杂谈</span><span class="card-category-list-count">1</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/%E6%B8%AF%E7%BE%8E%E8%82%A1/"><span class="card-category-list-name">港美股</span><span class="card-category-list-count">2</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/%E6%B8%AF%E8%82%A1/"><span class="card-category-list-name">港股</span><span class="card-category-list-count">24</span></a></li><li class="card-category-list-item "><a class="card-category-list-link" href="/categories/%E7%A7%91%E6%99%AE/"><span class="card-category-list-name">科普</span><span class="card-category-list-count">1</span></a></li>
+            </ul></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/tags/IPO/" style="font-size: 1.1em; color: #999">IPO</a> <a href="/tags/%E4%BB%B7%E5%86%85/" style="font-size: 1.1em; color: #999">价内</a> <a href="/tags/%E4%BB%B7%E5%A4%96/" style="font-size: 1.1em; color: #999">价外</a> <a href="/tags/%E5%85%91%E6%8D%A2%E6%AF%94%E7%8E%87/" style="font-size: 1.1em; color: #999">兑换比率</a> <a href="/tags/%E5%85%A5%E9%87%91/" style="font-size: 1.1em; color: #999">入金</a> <a href="/tags/%E5%86%85%E5%9C%A8%E5%80%BC/" style="font-size: 1.5em; color: #99a9bf">内在值</a> <a href="/tags/%E5%88%A9%E7%8E%87/" style="font-size: 1.5em; color: #99a9bf">利率</a> <a href="/tags/%E5%88%B0%E4%BB%B7/" style="font-size: 1.1em; color: #999">到价</a> <a href="/tags/%E5%88%B0%E6%9C%9F%E6%97%A5/" style="font-size: 1.1em; color: #999">到期日</a> <a href="/tags/%E5%89%A9%E4%BD%99%E4%BB%B7%E6%A0%BC/" style="font-size: 1.5em; color: #99a9bf">剩余价格</a></div></div><div class="card-widget card-archives"><div class="item-headline"><i class="fas fa-archive"></i><span>归档</span></div><ul class="card-archive-list"><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2022/04/"><span class="card-archive-list-date">四月 2022</span><span class="card-archive-list-count">2</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2021/06/"><span class="card-archive-list-date">六月 2021</span><span class="card-archive-list-count">1</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2021/01/"><span class="card-archive-list-date">一月 2021</span><span class="card-archive-list-count">1</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2020/12/"><span class="card-archive-list-date">十二月 2020</span><span class="card-archive-list-count">12</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2020/11/"><span class="card-archive-list-date">十一月 2020</span><span class="card-archive-list-count">9</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2020/10/"><span class="card-archive-list-date">十月 2020</span><span class="card-archive-list-count">6</span></a></li></ul></div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站资讯</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">31</div></div><div class="webinfo-item"><div class="item-name">本站总字数 :</div><div class="item-count">36.9k</div></div><div class="webinfo-item"><div class="item-name">本站访客数 :</div><div class="item-count" id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">本站总访问量 :</div><div class="item-count" id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2022-11-28T16:58:52.551Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="footer_custom_text">你来啦，等你好久啦 ～..～</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.min.js"></script><div class="js-pjax"><script>function subtitleType () {
+  if (true) { 
+    window.typed = new Typed("#subtitle", {
+      strings: ["生命中最美的遇见是成就彼此的成长，感谢与你们的遇见","做个好人  有用的人","天行健 君子以自强不息 | 地势乾 君子以厚德载物"],
+      startDelay: 300,
+      typeSpeed: 150,
+      loop: true,
+      backSpeed: 50
+    })
+  } else {
+    document.getElementById("subtitle").innerHTML = '生命中最美的遇见是成就彼此的成长，感谢与你们的遇见'
+  }
+}
+
+if (true) {
+  if (typeof Typed === 'function') {
+    subtitleType()
+  } else {
+    getScript('https://cdn.jsdelivr.net/npm/typed.js/lib/typed.min.js').then(subtitleType)
+  }
+} else {
+  subtitleType()
+}</script></div><script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script><div class="aplayer no-destroy" data-id="5336109995" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="false" data-volume="0.3" data-lrcType="1" muted></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":true},"log":false});</script></body></html>
