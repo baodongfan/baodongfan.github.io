@@ -2,5 +2,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mudong.gold/sitemap.xml
-Sitemap: https://mudong.gold/baidusitemap.xml
+Sitemap: https://blog.mengjiao.vip/sitemap.xml
+Sitemap: https://blog.mengjiao.vip/baidusitemap.xml
