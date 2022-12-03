@@ -50,7 +50,7 @@
   isHome: true,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2022-12-03 11:43:42'
+  postUpdate: '2022-12-03 12:00:59'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -144,17 +144,20 @@
   white-space: pre;}#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap > .tags > .article-meta__separator{display:none}</style>
 <!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.2"></head><body><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="/my_imgs/avatar_bilibili.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">32</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">51</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="page" id="body-wrap"><header class="full_page" id="page-header" style="background: none"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">木东の世界</a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="site-info"><h1 id="site-title">木东の世界</h1><div id="site-subtitle"><span id="subtitle"></span></div><div id="site_social_icons"><a class="social-icon" href="mailto:fanbd7@163.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="tencent://AddContact/?fromId=45&amp;fromSubId=1&amp;subcmd=all&amp;uin=1071989685" target="_blank" title="QQ"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/joinme.jpg" target="_blank" title="WeChat"><i class="fab fa-weixin"></i></a><a class="social-icon" href="https://space.bilibili.com/29824856" target="_blank" title="小B站"><i class="fab fa-youtube"></i></a></div></div><div id="scroll-down"><i class="fas fa-angle-down scroll-down-effects"></i></div></header><main class="layout" id="content-inner"><div class="recent-posts" id="recent-posts"><div class="recent-post-item"><div class="post_cover left"><a href="/posts/f17a6be6.html" title="「认股证篇」第七课：窝轮到期的结算"><img class="post_bg" src="/my_imgs/post_img/14.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第七课：窝轮到期的结算"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/f17a6be6.html" title="「认股证篇」第七课：窝轮到期的结算">「认股证篇」第七课：窝轮到期的结算</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-05T07:28:02.000Z" title="发表于 2020-12-05 15:28:02">2020-12-05</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">「认股证篇」第七课：窝轮到期的结算
      
-&lt;/br&gt;上一节说完怎样计算窝轮跳动敏感度，今天继续计算，而算的是当一只窝轮到期时，应该怎样做结算。
+
+
+上一节说完怎样计算窝轮跳动敏感度，今天继续计算，而算的是当一只`窝轮到期时，应该怎样做结算`。
+
 现金结算额虽然大部分投资者，买卖窝轮一般都是做短线部署，不过如果买了之后，真的是一直持有至到期还未卖到，窝轮就会自动进行结算，价内窝轮将会收到现金结算额，而价外轮的现金结算额是0，大家还记不记得之前已经讲过，什么叫价外、到价同价内呀？
 窝轮结算方法先讲窝轮的结算方法，CALL轮跟PUT轮的公式，分别是：
 认购证：
 
+$$现金结算额 &#x3D; \dfrac{结算价 - 行使价}{兑换比率}$$
 
-现金结算额 = \dfrac{结算价 - 行使价}{兑换比率}
 认沽证：
 
+$$现金结算额 &#x3D; \dfrac{行使价-结算价}{兑换比率}$$
 
-现金结算额 = \dfrac{行使价-结算价}{兑换比率}
 公式很简单，但什么是结算价呢，股票轮和指数轮的结算价，得出的方法都有些不同。
 股票轮结算方法先说股票轮，结算价其实是指跟窝轮挂钩的相关资产，到期日之前五个交易日的平均收市价，记住是之前的五个交易日，到期日当天是不算的。
 这样说好像很容易，举个例子算一算才是最实际。
@@ -162,26 +165,18 @@
 
 
 
-
 日
 一
-二
-三
-四
-五
-六
-
-
- ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/posts/e5c7de02.html" title="「认股证篇」第六课：窝轮敏感度的计算"><img class="post_bg" src="/my_imgs/post_img/13.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第六课：窝轮敏感度的计算"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/e5c7de02.html" title="「认股证篇」第六课：窝轮敏感度的计算">「认股证篇」第六课：窝轮敏感度的计算</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-05T06:11:46.000Z" title="发表于 2020-12-05 14:11:46">2020-12-05</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">「认股证篇」第六课：窝轮敏感度的计算
+二 ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/posts/e5c7de02.html" title="「认股证篇」第六课：窝轮敏感度的计算"><img class="post_bg" src="/my_imgs/post_img/13.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第六课：窝轮敏感度的计算"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/e5c7de02.html" title="「认股证篇」第六课：窝轮敏感度的计算">「认股证篇」第六课：窝轮敏感度的计算</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-05T06:11:46.000Z" title="发表于 2020-12-05 14:11:46">2020-12-05</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">「认股证篇」第六课：窝轮敏感度的计算
      
-窝轮敏感度的计算说了这么多影响窝轮价格的因素，好像是引伸波幅、时间值、街货等等，是时候要跟大家算算数，究竟一只窝轮是怎样跳动呢？温故知新，大家还记得这个表吗？
-最低买卖价位
 
+窝轮敏感度的计算说了这么多影响窝轮价格的因素，好像是`引伸波幅`、`时间值`、`街货`等等，是时候要跟大家算算数，究竟一只窝轮是怎样跳动呢？温故知新，大家还记得这个表吗？
+
+最低买卖价位
 
 
 证券价格(元)
 最低买卖价位(元)
-
 
 
 
@@ -229,13 +224,10 @@
 5
 
 
-
-
 它是不同股份，在不同价格范围内的最低买卖价格，这个概念在我们介绍牛熊证跳动敏感度的时候曾经说过，在窝轮上，一样可以大派用场，因为窝轮的敏感度计算，一样包括了它。
 股票轮跳动敏感度一起看一看股票窝轮敏感度，意思是正股跳动1格，窝轮跳动多少的计算公式
 
-
-股份窝轮敏感度 = \dfrac{正股最低买卖价位\times对冲值}{兑换比率\times窝轮最低买卖 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/d859db9c.html" title="「认股证篇」第五课：兑换比率及街货量"><img class="post_bg" src="/my_imgs/post_img/18.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第五课：兑换比率及街货量"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/d859db9c.html" title="「认股证篇」第五课：兑换比率及街货量">「认股证篇」第五课：兑换比率及街货量</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-03T16:31:36.000Z" title="发表于 2020-12-04 00:31:36">2020-12-04</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">影响窝轮价格的因素有很多，今一节我们集中讨论兑换比率跟街货量。
+$$股份窝轮敏感度 &#x3D; \dfrac{正股最低买卖价位\times对冲值}{兑换比率\t ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/d859db9c.html" title="「认股证篇」第五课：兑换比率及街货量"><img class="post_bg" src="/my_imgs/post_img/18.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第五课：兑换比率及街货量"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/d859db9c.html" title="「认股证篇」第五课：兑换比率及街货量">「认股证篇」第五课：兑换比率及街货量</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-03T16:31:36.000Z" title="发表于 2020-12-04 00:31:36">2020-12-04</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">影响窝轮价格的因素有很多，今一节我们集中讨论兑换比率跟街货量。
 
      
 
@@ -255,9 +247,11 @@
 什么意思呢？
 
 我们举个例子，重磅股汇丰(0005)，经常让人叫做「大笨象」，就是因为它变化较少，除非在个别大市波动的日子，否则通常都是变一点点，像只「大笨象」停下不动。由于市场通常都觉得，汇丰股价的波动性有限，所以汇丰窝轮的引伸波幅，通常都比较平穏。
+
+
 我们再举另外一个例子，这次说到赌业股银河娱乐(0027)，股价在2014年的高位，是84.5元，但是到2015年9月，低位不够20元(19.5元)，还不到两年，高低差距已经是3倍几！这让市场觉得，这只股份的价格波动性会比较高，发行商不敢掉以轻心，所以银河娱乐窝轮的引伸波幅，通常都会比较高。
 
-资产波动性与价格还是不明白？大家可以回想一下我们去旅游购买保险的情况，如果去日本、新加坡这些治安比较好的国家，大家购买旅游保险的费用，是不是都比较便宜呀 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/22265eb9.html" title="「认股证篇」第三课：影响窝轮价格的市场因素"><img class="post_bg" src="/my_imgs/post_img/15.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第三课：影响窝轮价格的市场因素"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/22265eb9.html" title="「认股证篇」第三课：影响窝轮价格的市场因素">「认股证篇」第三课：影响窝轮价格的市场因素</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-03T16:11:14.000Z" title="发表于 2020-12-04 00:11:14">2020-12-04</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">上一节跟大家讲过，窝轮的价值，是由内在值和时间值所组成的，不知道大家还记不记得呢？
+资产波动性与价格还是不明白？大家可以回想一下我们去旅游购买保险的情况，如果去日本、新加坡这些治安比较好的国家，大家购买旅游保险的费用，是不是都比较便 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/22265eb9.html" title="「认股证篇」第三课：影响窝轮价格的市场因素"><img class="post_bg" src="/my_imgs/post_img/15.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「认股证篇」第三课：影响窝轮价格的市场因素"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/22265eb9.html" title="「认股证篇」第三课：影响窝轮价格的市场因素">「认股证篇」第三课：影响窝轮价格的市场因素</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-12-03T16:11:14.000Z" title="发表于 2020-12-04 00:11:14">2020-12-04</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">上一节跟大家讲过，窝轮的价值，是由内在值和时间值所组成的，不知道大家还记不记得呢？
 
      
 
@@ -286,13 +280,11 @@ Put轮的概念刚好相反，当行使价高过资产现价时，窝轮属于�
 窝轮当初出现的时候，是由上市公司发行的，用作集资，或者回馈雇员及股东，但后来发展下去，就多了一种由投资银行发行的衍生窝轮。衍生窝轮是一种在交易所买卖，让投资者部署某一种资产，还有可以向不同方向走的产品。既然窝轮是买入、或卖出相关资产的权利，基本来说，会有认购证和认沽证之分。
 认购证及认沽证认购证，顾名思义，是指让持有者拥有购入相关资产的权利，所以当相关资产的价格上升的时候，认购证价值理论上也会相对上升，属于看好的投资工具，香港散户会叫它为「Call 轮」。
 与认购证相反，认沽证就是让持有者拥有 ...</div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/posts/476f59e6.html" title="窝轮和牛熊证的比较及风险"><img class="post_bg" src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="窝轮和牛熊证的比较及风险"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/476f59e6.html" title="窝轮和牛熊证的比较及风险">窝轮和牛熊证的比较及风险</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-11-27T12:48:38.000Z" title="发表于 2020-11-27 20:48:38">2020-11-27</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">窝轮和牛熊证的比较及风险窝轮和牛熊证同属具有杠杆效应的衍生工具，但投资者亦需留意两者的产品结构有不同之处，所以投资者应了解当中的异同，并因应个人风险取向及目标而选择利用窝轮或牛熊证作投资部署。
-窝轮与牛熊证的共通/类近之处
-
+窝轮与牛熊证的共通&#x2F;类近之处
 
 
 
 窝轮及牛熊证
-
 
 
 
@@ -316,16 +308,12 @@ Put轮的概念刚好相反，当行使价高过资产现价时，窝轮属于�
 窝轮和牛熊证发行商必须为旗下产品委任流通量提供者(又称「庄家」)，为产品作出报价和提供流通量。 庄家提供流通量有两种方式，分别是「回应报价」及「主动报价」。详情请参阅以下栏目注(二)说明。
 
 
-
-
 窝轮与牛熊证的不同之处
-
 
 
 
 窝轮
 牛熊证
-
 
 
 
@@ -339,7 +327,7 @@ Put轮的概念刚好相反，当行使价高过资产现价时，窝轮属于�
 内在值 + 财务费用
 
 
-引伸波 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/d46000ab.html" title="蚂蚁集团推迟上市的原因解读"><img class="post_bg" src="/my_imgs/post_img/1.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="蚂蚁集团推迟上市的原因解读"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/d46000ab.html" title="蚂蚁集团推迟上市的原因解读">蚂蚁集团推迟上市的原因解读</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-11-16T05:54:39.000Z" title="发表于 2020-11-16 13:54:39">2020-11-16</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%AE%9E%E4%BA%8B%E6%9D%82%E8%B0%88/">实事杂谈</a></span></div><div class="content">珍大户深度解读蚂蚁金服推迟上市原因
+引伸波幅 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/posts/d46000ab.html" title="蚂蚁集团推迟上市的原因解读"><img class="post_bg" src="/my_imgs/post_img/1.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="蚂蚁集团推迟上市的原因解读"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/d46000ab.html" title="蚂蚁集团推迟上市的原因解读">蚂蚁集团推迟上市的原因解读</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-11-16T05:54:39.000Z" title="发表于 2020-11-16 13:54:39">2020-11-16</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E5%AE%9E%E4%BA%8B%E6%9D%82%E8%B0%88/">实事杂谈</a></span></div><div class="content">珍大户深度解读蚂蚁金服推迟上市原因
  马云第一炮轰向了监管机构太严格 马云第二炮轰向了金融机构太保守 马云第三跑轰向了银行太落后
 
 起因是视频主看到有100W人给马云炮轰监管的视频点赞，认为是“被人卖了还在帮人数钱”，一起来看下作者的原因：
@@ -366,13 +354,11 @@ Put轮的概念刚好相反，当行使价高过资产现价时，窝轮属于�
 
 
 
-
 星期一 7月28日
 星期二 7月29日
 星期三 7月30日
 星期四 7月31日
 星期五 8月1日
-
 
 
 
@@ -392,13 +378,14 @@ Put轮的概念刚好相反，当行使价高过资产现价时，窝轮属于�
 
 
 
-
 最后交易日到期日计价日
 持货至到期日若牛熊证在到期前没有被收回，投资者亦持货至到期日，则可按以下公式计算牛熊的结算价。
 
+$$牛证&#x3D;\dfrac{结算价-行使价}{兑换比率}$$
 
-牛证=\dfrac{结算价-行使价}{兑换比率}
-熊证=\dfrac{行使价-结算价}{兑换比率}
+
+$$熊证&#x3D;\dfrac{行使价-结算价}{兑换比率}$$
+
 结算价：股票结算价为相关资产于计价日的收市价#结算日当天，由上午9:35分起，至下午3:55分之间每5分钟的指数及当日指数收市价之平均水平作计价*假设股票牛熊证的兌换比率为10兑1，此兌换比率数值为10。
 </div></div></div><div class="recent-post-item"><div class="post_cover right"><a href="/posts/bba7c352.html" title="「牛熊证篇」第八课：收回后的剩余价值计算"><img class="post_bg" src="/my_imgs/post_img/1.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="「牛熊证篇」第八课：收回后的剩余价值计算"></a></div><div class="recent-post-info"><a class="article-title" href="/posts/bba7c352.html" title="「牛熊证篇」第八课：收回后的剩余价值计算">「牛熊证篇」第八课：收回后的剩余价值计算</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time datetime="2020-11-10T10:35:56.000Z" title="发表于 2020-11-10 18:35:56">2020-11-10</time></span><span class="article-meta"><span class="article-meta-separator">|</span><i class="fas fa-inbox"></i><a class="article-meta__categories" href="/categories/%E6%B8%AF%E8%82%A1/">港股</a></span></div><div class="content">牛熊证具有强制收回机制，风险相对窝轮或许较大，为什么投资者愿意投资呢？风险越大，回报越高，投资者愿意投资牛熊证，只因在没有引伸波幅的考虑下，可享有更高的实际杠杆，更易「四两拨千斤」。
 
@@ -409,10 +396,8 @@ Put轮的概念刚好相反，当行使价高过资产现价时，窝轮属于�
 
 
 
-
 上午交易时段被收回
 下午交易时段被收
-
 
 
 
@@ -426,11 +411,8 @@ Put轮的概念刚好相反，当行使价高过资产现价时，窝轮属于�
 (行使价 – 收回后直至下一交易日中午收市相关资产曾触及的最高价) ÷ 换股比率
 
 
-
-
 为让读者更具体地了解，以下列举R类牛熊证作例子。
 例子一：指数牛证
-
 
 
 
@@ -438,7 +420,6 @@ Put轮的概念刚好相反，当行使价高过资产现价时，窝轮属于�
 A
 财务费用
 1%
-
 
 
 
@@ -466,11 +447,9 @@ XYZ指数
 
 
 
-
 投资者购入牛证A需付的投资金额﹕
 
-
-投资金额=\dfrac{(现价-行使价) + (行使价 \tim ...</div></div></div><nav id="pagination"><div class="pagination"><a class="extend prev" rel="prev" href="/"><i class="fas fa-chevron-left fa-fw"></i></a><a class="page-number" href="/">1</a><span class="page-number current">2</span><a class="page-number" href="/page/3/#content-inner">3</a><a class="extend next" rel="next" href="/page/3/#content-inner"><i class="fas fa-chevron-right fa-fw"></i></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="/my_imgs/avatar_bilibili.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">Brandon</div><div class="author-info__description">To learn, to share, to play</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">32</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">51</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/xxxxxx"><i class="fas fa-bookmark"></i><span>Ctrl+D加入书签</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="mailto:fanbd7@163.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="tencent://AddContact/?fromId=45&amp;fromSubId=1&amp;subcmd=all&amp;uin=1071989685" target="_blank" title="QQ"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/joinme.jpg" target="_blank" title="WeChat"><i class="fab fa-weixin"></i></a><a class="social-icon" href="https://space.bilibili.com/29824856" target="_blank" title="小B站"><i class="fab fa-youtube"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content"><b><font size=3 color=red>记录个人看过的，感兴趣的东西，不做推荐，纯粹是爱好</font></b>  <img src='https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/gonggao.gif' width="100%" height="100%"></div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/posts/199435ce.html" title="苟余行之不迷，虽颠沛其何伤?-转"><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="苟余行之不迷，虽颠沛其何伤?-转"/></a><div class="content"><a class="title" href="/posts/199435ce.html" title="苟余行之不迷，虽颠沛其何伤?-转">苟余行之不迷，虽颠沛其何伤?-转</a><time datetime="2022-12-03T02:08:32.751Z" title="发表于 2022-12-03 10:08:32">2022-12-03</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/1afb42b6.html" title="三种入金方式视频流程"><img src="/my_imgs/post_img/4.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="三种入金方式视频流程"/></a><div class="content"><a class="title" href="/posts/1afb42b6.html" title="三种入金方式视频流程">三种入金方式视频流程</a><time datetime="2022-04-24T13:39:33.000Z" title="发表于 2022-04-24 21:39:33">2022-04-24</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/99d1273b.html" title="为什么投资港股美股"><img src="/my_imgs/post_img/5.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="为什么投资港股美股"/></a><div class="content"><a class="title" href="/posts/99d1273b.html" title="为什么投资港股美股">为什么投资港股美股</a><time datetime="2022-04-23T14:20:57.000Z" title="发表于 2022-04-23 22:20:57">2022-04-23</time></div></div></div></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/tags/IPO/" style="font-size: 1.1em; color: #999">IPO</a> <a href="/tags/%E4%BB%B7%E5%86%85/" style="font-size: 1.1em; color: #999">价内</a> <a href="/tags/%E4%BB%B7%E5%A4%96/" style="font-size: 1.1em; color: #999">价外</a> <a href="/tags/%E5%85%91%E6%8D%A2%E6%AF%94%E7%8E%87/" style="font-size: 1.1em; color: #999">兑换比率</a> <a href="/tags/%E5%85%A5%E9%87%91/" style="font-size: 1.1em; color: #999">入金</a> <a href="/tags/%E5%86%85%E5%9C%A8%E5%80%BC/" style="font-size: 1.5em; color: #99a9bf">内在值</a> <a href="/tags/%E5%88%A9%E7%8E%87/" style="font-size: 1.5em; color: #99a9bf">利率</a> <a href="/tags/%E5%88%B0%E4%BB%B7/" style="font-size: 1.1em; color: #999">到价</a> <a href="/tags/%E5%88%B0%E6%9C%9F%E6%97%A5/" style="font-size: 1.1em; color: #999">到期日</a> <a href="/tags/%E5%89%A9%E4%BD%99%E4%BB%B7%E6%A0%BC/" style="font-size: 1.5em; color: #99a9bf">剩余价格</a></div></div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站资讯</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">32</div></div><div class="webinfo-item"><div class="item-name">本站总字数 :</div><div class="item-count">40.4k</div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2022-12-03T03:43:42.469Z"></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2022 By Brandon</div><div class="footer_custom_text">你来啦，等你好久啦 ~..~</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script><div class="js-pjax"><script>function subtitleType () {
+$$投资金额&#x3D;\dfrac{(现价-行使价) + (行使价 \time ...</div></div></div><nav id="pagination"><div class="pagination"><a class="extend prev" rel="prev" href="/"><i class="fas fa-chevron-left fa-fw"></i></a><a class="page-number" href="/">1</a><span class="page-number current">2</span><a class="page-number" href="/page/3/#content-inner">3</a><a class="extend next" rel="next" href="/page/3/#content-inner"><i class="fas fa-chevron-right fa-fw"></i></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="/my_imgs/avatar_bilibili.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">Brandon</div><div class="author-info__description">To learn, to share, to play</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">32</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">51</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/xxxxxx"><i class="fas fa-bookmark"></i><span>Ctrl+D加入书签</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="mailto:fanbd7@163.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="tencent://AddContact/?fromId=45&amp;fromSubId=1&amp;subcmd=all&amp;uin=1071989685" target="_blank" title="QQ"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/joinme.jpg" target="_blank" title="WeChat"><i class="fab fa-weixin"></i></a><a class="social-icon" href="https://space.bilibili.com/29824856" target="_blank" title="小B站"><i class="fab fa-youtube"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content"><b><font size=3 color=red>记录个人看过的，感兴趣的东西，不做推荐，纯粹是爱好</font></b>  <img src='https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/gonggao.gif' width="100%" height="100%"></div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/posts/199435ce.html" title="苟余行之不迷，虽颠沛其何伤?-转"><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="苟余行之不迷，虽颠沛其何伤?-转"/></a><div class="content"><a class="title" href="/posts/199435ce.html" title="苟余行之不迷，虽颠沛其何伤?-转">苟余行之不迷，虽颠沛其何伤?-转</a><time datetime="2022-12-03T02:08:32.751Z" title="发表于 2022-12-03 10:08:32">2022-12-03</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/1afb42b6.html" title="三种入金方式视频流程"><img src="/my_imgs/post_img/4.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="三种入金方式视频流程"/></a><div class="content"><a class="title" href="/posts/1afb42b6.html" title="三种入金方式视频流程">三种入金方式视频流程</a><time datetime="2022-04-24T13:39:33.000Z" title="发表于 2022-04-24 21:39:33">2022-04-24</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/99d1273b.html" title="为什么投资港股美股"><img src="/my_imgs/post_img/5.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="为什么投资港股美股"/></a><div class="content"><a class="title" href="/posts/99d1273b.html" title="为什么投资港股美股">为什么投资港股美股</a><time datetime="2022-04-23T14:20:57.000Z" title="发表于 2022-04-23 22:20:57">2022-04-23</time></div></div></div></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/tags/IPO/" style="font-size: 1.1em; color: #999">IPO</a> <a href="/tags/%E4%BB%B7%E5%86%85/" style="font-size: 1.1em; color: #999">价内</a> <a href="/tags/%E4%BB%B7%E5%A4%96/" style="font-size: 1.1em; color: #999">价外</a> <a href="/tags/%E5%85%91%E6%8D%A2%E6%AF%94%E7%8E%87/" style="font-size: 1.1em; color: #999">兑换比率</a> <a href="/tags/%E5%85%A5%E9%87%91/" style="font-size: 1.1em; color: #999">入金</a> <a href="/tags/%E5%86%85%E5%9C%A8%E5%80%BC/" style="font-size: 1.5em; color: #99a9bf">内在值</a> <a href="/tags/%E5%88%A9%E7%8E%87/" style="font-size: 1.5em; color: #99a9bf">利率</a> <a href="/tags/%E5%88%B0%E4%BB%B7/" style="font-size: 1.1em; color: #999">到价</a> <a href="/tags/%E5%88%B0%E6%9C%9F%E6%97%A5/" style="font-size: 1.1em; color: #999">到期日</a> <a href="/tags/%E5%89%A9%E4%BD%99%E4%BB%B7%E6%A0%BC/" style="font-size: 1.5em; color: #99a9bf">剩余价格</a></div></div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站资讯</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">32</div></div><div class="webinfo-item"><div class="item-name">本站总字数 :</div><div class="item-count">40.5k</div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2022-12-03T04:00:59.460Z"></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2022 By Brandon</div><div class="footer_custom_text">你来啦，等你好久啦 ~..~</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script><div class="js-pjax"><script>function subtitleType () {
   if (true) { 
     window.typed = new Typed("#subtitle", {
       strings: ["生命中最美的遇见是成就彼此的成长，感谢与你们的遇见","做个好人  有用的人","天行健 君子以自强不息 | 地势乾 君子以厚德载物"],
