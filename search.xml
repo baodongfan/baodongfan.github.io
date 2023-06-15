@@ -13,15 +13,13 @@
 <blockquote>
 <ul>
 <li><strong>迷你纳指</strong>——对应美股纳斯达克指数</li>
-</ul>
-</blockquote>
-<ul>
 <li><strong>迷你道指</strong>——对应美股道琼斯指数</li>
 <li><strong>迷你标普</strong>——对应美股标普500指数</li>
 <li><strong>迷你罗素</strong>——对应美股罗素2000指数</li>
 <li><strong>恒指期货</strong>——对应港股恒生指数大盘</li>
 <li><strong>MSCI中国A50期货</strong>——对应A股明星行业龙头股</li>
 </ul>
+</blockquote>
 <p>以上指数期货都可以「做多」或「做空」，做多的时候好理解，跟股票一样，涨了赚钱；</p>
 <p>如果「做空」，指数下跌，你赚钱，具体赚的比例是多少针对具体期货具体计算。</p>
 <h2 id="1-2-特殊ETF对冲"><a href="#1-2-特殊ETF对冲" class="headerlink" title="1.2 特殊ETF对冲"></a>1.2 特殊ETF对冲</h2><p>如果你认为期货不适合你，还有另外一个对冲大盘风险的选择，就是特殊的ETF（ETF你可以理解成特殊的股票，买入，涨了赚钱。），ETF是个好东西，具体为啥，你可以问问你客户经理，或者看第4点，这里先讲ETF其中一类：做空对冲。</p>
@@ -29,9 +27,6 @@
 <blockquote>
 <ul>
 <li><strong>YANG</strong>：富时中国3倍做空ETF——顾名思义，A股跌了，它涨，你买他，赚钱；</li>
-</ul>
-</blockquote>
-<ul>
 <li><strong>SQQQ</strong>：三倍做空纳指——对标美股纳斯达克指数</li>
 <li><strong>SDOW</strong>：三倍做空道指——对标美股道琼斯指数</li>
 <li><strong>SPXS</strong>：三倍做空标普——对标美股标普500指数</li>
@@ -40,6 +35,7 @@
 <li><strong>07500</strong>：两倍看空恒指——对标恒生指数</li>
 <li><strong>07568</strong>：两倍做空纳指——对标美股纳斯达克指数</li>
 </ul>
+</blockquote>
 <p>还有很多，这些ETF中字母代码是美股，晚上交易；数字代码是港股，白天交易<br>他们都是一个特点，上涨了赚钱，指数下跌，ETF上涨，反着来，你买了，股市下跌也能赚钱，起到对冲作用。</p>
 <p>当然，ETF还有很多作用，这是个宝藏产品，后面有机会会详细介绍他们，他们是一个庞大的家族，有好多好的东西。</p>
 <h2 id="1-3-港股个股对冲"><a href="#1-3-港股个股对冲" class="headerlink" title="1.3 港股个股对冲"></a>1.3 港股个股对冲</h2><p>针对港股个股，有个特别的对冲工具：牛熊涡轮。</p>
@@ -47,19 +43,17 @@
 <blockquote>
 <ul>
 <li><strong>牛证</strong>：跟股票走势一样，股票涨，它涨；</li>
-</ul>
-</blockquote>
-<ul>
 <li><strong>熊证</strong>：跟股票走势相反，股票涨，它跌；股票跌，它涨；</li>
 <li><strong>认购证</strong>：参考「牛证」，股票涨，它涨；</li>
 <li><strong>认沽证</strong>：参考「熊证」，股票涨，它跌；股票跌，它涨；</li>
 </ul>
+</blockquote>
 <p><strong>注意</strong>：牛熊证和涡轮规则比较复杂，而且杠杆比较大，一般新手不建议参与，但即使复杂，还能有众多交易者，恰恰说明这是大众认可的，有它独到之处，运用得当，可以实现小资金撬动大盈利。</p>
 <h1 id="2-交易规则更灵活"><a href="#2-交易规则更灵活" class="headerlink" title="2. 交易规则更灵活"></a>2. 交易规则更灵活</h1><h2 id="2-1-T-0，当日买卖"><a href="#2-1-T-0，当日买卖" class="headerlink" title="2.1 T+0，当日买卖"></a>2.1 T+0，当日买卖</h2><p>想象一个场景，你早上买了一个股票，上午涨了8%，10%，你想卖，但是卖不出去，因为A股是<strong>T+1规则</strong>，即今天买的，明天才能卖，如果下午你的票跌到0%，-8%，你怕跌停，想卖，同样也卖不出去，也是因为T+1。。。</p>
 <p>但是在港股和美股就没有这样的困扰，港股和美股都是<strong>T+0</strong>，即当天买进当天可以卖出！部分美股券商对于T+0的次数有限制，要求达到一定金额，才会放开次数，否则，一周只有3次T+0次数，但是方德港美股没有这样的限制，多少金额，T+0都是不受限制的。</p>
 <p>如果刚刚那个场景放在港股美股，就不会痛苦，你早上买进，中间涨到8%，你想卖可以直接卖掉，盈利直接到手。</p>
 <h2 id="2-2-无涨跌停限制"><a href="#2-2-无涨跌停限制" class="headerlink" title="2.2 无涨跌停限制"></a>2.2 无涨跌停限制</h2><p>一个股票可以在多地上市，在港股和A股同时上市的叫做<strong>「AH」股</strong>。</p>
-<p>想象一个场景：你A股和港股都买了「药明康德」，突然一个利好消息（假设他们制造了一款可以让人长生的💊，当然这是假设。。。）你的A股涨到10%就封板了，因为有<strong>「涨停板」</strong>限制，但是港股没有封板一说，它可以一下子涨**100%<strong>，</strong>500%**，你算一下两者的盈利空间。</p>
+<p>想象一个场景：你A股和港股都买了「药明康德」，突然一个利好消息（假设他们制造了一款可以让人长生的💊，当然这是假设。。。）你的A股涨到10%就封板了，因为有<strong>「涨停板」</strong>限制，但是港股没有封板一说，它可以一下子涨<strong>100%</strong>，<strong>500%</strong>，你算一下两者的盈利空间。</p>
 <p>当然，下跌也是一样，没有封板的限制，但是港股美股可以T+0啊，你发现情况不对，直接跑路卖掉，但是A股，如果跌停了，你想卖掉，恐怕会有点难，回忆一下「长春生物」，因为公司有问题，连续跌停，每天一开盘，直接封跌停板，根本出不来！只能眼睁睁的看着资产一天天的变少。</p>
 <h2 id="2-3-低融资成本"><a href="#2-3-低融资成本" class="headerlink" title="2.3 低融资成本"></a>2.3 低融资成本</h2><p>想象一个场景：你看到一个非常好的机会，（比如还是「药明康德」发明了长生药，假设！一手1万多），你想买，但是钱都买了其他股票，只剩几千，A股里，你想买，只能新入金，但是港股，可以提供融资，几千块钱也能买！不用等。（具体融资比例和融资上限可以联系你的客户经理，详细了解）</p>
 <p>做投资，重点就是看准时机，一下子入手，别等，慢了机会可能就过了。</p>
@@ -77,28 +71,24 @@
 <blockquote>
 <ul>
 <li><strong>VNM</strong>——越南ETF</li>
-</ul>
-</blockquote>
-<ul>
 <li><strong>03087</strong>——富时越南ETF</li>
 <li><strong>EWJ</strong>——日本ETF</li>
 <li><strong>INCO</strong>——哥伦比亚消费者ETF</li>
 </ul>
+</blockquote>
 <h2 id="4-2-避险对冲"><a href="#4-2-避险对冲" class="headerlink" title="4.2 避险对冲"></a>4.2 避险对冲</h2><p>这个就不用我多说了吧，上面讲<strong>做空对冲</strong>已经有了😃</p>
 <h2 id="4-3-行业ETF："><a href="#4-3-行业ETF：" class="headerlink" title="4.3 行业ETF："></a>4.3 行业ETF：</h2><p>你看好某一个行业，但是不知道买哪个，你可以找对标这个<strong>行业的ETF</strong>：</p>
 <p>比如：</p>
 <blockquote>
 <ul>
 <li><strong>BOIL</strong>——天然气ETF</li>
-</ul>
-</blockquote>
-<ul>
 <li><strong>IHE</strong>——美国医药ETF</li>
 <li><strong>03097</strong>——原油ETF</li>
 <li><strong>03023</strong>——恒生科技ETF</li>
 <li><strong>03081</strong>——黄金ETF</li>
 <li><strong>02806</strong>——中国消费ETF</li>
 </ul>
+</blockquote>
 <p>一句话：<strong>你想做的投资，都可以在ETF里找到，港股ETF，美股ETF。</strong></p>
 <p><strong>上面罗列的只是一小部分，具体需要什么样的产品，别忘了<em>找你的客户经理</em>，把需求告诉他，他帮你匹配最适合你的那个！！</strong></p>
 ]]></content>
@@ -113,7 +103,8 @@
   <entry>
     <title>目录</title>
     <url>/posts/cfc657db.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="目录索引"><a href="#目录索引" class="headerlink" title="目录索引"></a>目录索引</h1><p><font size="4" color="red">博客的形式是以文章的发布时间为顺序，依次排列，不方便查阅。</font></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="目录索引"><a href="#目录索引" class="headerlink" title="目录索引"></a>目录索引</h1><font size="4" color="red">博客的形式是以文章的发布时间为顺序，依次排列，不方便查阅。</font>
+
 <p>想找相应内容的方式有<strong>两种</strong>：</p>
 <ol>
 <li>翻页看标题</li>
@@ -182,11 +173,11 @@
     <title>经济衰退如何定义</title>
     <url>/posts/a8bbdbd6.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="经济衰退如何定义？"><a href="#经济衰退如何定义？" class="headerlink" title="经济衰退如何定义？"></a>经济衰退如何定义？</h1><p>对投资人来说，最关心的事莫过于目前经济状况及未来的前景，因为这会直接影响到股市及各种投资产品的表现。</p>
-<p>不过当我们谈到经济衰退时，我们会听到很多种说法，比方说有些人认为<em><strong>股市大跌就是衰退</strong></em>，有些人则会认为是<em><strong>失业上升、经济成长放缓</strong></em>算是经济衰退。</p>
+<p>不过当我们谈到经济衰退时，我们会听到很多种说法，比方说有些人认为<strong><em>股市大跌就是衰退</em></strong>，有些人则会认为是<strong><em>失业上升、经济成长放缓</em></strong>算是经济衰退。</p>
 <p>那到底有没有一些明确的定义呢？</p>
 <p>本文木东将介绍一般被认为是官方标准NBER的定义，以及如何运用OECD经济综合先行指标（CLI）来判断经济周期的转折点。</p>
 <h2 id="经济衰退的定义是什么？"><a href="#经济衰退的定义是什么？" class="headerlink" title="经济衰退的定义是什么？"></a>经济衰退的定义是什么？</h2><p>经济衰退是经济学中的一个用语，用以形容经济活动放缓、商业萎缩的一个阶段，这个阶段中通常会出现支出大幅下降的状况。</p>
-<p>一般最<strong>常用的简易经济衰退定义</strong>，是由经济学家希斯金（Julian Shiskin）在1975年提出，<code>**连续2季GDP收缩定义为经济衰退。**</code></p>
+<p>一般最<strong>常用的简易经济衰退定义</strong>，是由经济学家希斯金（Julian Shiskin）在1975年提出，<code>连续2季GDP收缩定义为经济衰退。</code></p>
 <p><strong>美国国家经济研究局（NBER）则常被视为是定义美国经济衰退的权威</strong>，<strong>也是普遍认定的官方标准</strong>。</p>
 <p>NBER的官网说明，他们判定经济衰退的程序确实包括GDP连续两季或多季下降，但这并非唯一的判断标准，还会加上一些其他因素一并考量。</p>
 <h2 id="NBER对经济衰退的定义"><a href="#NBER对经济衰退的定义" class="headerlink" title="NBER对经济衰退的定义"></a>NBER对经济衰退的定义</h2><p>美国国家经济研究局（National Bureau of Economic Research，简称NBER）对经济衰退的定义是：</p>
@@ -194,7 +185,31 @@
 <p>也就是要同时满足深度、扩散度和持续时间这三个条件才算是经济衰退。</p>
 <p>虽然这三个标准都需要一定程度的满足，但若某一个标准产生极端的状况，也可能会抵消另一个标准较弱的状况。</p>
 <p>例如，在2020年2月经济活动达到顶峰，但随着新冠肺炎的疫情爆发经济活动急速下降。 经济活动下降的幅度之大，以及在经济体中广泛的扩散，虽然时间非常短暂，没有满足持续时间的条件，但也应该被视为衰退。 这次衰退在2020年4月就结束，5月又进入扩张期。</p>
-<p>从下图可以看到1948至2022美国失业率跟经济衰退之间的关系。 图中蓝线代表美国失业率，灰色区块则为NBER定义的经济衰退期，可以看出经济衰退通常发生在失业率达到高峰之前。<br><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/a8bbdbd6/1.png" alt="1"></p>
+<p>从下图可以看到1948至2022美国失业率跟经济衰退之间的关系。 图中蓝线代表美国失业率，灰色区块则为NBER定义的经济衰退期，可以看出经济衰退通常发生在失业率达到高峰之前。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/a8bbdbd6/1.jpg" alt="1"></p>
+<h2 id="NBER会使用哪些指标来判断商业周期？"><a href="#NBER会使用哪些指标来判断商业周期？" class="headerlink" title="NBER会使用哪些指标来判断商业周期？"></a>NBER会使用哪些指标来判断商业周期？</h2><p>NBER判断商业周期高峰和低谷，是基于联邦统计机构公布的一系列月度总体经济活动指标，包括：</p>
+<ul>
+<li><strong>实际个人收入减去转移支付（PILT）</strong></li>
+<li><strong>非农就业</strong></li>
+<li><strong>实际个人消费支出</strong></li>
+<li><strong>根据价格变化调整的批发零售额</strong></li>
+<li><strong>家庭调查衡量的就业</strong></li>
+<li><strong>工业生产</strong><br>等等。</li>
+</ul>
+<p>以上各项经济指标数据，可在FRED网站查询：<a href="[Data Considered for the NBER Turning Points - St. Louis Fed (stlouisfed.org">点击查询</a>](<a href="https://fredaccount.stlouisfed.org/public/dashboard/84408">https://fredaccount.stlouisfed.org/public/dashboard/84408</a>))</p>
+<p>至于确切的计算方式，或是哪些数据如何加权，NBER并没有公吿固定的规则。</p>
+<blockquote>
+<p>对投资人来说，NBER的衰退区间，更多是事后定义的结论，当公布时对于判断未来的意义可能也已经很有限。</p>
+<p>如果希望事前得到更多判断，那么上述这些细部的指标，就是更好的依据。</p>
+</blockquote>
+<h2 id="如何查看NBER定义的商业周期？"><a href="#如何查看NBER定义的商业周期？" class="headerlink" title="如何查看NBER定义的商业周期？"></a>如何查看NBER定义的商业周期？</h2><p>在<a href="https://www.nber.org/research/business-cycle-dating">NBER的官网</a>上，可以查看其所定义的商业周期（business cycle），其中包括高峰、低谷出现的时间及持续的长度。</p>
+<p>但要注意的是，公告的日期是<strong>滞后的</strong>，也就是过了一段时间回头看，才知道高峰跟低谷在哪里，在那当下也许已经进入经济衰退，但并无法确认，且NBER并没有固定的公告日期。</p>
+<p><strong>NBER会在经济衰退开始后多久才会公告呢</strong>？</p>
+<p>答案是：<strong>没有固定的时间规则</strong>。</p>
+<p>例如NBER对2020年4月的低谷日期，是在15个月后才确定，先前几次的确定大概需要4至21个月，并没有固定的时间规则。</p>
+<p>实际上，NBER的运作方式更像是一群专业人士开会，在事后定义出经济的高峰与低谷。</p>
+<p>下图为NBER公告的数据，仅抓取2000年以后的数字。</p>
+<p>未完待续。。</p>
 ]]></content>
   </entry>
   <entry>
@@ -253,7 +268,7 @@
 <p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/bc0dbe1c/bf7d9a8d09264087f3.png" alt="bf7d9a8d09264087f3"></p>
 <p>正如经济下跌需要一个过程，经济复苏也需要一个过程，不可能一步到位，更不可能一口气吃成胖子。不同的是，下跌是一个痛苦的过程，而复苏则是一个愉快的过程。</p>
 <p>因此，虽然目前行情已经有过一轮反弹，但就目前的宏观情况而言，只是复苏前奏，大概率只是资金（外资为主），由空翻多导致，实际上经济数据还没有真正出现大幅反弹，流动性等指标也没有真正反转，但我认为这是好事，<strong>因为这恰恰是港股后续持续反弹的动力所在</strong>，you konw?</p>
-<p>​	<code>等到这个阶段实现的时候，股市的狂欢才刚开始。</code></p>
+<p>​    <code>等到这个阶段实现的时候，股市的狂欢才刚开始。</code></p>
 <p>无论如何，站在现在这个时点，都没有理由再悲观，反而可以多乐观一些。</p>
 <h2 id="哪些板块还值得重点关注？"><a href="#哪些板块还值得重点关注？" class="headerlink" title="哪些板块还值得重点关注？"></a>哪些板块还值得重点关注？</h2><p>在全面翻多的行情下，很多板块都迎来大反弹，似乎机会遍地，俯拾即是。</p>
 <p>但是，正如我们一直强调的，至暗时刻不悲观，狂欢时刻不上头，<strong>价值始终是最基本的判断原则</strong>，机遇这个原则，有几个板块还是值得继续关注的。</p>
@@ -288,7 +303,7 @@
     <url>/posts/199435ce.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="苟余行之不迷，虽颠沛其何伤？"><a href="#苟余行之不迷，虽颠沛其何伤？" class="headerlink" title="苟余行之不迷，虽颠沛其何伤？"></a>苟余行之不迷，虽颠沛其何伤？</h1><blockquote>
 <p>作者：夏春，微信公众号：财经智识</p>
-<p>转载自：<a href="http://big5.ftchinese.com/story/001098064?full=y&archive=">苟餘行之不迷，雖顛沛其何傷？ - FT中文網 (ftchinese.com)</a></p>
+<p>转载自：<a href="http://big5.ftchinese.com/story/001098064?full=y&amp;archive=">苟餘行之不迷，雖顛沛其何傷？ - FT中文網 (ftchinese.com)</a></p>
 <p>夏春博士是我非常喜欢的一位首席经济学家，曾担任港大经济学教授，这篇文章读到后很喜欢，所以自己记录下来。以下为夏博角度。</p>
 </blockquote>
 <p>时近年末，我这些天正在准备2023年全球宏观与市场策略展望的文章和主题词。核心观点都梳理清楚，唯独八个字的主题词还未有着落。</p>
@@ -380,54 +395,46 @@
     <title>大陆卡购汇入金操作方法</title>
     <url>/posts/1aa871c7.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="工商银行"><a href="#工商银行" class="headerlink" title="工商银行"></a>工商银行</h1><h2 id="工行购汇港币"><a href="#工行购汇港币" class="headerlink" title="工行购汇港币"></a>工行购汇港币</h2><blockquote>
-<p>** 打开工商银行APP首页，点击<code>全部</code>，找到<code>投资理财</code>—<code>结售汇</code>—<code>港币</code>，进入购汇页面 **<br>** 选择购汇币种: 存入港元选择<code>“港币HKD”</code>；**<br>** 钞汇标志：<code>汇</code>；**<br>** 购汇金额：填写<code>购汇金额</code>；**<br>** 购汇资金用途：根据实际情况填写，优先选择<code>海外购物</code>，其次<code>因私旅游</code>**<br>*** <code>！购汇用途和转账用途保持一致！</code>***</p>
+<p><strong> 打开工商银行APP首页，点击<code>全部</code>，找到<code>投资理财</code>—<code>结售汇</code>—<code>港币</code>，进入购汇页面 </strong><br><strong> 选择购汇币种: 存入港元选择<code>“港币HKD”</code>；</strong><br><strong> 钞汇标志：<code>汇</code>；</strong><br><strong> 购汇金额：填写<code>购汇金额</code>；</strong><br><strong> 购汇资金用途：根据实际情况填写，优先选择<code>海外购物</code>，其次<code>因私旅游</code></strong><br><strong><em> <code>！购汇用途和转账用途保持一致！</code></em></strong></p>
+<p><strong> 确认购汇信息，完成购汇。</strong> </p>
 </blockquote>
-<blockquote>
-<p>** 确认购汇信息，完成购汇。** </p>
-</blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/%E5%B7%A5%E8%A1%8C1.png" alt="1"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/工行1.png" alt="1"></p>
 <h2 id="工行跨境汇款"><a href="#工行跨境汇款" class="headerlink" title="工行跨境汇款"></a>工行跨境汇款</h2><blockquote>
-<p>** 打开工商银行APP首页，点击<code>全部</code>，点击<code>境外汇款</code>-<code>向境外他行汇款</code>，进入境外汇款页面；** </p>
+<p><strong> 打开工商银行APP首页，点击<code>全部</code>，点击<code>境外汇款</code>-<code>向境外他行汇款</code>，进入境外汇款页面；</strong> </p>
 </blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/%E5%B7%A5%E8%A1%8C2.png" alt="2"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/工行2.png" alt="2"></p>
 <blockquote>
-<p>** 此页面信息在收款帐号上（可以是券商的收款信息）直接复制过来。**<br>** 粘贴之前复制的<code>收款人账号</code>、<code>收款人地址</code>，<code>SWIFT代码</code>。**<br>** 收款人信息：<code>收款人姓名</code>。**<br>** SWIFT代码粘贴后，下面的开户行名称和地址会自动生成。**<br>** 汇款信息无误后点击提交，并保存转账成功截图。** </p>
+<p><strong> 此页面信息在收款帐号上（可以是券商的收款信息）直接复制过来。</strong><br><strong> 粘贴之前复制的<code>收款人账号</code>、<code>收款人地址</code>，<code>SWIFT代码</code>。</strong><br><strong> 收款人信息：<code>收款人姓名</code>。</strong><br><strong> SWIFT代码粘贴后，下面的开户行名称和地址会自动生成。</strong><br><strong> 汇款信息无误后点击提交，并保存转账成功截图。</strong> </p>
 </blockquote>
-<p>** 资金用途选择 <code>跟购汇理由一致</code> **</p>
-<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/%E5%B7%A5%E8%A1%8C3.png" alt="3"></p>
+<p><strong> 资金用途选择 <code>跟购汇理由一致</code> </strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/工行3.png" alt="3"></p>
 <h1 id="中国银行"><a href="#中国银行" class="headerlink" title="中国银行"></a>中国银行</h1><h2 id="中行购汇港币"><a href="#中行购汇港币" class="headerlink" title="中行购汇港币"></a>中行购汇港币</h2><blockquote>
-<p>** 打开中国银行APP首页，点击<code>结汇购汇</code>，选择<code>港币</code>，点击<code>买外币</code>进入购汇页面；** </p>
+<p><strong> 打开中国银行APP首页，点击<code>结汇购汇</code>，选择<code>港币</code>，点击<code>买外币</code>进入购汇页面；</strong> </p>
+<p><strong> 选择购汇币种: 存入港元选择“港币”，</strong><br><strong> 钞汇标志：现汇；</strong><br><strong> 购汇金额：填写购汇金额；</strong><br><strong> 购汇资金用途：根据实际情况填写，优先选择<code>海外购物</code>，其次<code>因私旅游</code></strong><br><strong><em> <code>！购汇用途和转账用途保持一致！</code></em></strong><br><strong> 确认购汇信息，完成购汇。</strong> </p>
 </blockquote>
-<blockquote>
-<p>** 选择购汇币种: 存入港元选择“港币”，**<br>** 钞汇标志：现汇；**<br>** 购汇金额：填写购汇金额；**<br>** 购汇资金用途：根据实际情况填写，优先选择<code>海外购物</code>，其次<code>因私旅游</code>**<br>*** <code>！购汇用途和转账用途保持一致！</code>***<br>** 确认购汇信息，完成购汇。** </p>
-</blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/%E4%B8%AD%E5%9B%BD1.png" alt="1"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/中国1.png" alt="1"></p>
 <h2 id="中行跨境汇款"><a href="#中行跨境汇款" class="headerlink" title="中行跨境汇款"></a>中行跨境汇款</h2><blockquote>
-<p>** 中国银行APP首页，点击<code>境外汇款</code>，进入境外汇款页面；** </p>
+<p><strong> 中国银行APP首页，点击<code>境外汇款</code>，进入境外汇款页面；</strong> </p>
 </blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/%E4%B8%AD%E5%9B%BD2.png" alt="2"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/中国2.png" alt="2"></p>
 <blockquote>
 <p><strong>此页面信息在收款帐号上（可以是券商的收款信息）直接复制过来。</strong><br><strong>粘贴券商入金页面上复制的<code>姓名</code>、<code>收款账号</code>、选择<code>收款人所在地（券商信息上的“收款人地址”）</code>，<code>SWIFT代码</code>。</strong><br><strong>SWIFT代码粘贴后，下面的开户行名称和地址会自动生成。</strong><br><strong>汇款信息无误后点击提交，并保存转账成功截图。</strong> </p>
 </blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/%E6%8B%9B%E5%95%863.png" alt="3"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/招商3.png" alt="3"></p>
 <h1 id="招商银行"><a href="#招商银行" class="headerlink" title="招商银行"></a>招商银行</h1><h2 id="招行购汇港币"><a href="#招行购汇港币" class="headerlink" title="招行购汇港币"></a>招行购汇港币</h2><blockquote>
 <p><strong>打开招商银行APP首页，点击<code>外汇购汇</code>，选择<code>港币</code>，进入购汇页面；</strong> </p>
+<p><strong>选择购汇币种: 存入港元选择“<code>港币”</code>，</strong><br><strong>钞汇标志：<code>现汇</code>；</strong><br><strong>购汇金额：填写<code>购汇金额</code>；</strong><br><strong>购汇资金用途：根据实际情况填写，优先选择<code>海外购物</code>，其次<code>因私旅游</code></strong><br><strong><em> <code>！购汇用途和转账用途保持一致！</code></em></strong></p>
+<p><strong> 确认购汇信息，完成购汇。</strong> </p>
 </blockquote>
-<blockquote>
-<p><strong>选择购汇币种: 存入港元选择“<code>港币”</code>，</strong><br><strong>钞汇标志：<code>现汇</code>；</strong><br><strong>购汇金额：填写<code>购汇金额</code>；</strong><br><strong>购汇资金用途：根据实际情况填写，优先选择<code>海外购物</code>，其次<code>因私旅游</code></strong><br>*** <code>！购汇用途和转账用途保持一致！</code>***</p>
-</blockquote>
-<blockquote>
-<p>** 确认购汇信息，完成购汇。** </p>
-</blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/%E6%8B%9B%E5%95%861.png" alt="1"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/%E6%8B%9B%E5%95%862.png" alt="2"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/招商1.png" alt="1"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/招商2.png" alt="2"></p>
 <h2 id="招行跨境汇款"><a href="#招行跨境汇款" class="headerlink" title="招行跨境汇款"></a>招行跨境汇款</h2><blockquote>
 <p><strong>招商银行APP首页，点击<code>境外汇款</code>，选择<code>普通境外汇款</code>，进入境外汇款页面；</strong> </p>
 </blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/%E6%8B%9B%E5%95%863.png" alt="3"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/1aa871c7/招商3.png" alt="3"></p>
 <blockquote>
-</blockquote>
 <p><strong>选择<code>港币</code>，填上<code>汇款金额</code>，下一步</strong><br><strong>此页面信息在收款帐号上（可以是券商的收款信息）直接复制过来。</strong><br><strong>粘贴之前复制的<code>汇款人姓名</code>，<code>汇款人手机号</code>，<code>住址</code>。</strong><br><strong>按照券商入金页面信息复制粘贴到收款人对应的信息上</strong><br><strong>SWIFT代码粘贴后，下面的开户行名称和地址会自动生成。</strong><br><strong>汇款信息无误后点击提交，并保存转账成功截图。</strong></p>
+</blockquote>
 ]]></content>
       <categories>
         <category>港美股</category>
@@ -450,7 +457,7 @@
 <ol>
 <li><p>开通SIB（标准国际银行）账户</p>
 </li>
-<li><p>SIB入金到方德（免费）流程如下： <font size="4" color="red"><a href="http://note.youdao.com/s/MbthrgOr">流程</a></font></p>
+<li><p>SIB入金到方德（免费）流程如下： <font size="4" color="red"><a href="http://note.youdao.com/s/MbthrgOr">流程</a></font>  </p>
 </li>
 </ol>
 ]]></content>
@@ -507,14 +514,11 @@
 <p>由于部份股票会派发股息，未来的股价理论上会较现价为低，也可能会反映在指数上，因此牛熊证和窝轮的价格都要把股息因素反映出来，于是牛证和认购证的价格就会有负溢价，而熊证和认沽证的价格就会偏向有正溢价。</p>
 <p>想知道溢价怎样计算? 大家可以参考一下以下溢价公式。 </p>
 <blockquote>
-<p>认购证打和点 &#x3D; 行使价 +（认购证价格 x 兑换比率）</p>
-</blockquote>
-<blockquote>
-<p>认沽证打和点 &#x3D; 行使价 -（认沽证价格 x 兑换比率）<br>$$<br>认购证溢价&#x3D;\dfrac{行使价+(认购证价格 \times 兑换比率)-相关资产价格}{相关资产价格}&#x3D;\dfrac{认购证打和点}{相关资产价格}-1<br>$$</p>
-</blockquote>
-<blockquote>
-<p>$$<br>认沽证溢价&#x3D;\dfrac{相关资产价格-[行使价-(认购证价格 \times 兑换比率)]}{相关资产价格}&#x3D;1 - \dfrac{认沽证打和点}{相关资产价格}<br>$$</p>
-</blockquote>
+<p>认购证打和点 = 行使价 +（认购证价格 x 兑换比率）</p>
+<p>认沽证打和点 = 行使价 -（认沽证价格 x 兑换比率）</p>
+<script type="math/tex; mode=display">
+认购证溢价=\dfrac{行使价+(认购证价格 \times 兑换比率)-相关资产价格}{相关资产价格}=\dfrac{认购证打和点}{相关资产价格}-1</script><script type="math/tex; mode=display">
+认沽证溢价=\dfrac{相关资产价格-[行使价-(认购证价格 \times 兑换比率)]}{相关资产价格}=1 - \dfrac{认沽证打和点}{相关资产价格}</script></blockquote>
 ]]></content>
       <categories>
         <category>港股</category>
@@ -535,34 +539,38 @@
 <p>来到这一刻，如果有看完我们法巴学堂，牛熊证跟窝轮的部分，应该都已经对两种产品，有一定的概念，那如果投资者对衍生工具有兴趣，应该选牛熊证、还是窝轮好呢？</p>
 <p>这个时候，我想大声的讲一句，「Why Not Both？」</p>
 <p>牛熊证跟窝轮，两种产品的特性不同，看看这个表。</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="center"><strong>牛熊证</strong></th>
-<th align="center"><strong>窝轮</strong></th>
+<th style="text-align:center"><strong>牛熊证</strong></th>
+<th style="text-align:center"><strong>窝轮</strong></th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="center">提供杠杆</td>
-<td align="center">一样</td>
+<tbody>
+<tr>
+<td style="text-align:center">提供杠杆</td>
+<td style="text-align:center">一样</td>
 </tr>
 <tr>
-<td align="center">年期有限(设有<strong>到期日</strong>)</td>
-<td align="center">一样</td>
+<td style="text-align:center">年期有限(设有<strong>到期日</strong>)</td>
+<td style="text-align:center">一样</td>
 </tr>
 <tr>
-<td align="center">有收回风险(设有<strong>收回价</strong>)</td>
-<td align="center">没有收回风险</td>
+<td style="text-align:center">有收回风险(设有<strong>收回价</strong>)</td>
+<td style="text-align:center">没有收回风险</td>
 </tr>
 <tr>
-<td align="center"><strong>引伸波幅</strong>并非影响价格的重要因素</td>
-<td align="center"><strong>引伸波幅</strong>是影响价格的重要因素</td>
+<td style="text-align:center"><strong>引伸波幅</strong>并非影响价格的重要因素</td>
+<td style="text-align:center"><strong>引伸波幅</strong>是影响价格的重要因素</td>
 </tr>
 <tr>
-<td align="center"><strong>时间值损耗</strong>并非影响价格的重要因素</td>
-<td align="center"><strong>时间值损耗</strong>是影响价格的重要因素</td>
+<td style="text-align:center"><strong>时间值损耗</strong>并非影响价格的重要因素</td>
+<td style="text-align:center"><strong>时间值损耗</strong>是影响价格的重要因素</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>牛熊证跟窝轮一样，都是具有杠杆效应的产品，而且都有年期，意思是只可以在指定时间内作交投。</p>
 <p>不同的地方是，牛熊证设有收回机制，当相关资产价格到达收回价时，就会立即停止买卖等结算，就算之后相关资产的价格有所变动，都已经没仇报；而引伸波幅同时间值并非影响价格的重要因素。</p>
 <p>窝轮呢？就是没有收回机制的，一只CALL轮就算因为正股急跌而导致轮价急跌，之后如果正股在期内回升，窝轮价格都有机会回升，投资者可能会觉得「有仇报」；但是它就有引伸波幅跟时间值损耗，意思是影响它价格慨因素会多一些。</p>
@@ -589,8 +597,8 @@
 <p>如果之后正股继续上升，当然再开心一点，因为股票跟窝轮价格都能够上升；但如果下跌呢？由于窝轮的成本较低，而且亏损都只是投入的全部本金，而你之前已经锁定了部分利润，如果数算得好，潜在亏损将会减低！</p>
 <p>至于这条数是怎样计算呢？有个公式给大家参考：</p>
 <blockquote>
-<p>$$<br>计划买入的窝轮数目&#x3D;\dfrac{正股数量}{对冲值} \times 兑换比率<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+计划买入的窝轮数目=\dfrac{正股数量}{对冲值} \times 兑换比率</script></blockquote>
 <p>投资者选了想用来做锁利部署的窝轮之后，用它的对冲值跟兌换比率，代入这个公式，再将沽出的正股数目代进去计算，就可以计到，究竟要买几多只窝轮，才能代替已经锁定利润的正股啦。</p>
 <h3 id="对冲部署"><a href="#对冲部署" class="headerlink" title="对冲部署"></a>对冲部署</h3><p>至于对冲又是什么呢？当你买入股票后，当然希望它股价会上升，但又担心它会下跌，那该怎么办呢？这个时候，就可以考虑对冲部署啦，方法是，在买入正股的时候，同时买入与同一资产挂钩的认沽证。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/90e1eb23/2.jpg" alt="img"></p>
@@ -638,26 +646,24 @@
   <entry>
     <title>「认股证篇」第七课：窝轮到期的结算</title>
     <url>/posts/f17a6be6.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="「认股证篇」第七课：窝轮到期的结算"><a href="#「认股证篇」第七课：窝轮到期的结算" class="headerlink" title="「认股证篇」第七课：窝轮到期的结算"></a>「认股证篇」第七课：窝轮到期的结算</h1><div class="bilibili">
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="「认股证篇」第七课：窝轮到期的结算"><a href="#「认股证篇」第七课：窝轮到期的结算" class="headerlink" title="「认股证篇」第七课：窝轮到期的结算"></a>「认股证篇」第七课：窝轮到期的结算</h1><p><div class="bilibili">
     <iframe src="//player.bilibili.com/player.html?aid=287825068&bvid=BV1zf4y1q7Lk&cid=258322680&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</div>
-<br>
-上一节说完怎样计算窝轮跳动敏感度，今天继续计算，而算的是当一只`窝轮到期时，应该怎样做结算`。
-
+</div><br>&lt;/br&gt;<br>上一节说完怎样计算窝轮跳动敏感度，今天继续计算，而算的是当一只<code>窝轮到期时，应该怎样做结算</code>。</p>
 <h3 id="现金结算额"><a href="#现金结算额" class="headerlink" title="现金结算额"></a>现金结算额</h3><p>虽然大部分投资者，买卖窝轮一般都是做短线部署，不过如果买了之后，真的是一直持有至到期还未卖到，窝轮就会自动进行结算，价内窝轮将会收到<code>现金结算额</code>，而价外轮的现金结算额是0，大家还记不记得之前已经讲过，什么叫价外、到价同价内呀？</p>
 <h3 id="窝轮结算方法"><a href="#窝轮结算方法" class="headerlink" title="窝轮结算方法"></a>窝轮结算方法</h3><p>先讲窝轮的结算方法，CALL轮跟PUT轮的公式，分别是：</p>
 <p><strong>认购证：</strong></p>
 <blockquote>
-<p>$$<br>现金结算额 &#x3D; \dfrac{结算价 - 行使价}{兑换比率}<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+现金结算额 = \dfrac{结算价 - 行使价}{兑换比率}</script></blockquote>
 <p><strong>认沽证：</strong></p>
 <blockquote>
-<p>$$<br>现金结算额 &#x3D; \dfrac{行使价-结算价}{兑换比率}<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+现金结算额 = \dfrac{行使价-结算价}{兑换比率}</script></blockquote>
 <p>公式很简单，但什么是结算价呢，股票轮和指数轮的结算价，得出的方法都有些不同。</p>
 <h3 id="股票轮结算方法"><a href="#股票轮结算方法" class="headerlink" title="股票轮结算方法"></a>股票轮结算方法</h3><p>先说股票轮，结算价其实是指跟窝轮挂钩的相关资产，到期日之前五个交易日的平均收市价，记住是<code>之前</code>的五个交易日，到期日当天是不算的。</p>
 <p>这样说好像很容易，举个例子算一算才是最实际。</p>
 <p>有只汇丰认购证，行使价是50元，兑换比率是10兑1，今年3月30日到期。</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -670,7 +676,8 @@
 <th>六</th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+<tr>
 <td>21</td>
 <td>22</td>
 <td><strong>23</strong></td>
@@ -686,9 +693,10 @@
 <td>31</td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>算30日之前的五个交易日，好像个日历，不算星期六跟星期天，我们会用23, 24, 25, 26 和29号，这五天汇丰收市价的平均数为结算价。</p>
 <p>如果这五天的收市价，分别是52, 52.5, 51.8, 51.3, 52.2元，结算价就是(52 + 52.5 + 51.8 + 51.3 + 52.2)除以5，等于51.96元，这个是结算价；减去行使价50元，再除以兑换比率10对1，这只窝轮的现金结算价，就是每一股0.196元。</p>
 <h3 id="指数轮结算方法"><a href="#指数轮结算方法" class="headerlink" title="指数轮结算方法"></a>指数轮结算方法</h3><p>讲完股票轮，就到指数轮，它的结算方法简单很多。例如一只CALL轮，今年3月30日到期，3月24 日是最后交易日，如果投资者没有沽货，一直持有到到期，结算价我们会用到期当天的EAS (<code>Estimated Average Settlement--预预计平均结算价</code>)，就是从官方公布，指数结算日当天，由上午9:35分起，至下午3:55分之间每5分钟的指数及当日指数收市价之平均水平作计价，作为结算， 这个数港交所在当天收市后就会公布的啦。</p>
@@ -707,157 +715,167 @@
   <entry>
     <title>「认股证篇」第六课：窝轮敏感度的计算</title>
     <url>/posts/e5c7de02.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h2 id="「认股证篇」第六课：窝轮敏感度的计算"><a href="#「认股证篇」第六课：窝轮敏感度的计算" class="headerlink" title="「认股证篇」第六课：窝轮敏感度的计算"></a>「认股证篇」第六课：窝轮敏感度的计算</h2><div class="bilibili">
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h2 id="「认股证篇」第六课：窝轮敏感度的计算"><a href="#「认股证篇」第六课：窝轮敏感度的计算" class="headerlink" title="「认股证篇」第六课：窝轮敏感度的计算"></a>「认股证篇」第六课：窝轮敏感度的计算</h2><p><div class="bilibili">
     <iframe src="//player.bilibili.com/player.html?aid=202847330&bvid=BV1ba411w7bD&cid=258321986&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</div>
-窝轮敏感度的计算说了这么多影响窝轮价格的因素，好像是`引伸波幅`、`时间值`、`街货`等等，是时候要跟大家算算数，究竟一只窝轮是怎样跳动呢？温故知新，大家还记得这个表吗？
-
-<h3 id="最低买卖价位"><a href="#最低买卖价位" class="headerlink" title="最低买卖价位"></a>最低买卖价位</h3><table>
+</div><br>窝轮敏感度的计算说了这么多影响窝轮价格的因素，好像是<code>引伸波幅</code>、<code>时间值</code>、<code>街货</code>等等，是时候要跟大家算算数，究竟一只窝轮是怎样跳动呢？温故知新，大家还记得这个表吗？</p>
+<h3 id="最低买卖价位"><a href="#最低买卖价位" class="headerlink" title="最低买卖价位"></a>最低买卖价位</h3><div class="table-container">
+<table>
 <thead>
 <tr>
-<th align="center">证券价格(元)</th>
-<th align="center">最低买卖价位(元)</th>
+<th style="text-align:center">证券价格(元)</th>
+<th style="text-align:center">最低买卖价位(元)</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="center">0.01 - 0.25</td>
-<td align="center">0.001</td>
+<tbody>
+<tr>
+<td style="text-align:center">0.01 - 0.25</td>
+<td style="text-align:center">0.001</td>
 </tr>
 <tr>
-<td align="center">0.25 - 0.5</td>
-<td align="center">0.005</td>
+<td style="text-align:center">0.25 - 0.5</td>
+<td style="text-align:center">0.005</td>
 </tr>
 <tr>
-<td align="center">0.5 - 10</td>
-<td align="center">0.01</td>
+<td style="text-align:center">0.5 - 10</td>
+<td style="text-align:center">0.01</td>
 </tr>
 <tr>
-<td align="center">10 - 20</td>
-<td align="center">0.02</td>
+<td style="text-align:center">10 - 20</td>
+<td style="text-align:center">0.02</td>
 </tr>
 <tr>
-<td align="center">20 - 100</td>
-<td align="center">0.05</td>
+<td style="text-align:center">20 - 100</td>
+<td style="text-align:center">0.05</td>
 </tr>
 <tr>
-<td align="center">100 - 200</td>
-<td align="center">0.1</td>
+<td style="text-align:center">100 - 200</td>
+<td style="text-align:center">0.1</td>
 </tr>
 <tr>
-<td align="center">200 - 500</td>
-<td align="center">0.2</td>
+<td style="text-align:center">200 - 500</td>
+<td style="text-align:center">0.2</td>
 </tr>
 <tr>
-<td align="center">500 - 1000</td>
-<td align="center">0.5</td>
+<td style="text-align:center">500 - 1000</td>
+<td style="text-align:center">0.5</td>
 </tr>
 <tr>
-<td align="center">1000 - 2000</td>
-<td align="center">1</td>
+<td style="text-align:center">1000 - 2000</td>
+<td style="text-align:center">1</td>
 </tr>
 <tr>
-<td align="center">2000 - 5000</td>
-<td align="center">2</td>
+<td style="text-align:center">2000 - 5000</td>
+<td style="text-align:center">2</td>
 </tr>
 <tr>
-<td align="center">5000 - 9995</td>
-<td align="center">5</td>
+<td style="text-align:center">5000 - 9995</td>
+<td style="text-align:center">5</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>它是不同股份，在不同价格范围内的最低买卖价格，这个概念在我们介绍牛熊证跳动敏感度的时候曾经说过，在窝轮上，一样可以大派用场，因为窝轮的敏感度计算，一样包括了它。</p>
 <h3 id="股票轮跳动敏感度"><a href="#股票轮跳动敏感度" class="headerlink" title="股票轮跳动敏感度"></a>股票轮跳动敏感度</h3><p>一起看一看股票窝轮敏感度，意思是<code>正股跳动1格，窝轮跳动多少</code>的计算公式</p>
 <blockquote>
-<p>$$<br>股份窝轮敏感度 &#x3D; \dfrac{正股最低买卖价位\times对冲值}{兑换比率\times窝轮最低买卖价位}<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+股份窝轮敏感度 = \dfrac{正股最低买卖价位\times对冲值}{兑换比率\times窝轮最低买卖价位}</script></blockquote>
 <p>跟计算股份牛熊证敏感度相比，牛熊证的对冲值通常接近1，但窝轮并非如此。</p>
 <p>对冲值反映的是，<code>当挂钩资产价格跳动1元时，窝轮价格跳动多少% 的一个数值</code>， 而这个数值，是会反映在报价机上，而它是会跟着<code>正股价格</code>、<code>引伸波幅</code>和<code>剩余年期</code>来变的。</p>
 <p>有了对冲值之后，窝轮又会怎样跳呢？我们举一只汇丰窝轮做例子</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="center"></th>
-<th align="center">窝轮A</th>
+<th style="text-align:center"></th>
+<th style="text-align:center">窝轮A</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="center">资产</td>
-<td align="center">汇丰控股</td>
+<tbody>
+<tr>
+<td style="text-align:center">资产</td>
+<td style="text-align:center">汇丰控股</td>
 </tr>
 <tr>
-<td align="center">行使价</td>
-<td align="center">52元</td>
+<td style="text-align:center">行使价</td>
+<td style="text-align:center">52元</td>
 </tr>
 <tr>
-<td align="center">认购&#x2F;认沽</td>
-<td align="center">认购</td>
+<td style="text-align:center">认购/认沽</td>
+<td style="text-align:center">认购</td>
 </tr>
 <tr>
-<td align="center">兑换比率</td>
-<td align="center">10</td>
+<td style="text-align:center">兑换比率</td>
+<td style="text-align:center">10</td>
 </tr>
 <tr>
-<td align="center">对冲值</td>
-<td align="center">30%</td>
+<td style="text-align:center">对冲值</td>
+<td style="text-align:center">30%</td>
 </tr>
 <tr>
-<td align="center">正股价格(元)</td>
-<td align="center">48元</td>
+<td style="text-align:center">正股价格(元)</td>
+<td style="text-align:center">48元</td>
 </tr>
 <tr>
-<td align="center">窝轮价格(元)</td>
-<td align="center">0.145元</td>
+<td style="text-align:center">窝轮价格(元)</td>
+<td style="text-align:center">0.145元</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>这只窝轮，价格在0.25元以下，意思是窝轮的最低买卖价位是0.001元，而假设汇丰在48元，就是正股最低买卖价位是0.05元，至于兌换比率是10兑1，对冲值是30%，把数字代进公式里，</p>
 <blockquote>
-<p>   $$<br>     股份涡轮敏感度&#x3D;\dfrac{0.05 \times 0.3}{10 \times 0.001} &#x3D; 1.5<br>     $$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+     股份涡轮敏感度=\dfrac{0.05 \times 0.3}{10 \times 0.001} = 1.5</script></blockquote>
 <p>原来汇丰跳动1格，窝轮理论上会跳动1.5格，但由于没有半格的跳动，所以正股跳1格，窝轮理论上会跳动1格，而当跳到2格，窝轮理论上就会跳动3格，明不明白呀？</p>
 <h3 id="指数轮跳动敏感度"><a href="#指数轮跳动敏感度" class="headerlink" title="指数轮跳动敏感度"></a>指数轮跳动敏感度</h3><p>如果是指数轮，首先要提醒大家，股份轮是跟随正股的跳动来走动，而指数轮是跟期指跳动的，所以敏感度的计算方法都有一点点不同，這个想法不是正股跳多少，窝轮就跳多少，而是究竟期指要改变多少点，才能让窝轮跳到一格，计算的公式是</p>
 <blockquote>
-<p>$$<br>指数窝轮敏感度 &#x3D; \dfrac{窝轮最低买卖价位 \times 兑换比率}{对充值}<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+指数窝轮敏感度 = \dfrac{窝轮最低买卖价位 \times 兑换比率}{对充值}</script></blockquote>
 <p>举只恒指窝轮做例子</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="center"></th>
-<th align="center">窝轮B</th>
+<th style="text-align:center"></th>
+<th style="text-align:center">窝轮B</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="center">资产</td>
-<td align="center">恒生指数</td>
+<tbody>
+<tr>
+<td style="text-align:center">资产</td>
+<td style="text-align:center">恒生指数</td>
 </tr>
 <tr>
-<td align="center">行使价</td>
-<td align="center">20500点</td>
+<td style="text-align:center">行使价</td>
+<td style="text-align:center">20500点</td>
 </tr>
 <tr>
-<td align="center">认购&#x2F;认沽</td>
-<td align="center">认购</td>
+<td style="text-align:center">认购/认沽</td>
+<td style="text-align:center">认购</td>
 </tr>
 <tr>
-<td align="center">兑换比率</td>
-<td align="center">6000</td>
+<td style="text-align:center">兑换比率</td>
+<td style="text-align:center">6000</td>
 </tr>
 <tr>
-<td align="center">对冲值</td>
-<td align="center">45%</td>
+<td style="text-align:center">对冲值</td>
+<td style="text-align:center">45%</td>
 </tr>
 <tr>
-<td align="center">指数现价</td>
-<td align="center">20000点</td>
+<td style="text-align:center">指数现价</td>
+<td style="text-align:center">20000点</td>
 </tr>
 <tr>
-<td align="center">窝轮价格(元)</td>
-<td align="center">0.150元</td>
+<td style="text-align:center">窝轮价格(元)</td>
+<td style="text-align:center">0.150元</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>这只窝轮，价格在0.25元以下，意思是窝轮的最低买卖价位是0.001元，兑换比率是6000兑1，对冲值是45%，把数字代进公式里，</p>
 <blockquote>
-<p>   $$<br>    指数涡轮敏感度 &#x3D; \dfrac{0.001 \times 6000}{0.45} &#x3D; 13.333点<br>    $$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+    指数涡轮敏感度 = \dfrac{0.001 \times 6000}{0.45} = 13.333点</script></blockquote>
 <p>说到这儿，相信大家都知道，当期指跳动13点，窝轮理论上就会跳动到一格。</p>
 <p>不过，以上的计算，只是计到理论变化，跟窝轮的实际变化通常都有出入，因为正股价格只是影响窝轮价格其中的一个因素，而<code>引伸波幅</code>、<code>时间值</code>、<code>街货量</code>、<code>买卖差价</code>等，一样会影响到窝轮价格，大家要留意哦！</p>
 ]]></content>
@@ -913,13 +931,11 @@
 <p>什么意思呢？</p>
 <blockquote>
 <p>我们举个例子，重磅股汇丰(0005)，经常让人叫做「大笨象」，就是因为它变化较少，除非在个别大市波动的日子，否则通常都是变一点点，像只「大笨象」停下不动。由于市场通常都觉得，汇丰股价的波动性有限，所以汇丰窝轮的引伸波幅，通常都比较平穏。</p>
-</blockquote>
-<blockquote>
 <p>我们再举另外一个例子，这次说到赌业股银河娱乐(0027)，股价在2014年的高位，是84.5元，但是到2015年9月，低位不够20元(19.5元)，还不到两年，高低差距已经是3倍几！这让市场觉得，这只股份的价格波动性会比较高，发行商不敢掉以轻心，所以银河娱乐窝轮的引伸波幅，通常都会比较高。</p>
 </blockquote>
 <h3 id="资产波动性与价格"><a href="#资产波动性与价格" class="headerlink" title="资产波动性与价格"></a>资产波动性与价格</h3><p>还是不明白？大家可以回想一下我们去旅游购买保险的情况，如果去日本、新加坡这些治安比较好的国家，大家购买旅游保险的费用，是不是都比较便宜呀？但是如果我们去些战乱国家呢？旅行保险的收费一定贵很多！套入窝轮，波动性一般较大的股份，跟它挂钩的窝轮，引伸波幅都会高一些，就是大家的买入成本都可能要高一点！</p>
 <p>要留意的是引伸波幅是每一天、每个小时、甚至是每一分钟都会变！回想旅游买保险的情况，当某个国家的治安变差，又或者有旅游警示，保费是不是都会增加呀？</p>
-<p>套回窝轮，如果正股价格突然变得波动，发行商用作对冲窝轮的期权，引伸波幅都会变动，这样交易员就会把期权引伸波幅的变化，反映在窝轮的引伸波幅上，这样窝轮的引伸波幅就会出现变化。好像上一节课所说，引伸波幅升，call轮跟put轮价格理论上都会上升，而当引伸波幅下跌的时候，call&#x2F; put轮价格理论上都要下跌，明不明白呢？</p>
+<p>套回窝轮，如果正股价格突然变得波动，发行商用作对冲窝轮的期权，引伸波幅都会变动，这样交易员就会把期权引伸波幅的变化，反映在窝轮的引伸波幅上，这样窝轮的引伸波幅就会出现变化。好像上一节课所说，引伸波幅升，call轮跟put轮价格理论上都会上升，而当引伸波幅下跌的时候，call/ put轮价格理论上都要下跌，明不明白呢？</p>
 ]]></content>
       <categories>
         <category>港股</category>
@@ -944,6 +960,7 @@
 <p>再举个例子，有只股份的股价是50元，本来它每年都派息1元，假如所有因素不变，减除息率就会变了49元；但有一年，它突破派息2元，减除息率就变成48啦，由于价格会自动变少，跟它挂钩的CALL轮，价格也会变少，而PUT轮就会高了。</p>
 <h3 id="引伸波幅"><a href="#引伸波幅" class="headerlink" title="引伸波幅"></a>引伸波幅</h3><p><code>最后一点，也是最多投资者不明白的一点，就是引伸波幅。</code>引伸波幅是指市场对正股价格未来波动性的预测，简单来说，预期波动性越高，引伸波幅就会上升，call轮跟put轮价格都会受惠，但比喻说长假期之前，由于预期交投一般较静，这样引伸波幅就有可能下跌，于是call put轮价格都会受到负面的影响。下一节法巴学堂，我们会再详细讲解什么是引伸波幅。</p>
 <p>一口气讲了这么多，是时候总结一下，不同的因素怎样影响窝轮的价格，我们一眼看尽吧！</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -953,11 +970,12 @@
 <th>认沽证 Put 轮</th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+<tr>
 <td>相关资产价格</td>
-<td>上升&#x2F;下跌</td>
-<td>价格上升&#x2F;下跌</td>
-<td>价格下跌&#x2F;上升</td>
+<td>上升/下跌</td>
+<td>价格上升/下跌</td>
+<td>价格下跌/上升</td>
 </tr>
 <tr>
 <td>时间值</td>
@@ -967,15 +985,15 @@
 </tr>
 <tr>
 <td>引伸波幅</td>
-<td>上升&#x2F;下跌</td>
-<td>价格上升&#x2F;下跌</td>
-<td>价格上升&#x2F;下跌</td>
+<td>上升/下跌</td>
+<td>价格上升/下跌</td>
+<td>价格上升/下跌</td>
 </tr>
 <tr>
 <td>利率</td>
-<td>上升&#x2F;下跌</td>
-<td>价格上升&#x2F;下跌</td>
-<td>价格下跌&#x2F;上升</td>
+<td>上升/下跌</td>
+<td>价格上升/下跌</td>
+<td>价格下跌/上升</td>
 </tr>
 <tr>
 <td>派息</td>
@@ -983,7 +1001,9 @@
 <td>价格下跌</td>
 <td>价格上升</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 ]]></content>
       <categories>
         <category>港股</category>
@@ -1017,8 +1037,6 @@
 <p>接着就看年期，每只窝轮都有个到期日，简单来说，窝轮的年期愈长，价值就会越高。为什么呢？</p>
 <blockquote>
 <p>再用爬山的例子，要你爬上大帽山500米的位置，给你5个小时，和给你8个小时，哪个机会会大一些呢？当然是8个小时啦，因为你可以有更多时间去爬山嘛。</p>
-</blockquote>
-<blockquote>
 <p>套回窝轮，如果年期长一些，意思是有多点时间给正股，升到和跌到行使价的位置，多了时间就代表机会大一些，风险就自然低一点啦。相反，如果年期短一些的话，正股改变的时间就没那么多，风险就自然大一点，但潜在回报和亏损的幅度，也会更大。</p>
 </blockquote>
 <p>总结资产价格和时间这两个因素，就可以引伸到接下来的概念，就是<code>一只窝轮的价值，主要由两部分组成，第一是内在值，第二是时间值</code>。</p>
@@ -1027,7 +1045,8 @@
 <blockquote>
 <p>再用刚才的例子，5个小时是时间值，行使价是500米。 5个小时内去不到500米就好像窝轮未变成价内，这样内在值就等于0；但如果一早已经上到500米或以上，看到的额外风景就是赚到的内在值了<strong>。</strong></p>
 </blockquote>
-<p><font size="2" color="red"><b>以上例子的目的是以日常生活来比喻窝轮的某一种条款或特性，让投资者更容易初步了解窝轮产品。以上例子并不能代表亦不能完全覆盖窝轮的所有条款或特性。投资者投资时需要全面了解窝轮的条款，特性和风险。</b></font></p>
+<font size="2" color="red"><b>以上例子的目的是以日常生活来比喻窝轮的某一种条款或特性，让投资者更容易初步了解窝轮产品。以上例子并不能代表亦不能完全覆盖窝轮的所有条款或特性。投资者投资时需要全面了解窝轮的条款，特性和风险。</b></font>
+
 ]]></content>
       <categories>
         <category>港股</category>
@@ -1053,34 +1072,37 @@
 <h3 id="认购证及认沽证"><a href="#认购证及认沽证" class="headerlink" title="认购证及认沽证"></a>认购证及认沽证</h3><p><strong>认购证</strong>，顾名思义，是指让持有者拥有购入相关资产的权利，所以当相关资产的价格上升的时候，认购证价值理论上也会相对上升，属于看好的投资工具，香港散户会叫它为<em>「Call 轮」</em>。</p>
 <p>与认购证相反，<strong>认沽证</strong>就是让持有者拥有沽出相关资产的权利，所以当相关资产的价格下跌，认沽证价值反则会上升，属于看淡的投资工具，香港散户习惯称为<em>「Put 轮」</em>。</p>
 <p>看一看这个表就一目了然了。总括来说，CALL就是看好，PUT就是看空，「其实一点都不难」！</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="left"></th>
-<th align="left">认购证&#x2F; Call 轮</th>
-<th align="left">认沽证&#x2F; Put 轮</th>
+<th style="text-align:left"></th>
+<th style="text-align:left">认购证/ Call 轮</th>
+<th style="text-align:left">认沽证/ Put 轮</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="left"><strong>对后市看法</strong></td>
-<td align="left">看升</td>
-<td align="left">看跌</td>
+<tbody>
+<tr>
+<td style="text-align:left"><strong>对后市看法</strong></td>
+<td style="text-align:left">看升</td>
+<td style="text-align:left">看跌</td>
 </tr>
 <tr>
-<td align="left"><strong>正股价格上升</strong></td>
-<td align="left">窝轮价格上升</td>
-<td align="left">窝轮价格下跌</td>
+<td style="text-align:left"><strong>正股价格上升</strong></td>
+<td style="text-align:left">窝轮价格上升</td>
+<td style="text-align:left">窝轮价格下跌</td>
 </tr>
 <tr>
-<td align="left"><strong>正股价格下跌</strong></td>
-<td align="left">窝轮价格下跌</td>
-<td align="left">窝轮价格上升</td>
+<td style="text-align:left"><strong>正股价格下跌</strong></td>
+<td style="text-align:left">窝轮价格下跌</td>
+<td style="text-align:left">窝轮价格上升</td>
 </tr>
-</tbody></table>
-<p>虽然窝轮在香港比牛熊证更早出现 (90年代，可能还比你更年轻)，但是窝轮对不少投资者来说，可能是更复杂的产品。有看过法巴学堂《牛熊证篇》的观众可能记得，牛熊证有<code>收回价</code>、<code>行使价</code>、<code>实际杠杆</code>、<code>兑换比率</code>，<code>到期日</code>等条款，还有个<code>强制收回机制</code>；而窝轮呢？跟牛熊证一样，都会有行使价、实际杠杆、兑换比率，到期日等，但就<code>没有牛熊证的收回价</code>，不过就会受<em><strong>引伸波幅</strong></em>，和<em><strong>时间值损耗</strong></em>的影响。</p>
+</tbody>
+</table>
+</div>
+<p>虽然窝轮在香港比牛熊证更早出现 (90年代，可能还比你更年轻)，但是窝轮对不少投资者来说，可能是更复杂的产品。有看过法巴学堂《牛熊证篇》的观众可能记得，牛熊证有<code>收回价</code>、<code>行使价</code>、<code>实际杠杆</code>、<code>兑换比率</code>，<code>到期日</code>等条款，还有个<code>强制收回机制</code>；而窝轮呢？跟牛熊证一样，都会有行使价、实际杠杆、兑换比率，到期日等，但就<code>没有牛熊证的收回价</code>，不过就会受<strong><em>引伸波幅</em></strong>，和<strong><em>时间值损耗</em></strong>的影响。</p>
 <p>引伸波幅？时间值？什么来的？可以吃的吗？你放心，法巴学堂将会慢慢教导你！</p>
-<p><font size="3" color="red">以上例子的目的是以日常生活来比喻窝轮的某一种条款或特性，让投资者更容易初步了解窝轮产品。以上例子并不能代表亦不能完全覆盖窝轮的所有条款或特性。投资者投资时需要全面了解窝轮的条款，特性和风险。</font></p>
-]]></content>
+<font size="3" color="red">以上例子的目的是以日常生活来比喻窝轮的某一种条款或特性，让投资者更容易初步了解窝轮产品。以上例子并不能代表亦不能完全覆盖窝轮的所有条款或特性。投资者投资时需要全面了解窝轮的条款，特性和风险。</font>]]></content>
       <categories>
         <category>港股</category>
       </categories>
@@ -1094,128 +1116,147 @@
     <title>窝轮和牛熊证的比较及风险</title>
     <url>/posts/476f59e6.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="窝轮和牛熊证的比较及风险"><a href="#窝轮和牛熊证的比较及风险" class="headerlink" title="窝轮和牛熊证的比较及风险"></a>窝轮和牛熊证的比较及风险</h1><p>窝轮和牛熊证同属具有杠杆效应的衍生工具，但投资者亦需留意两者的产品结构有不同之处，所以投资者应了解当中的异同，并因应个人风险取向及目标而选择利用窝轮或牛熊证作投资部署。</p>
-<h2 id="窝轮与牛熊证的共通-x2F-类近之处"><a href="#窝轮与牛熊证的共通-x2F-类近之处" class="headerlink" title="窝轮与牛熊证的共通&#x2F;类近之处"></a>窝轮与牛熊证的共通&#x2F;类近之处</h2><table>
+<h2 id="窝轮与牛熊证的共通-类近之处"><a href="#窝轮与牛熊证的共通-类近之处" class="headerlink" title="窝轮与牛熊证的共通/类近之处"></a>窝轮与牛熊证的共通/类近之处</h2><div class="table-container">
+<table>
 <thead>
 <tr>
-<th align="left"></th>
-<th align="left">窝轮及牛熊证</th>
+<th style="text-align:left"></th>
+<th style="text-align:left">窝轮及牛熊证</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="left">买卖渠道</td>
-<td align="left">买卖方法与其他上市股票一样，只须拥有一般可买卖港股的证券户口，无需设立孖展户口</td>
+<tbody>
+<tr>
+<td style="text-align:left">买卖渠道</td>
+<td style="text-align:left">买卖方法与其他上市股票一样，只须拥有一般可买卖港股的证券户口，无需设立孖展户口</td>
 </tr>
 <tr>
-<td align="left">买卖成本</td>
-<td align="left">免印花税，但仍须付交易所交易费、证监会交易征费等及经纪佣金</td>
+<td style="text-align:left">买卖成本</td>
+<td style="text-align:left">免印花税，但仍须付交易所交易费、证监会交易征费等及经纪佣金</td>
 </tr>
 <tr>
-<td align="left">杠杆效应</td>
-<td align="left">同具杠杆效应的衍生工具</td>
+<td style="text-align:left">杠杆效应</td>
+<td style="text-align:left">同具杠杆效应的衍生工具</td>
 </tr>
 <tr>
-<td align="left">最大损失上限</td>
-<td align="left">最大潜在损失为本金投资金额，不涉及补仓。其他相关风险请参阅以下栏目说明。</td>
+<td style="text-align:left">最大损失上限</td>
+<td style="text-align:left">最大潜在损失为本金投资金额，不涉及补仓。其他相关风险请参阅以下栏目说明。</td>
 </tr>
 <tr>
-<td align="left">产品开价责任</td>
-<td align="left">窝轮和牛熊证发行商必须为旗下产品委任流通量提供者(又称「庄家」)，为产品作出报价和提供流通量。 庄家提供流通量有两种方式，分别是「回应报价」及「主动报价」。详情请参阅以下栏目注(二)说明。</td>
+<td style="text-align:left">产品开价责任</td>
+<td style="text-align:left">窝轮和牛熊证发行商必须为旗下产品委任流通量提供者(又称「庄家」)，为产品作出报价和提供流通量。 庄家提供流通量有两种方式，分别是「回应报价」及「主动报价」。详情请参阅以下栏目注(二)说明。</td>
 </tr>
-</tbody></table>
-<h2 id="窝轮与牛熊证的不同之处"><a href="#窝轮与牛熊证的不同之处" class="headerlink" title="窝轮与牛熊证的不同之处"></a>窝轮与牛熊证的不同之处</h2><table>
+</tbody>
+</table>
+</div>
+<h2 id="窝轮与牛熊证的不同之处"><a href="#窝轮与牛熊证的不同之处" class="headerlink" title="窝轮与牛熊证的不同之处"></a>窝轮与牛熊证的不同之处</h2><div class="table-container">
+<table>
 <thead>
 <tr>
-<th align="left"></th>
-<th align="left">窝轮</th>
-<th align="left">牛熊证</th>
+<th style="text-align:left"></th>
+<th style="text-align:left">窝轮</th>
+<th style="text-align:left">牛熊证</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="left">相关资产选择</td>
-<td align="left">较多选择，目前超过300只正股及指数相关资产</td>
-<td align="left">较少选择，目前只有约30只市值最大的个股及主要指数</td>
+<tbody>
+<tr>
+<td style="text-align:left">相关资产选择</td>
+<td style="text-align:left">较多选择，目前超过300只正股及指数相关资产</td>
+<td style="text-align:left">较少选择，目前只有约30只市值最大的个股及主要指数</td>
 </tr>
 <tr>
-<td align="left">理论价格构成</td>
-<td align="left">内在值 + 时间值</td>
-<td align="left">内在值 + 财务费用</td>
+<td style="text-align:left">理论价格构成</td>
+<td style="text-align:left">内在值 + 时间值</td>
+<td style="text-align:left">内在值 + 财务费用</td>
 </tr>
 <tr>
-<td align="left">引伸波幅</td>
-<td align="left">引伸波幅越高，理论价格越高</td>
-<td align="left">较少受引伸波幅影响</td>
+<td style="text-align:left">引伸波幅</td>
+<td style="text-align:left">引伸波幅越高，理论价格越高</td>
+<td style="text-align:left">较少受引伸波幅影响</td>
 </tr>
 <tr>
-<td align="left">时间值</td>
-<td align="left">窝轮越接近到期日，其时间值耗损的幅度愈大</td>
-<td align="left">较少受时间值的影响</td>
+<td style="text-align:left">时间值</td>
+<td style="text-align:left">窝轮越接近到期日，其时间值耗损的幅度愈大</td>
+<td style="text-align:left">较少受时间值的影响</td>
 </tr>
 <tr>
-<td align="left">强制收回机制</td>
-<td align="left">没有</td>
-<td align="left">有，当相关资产价格触及收回价</td>
+<td style="text-align:left">强制收回机制</td>
+<td style="text-align:left">没有</td>
+<td style="text-align:left">有，当相关资产价格触及收回价</td>
 </tr>
 <tr>
-<td align="left">到期结算</td>
-<td align="left">个股认股证按到期日前5天的平均收市价</td>
-<td align="left">个股牛熊证按到期日前一日(即最后交易日)的收市价</td>
+<td style="text-align:left">到期结算</td>
+<td style="text-align:left">个股认股证按到期日前5天的平均收市价</td>
+<td style="text-align:left">个股牛熊证按到期日前一日(即最后交易日)的收市价</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <h2 id="窝轮和牛熊证的相关风险"><a href="#窝轮和牛熊证的相关风险" class="headerlink" title="窝轮和牛熊证的相关风险"></a>窝轮和牛熊证的相关风险</h2><p>窝轮和牛熊证是具有杠杆效应的产品，因此投资前必须清楚有关风险。在窝轮和牛熊证的上市文件以及由港交所及业界共同发布的《常问问题─香港上市权证及牛熊证市场》(2016年8月19日版)文件内详列主要风险：</p>
 <ol>
-<li><p><strong>无抵押</strong>：窝轮及牛熊证并无以发行人或担保人(如有)的任何资产作抵押，亦无以任何其他抵押品支持。</p>
-</li>
-<li><p><strong>信贷风险</strong>：窝轮及牛熊证持有人是发行人及担保人(如有)的无抵押债权人，其对发行人或担保人(如有)可能持有的任何资产并无优先申索权。</p>
-</li>
-<li><p><strong>杠杆风险</strong>：窝轮及牛熊证的价格通常低于相关资产(又称正股)的价格，但窝轮和牛熊证的价格变动程度可能远超其正股。窝轮或牛熊证的潜在回报可能高于正股的潜在回报，但在最差情况下，窝轮或牛熊证的价值或会跌至零，而持有人可能损失其全部投资金额。</p>
-</li>
-<li><p><strong>限定的有效期</strong>：窝轮及牛熊证设有到期日，所以设有限定的有效期。除非窝轮或牛熊证属价内，否则于到期时将没有价值。</p>
-</li>
-<li><p><strong>时间耗损</strong>：若其他因素不变，窝轮或牛熊证的价值将随时间递减直至到期日时变为零。</p>
-</li>
-<li><p><strong>市场力量</strong> ：窝轮或牛熊证的价格同时受本身的供求情况影响。</p>
-</li>
-<li><p><strong>成交额</strong>：不应视成交额为窝轮或牛熊证价格上升的指标。除市场力量外，窝轮或牛熊证的价格受多项因素影响，如相关资产的价格及其波幅、到期前的剩馀时间、相关资产的利率及预期股息等。</p>
-</li>
-<li><p><strong>第二市场可能有限</strong>：流通量提供者可能是某特定窝轮或牛熊证的唯一市场参与者。第二市场越是有限，投资者就越难在窝轮或牛熊证到期前将其价值变现。</p>
-</li>
-<li><p><strong>影响流通量服务的操作及技术问题</strong>：当出现阻碍流通量提供者提供流通量的操作及技术问题时，即使流通量提供者可在该等情况下提供流通量，其流通量供应的表现亦可能受到不利影响。例如：</p>
-</li>
+<li><strong>无抵押</strong>：窝轮及牛熊证并无以发行人或担保人(如有)的任何资产作抵押，亦无以任何其他抵押品支持。</li>
+</ol>
+<ol>
+<li><strong>信贷风险</strong>：窝轮及牛熊证持有人是发行人及担保人(如有)的无抵押债权人，其对发行人或担保人(如有)可能持有的任何资产并无优先申索权。</li>
+</ol>
+<ol>
+<li><strong>杠杆风险</strong>：窝轮及牛熊证的价格通常低于相关资产(又称正股)的价格，但窝轮和牛熊证的价格变动程度可能远超其正股。窝轮或牛熊证的潜在回报可能高于正股的潜在回报，但在最差情况下，窝轮或牛熊证的价值或会跌至零，而持有人可能损失其全部投资金额。</li>
+</ol>
+<ol>
+<li><strong>限定的有效期</strong>：窝轮及牛熊证设有到期日，所以设有限定的有效期。除非窝轮或牛熊证属价内，否则于到期时将没有价值。</li>
+</ol>
+<ol>
+<li><strong>时间耗损</strong>：若其他因素不变，窝轮或牛熊证的价值将随时间递减直至到期日时变为零。</li>
+</ol>
+<ol>
+<li><strong>市场力量</strong> ：窝轮或牛熊证的价格同时受本身的供求情况影响。</li>
+</ol>
+<ol>
+<li><strong>成交额</strong>：不应视成交额为窝轮或牛熊证价格上升的指标。除市场力量外，窝轮或牛熊证的价格受多项因素影响，如相关资产的价格及其波幅、到期前的剩馀时间、相关资产的利率及预期股息等。</li>
+</ol>
+<ol>
+<li><strong>第二市场可能有限</strong>：流通量提供者可能是某特定窝轮或牛熊证的唯一市场参与者。第二市场越是有限，投资者就越难在窝轮或牛熊证到期前将其价值变现。</li>
+</ol>
+<ol>
+<li><strong>影响流通量服务的操作及技术问题</strong>：当出现阻碍流通量提供者提供流通量的操作及技术问题时，即使流通量提供者可在该等情况下提供流通量，其流通量供应的表现亦可能受到不利影响。例如：</li>
 </ol>
 <ul>
 <li>买入与卖出价之间的差价或会远阔于其正常标准;</li>
 <li>流通量提供者将提供的流通量数目可能远少于其正常标准;及</li>
 <li>流通量提供者的回应报价时间可能远超于其正常标准。</li>
 </ul>
-<ol start="10">
+<ol>
 <li><strong>挂钩股份的公司行动</strong>：企业行动影响正股价格继而影响窝轮和牛熊证的价格。视乎上市文件的条款，窝轮和牛熊证的细则(包括换股比率、行使价等)不一定就公司行动作出调整。若需作出调整，亦只会待所有必需参数得以厘定后才生效(称为「生效日」)。正股除净日至有关调整生效日期间，窝轮和牛熊证的价格可能较为波动，于该段期间买卖相关窝轮和牛熊证时应特别注意。此外，在该段期间到期的窝轮和牛熊证将不会作出调整。</li>
 </ol>
 <h3 id="注：回应报价及主动报价"><a href="#注：回应报价及主动报价" class="headerlink" title="注：回应报价及主动报价"></a>注：<b>回应报价</b>及<b>主动报价</b></h3><p><b>回应报价</b></p>
 <p>回应报价是指庄家因应投资者的报价要求，于交易系统输入买卖指示提供流通量。回应报价准则的标准适用于所有上市结构性产品的最低服务水平。目前，回应报价的最低服务水平要求为</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="left">服务水平</th>
-<th align="left">最低要求</th>
+<th style="text-align:left">服务水平</th>
+<th style="text-align:left">最低要求</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="left">回应报价的最长时间</td>
-<td align="left">10 分钟</td>
+<tbody>
+<tr>
+<td style="text-align:left">回应报价的最长时间</td>
+<td style="text-align:left">10 分钟</td>
 </tr>
 <tr>
-<td align="left">最大买卖差价</td>
-<td align="left">20 个价位</td>
+<td style="text-align:left">最大买卖差价</td>
+<td style="text-align:left">20 个价位</td>
 </tr>
 <tr>
-<td align="left">最少报价数量</td>
-<td align="left">20 个买卖单位</td>
+<td style="text-align:left">最少报价数量</td>
+<td style="text-align:left">20 个买卖单位</td>
 </tr>
 <tr>
-<td align="left">最短持盘时间</td>
-<td align="left">5 分钟</td>
+<td style="text-align:left">最短持盘时间</td>
+<td style="text-align:left">5 分钟</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>惟投资者须注意以下情况下庄家无需按要求回应报价：</p>
 <ul>
 <li>若权证或牛熊证的理论价值低于01港元</li>
@@ -1226,40 +1267,44 @@
 </ul>
 <p><b>主动报价</b></p>
 <p>主动报价是指庄家于交易系统主动输入买卖指示。主动报价准则可省却投资者要求报价的不便，亦可提高市场透明度。目前，符合主动报价条件的认股证及牛熊证的最低服务水平为：</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="center">服务水平</th>
-<th align="left">最低要求</th>
+<th style="text-align:center">服务水平</th>
+<th style="text-align:left">最低要求</th>
 <th></th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="center">最少报价数量</td>
-<td align="left">20 个买卖单位</td>
+<tbody>
+<tr>
+<td style="text-align:center">最少报价数量</td>
+<td style="text-align:left">20 个买卖单位</td>
 <td></td>
 </tr>
 <tr>
-<td align="center">主动报价时间</td>
-<td align="left">不应少于该交易日的90%，而每次暂停不应超过 10 分钟</td>
+<td style="text-align:center">主动报价时间</td>
+<td style="text-align:left">不应少于该交易日的90%，而每次暂停不应超过 10 分钟</td>
 <td></td>
 </tr>
 <tr>
-<td align="center">最大买卖差价</td>
-<td align="left">与本地指数挂钩(如恒指、国指等)</td>
+<td style="text-align:center">最大买卖差价</td>
+<td style="text-align:left">与本地指数挂钩(如恒指、国指等)</td>
 <td>与交投活跃股份*挂钩</td>
 </tr>
 <tr>
-<td align="center">认股证</td>
-<td align="left">5 个差价</td>
+<td style="text-align:center">认股证</td>
+<td style="text-align:left">5 个差价</td>
 <td>10 个差价</td>
 </tr>
 <tr>
-<td align="center">牛熊证</td>
-<td align="left">10 个差价</td>
+<td style="text-align:center">牛熊证</td>
+<td style="text-align:left">10 个差价</td>
 <td>15 个差价</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>「交投活跃股份」是合资格发行牛熊证的上市股份，股份名单会每季更新并登载于香港交易所网站 (<a href="http://www.hkex.com.hk/chi/prod/secprod/cbbc/underlying_latest_c.htm">http://www.hkex.com.hk/chi/prod/secprod/cbbc/underlying_latest_c.htm</a>)</p>
 <p>有关回应报价及主动报价的更详细资料，请参阅「上市结构性产品流通量供应的业界准则」(<a href="http://www.hkex.com.hk/chi/prod/secprod/dwrc/Documents/principle_c.pdf">http://www.hkex.com.hk/chi/prod/secprod/dwrc/Documents/principle_c.pdf</a>)</p>
 ]]></content>
@@ -1285,30 +1330,34 @@
 <blockquote>
 <p>假设每个用户借了10W快钱，那么1W个用户加起来，就是10亿元的贷款，如果这个事情没有后续了，那么他赚的就i真的只是利息钱。<br>但是这个事情是有后续的，当第一轮放贷后，蚂蚁手中就有了10亿元的债权，他们可以用10亿元的债权当作资产，再去融资了，这个时候漏洞就出现了，如果把资产再换成10亿元有回到了手里了，就等于又有钱去第二轮放贷了，然后再拿着第二轮放出来的债权再去融资换钱，就又有钱去第三轮放贷了，无限次循环下去就等于是<code>空手套白狼</code>了。<br>但实际操作过程中，细节上会有一些细微的差异：融资可以有两条途径，第一条是找银行抵押贷款，但是银行不会全额贷款出来，10亿元的债权去抵押，银行只会给你7亿元。所以第二轮手上就只有7亿了，到了第三轮就只有4.9亿了，这个游戏持续不了几轮，那游戏就结束了。<br>所以蚂蚁选择第二条路，叫<code>资产证券化</code>，在2013年视频主参与的就是这样一件事情：当时花呗和借呗还没有出现，当时还叫<code>阿里小贷</code>。阿里小贷想拿10亿元的债券去换回10亿元的现金。正常情况下这是不可能的。于是在资产证券化的过程中，复杂的设计就出现了。<br>债权被设计成了A B C 3层，就像是一个肉夹馍一样。其中A层占了70%，也就是7亿元，固定利率是6.1%</p>
 </blockquote>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="center"></th>
-<th align="center">比例</th>
-<th align="center">固定利率</th>
+<th style="text-align:center"></th>
+<th style="text-align:center">比例</th>
+<th style="text-align:center">固定利率</th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="center">A</td>
-<td align="center">70%</td>
-<td align="center">6.1%</td>
+<tbody>
+<tr>
+<td style="text-align:center">A</td>
+<td style="text-align:center">70%</td>
+<td style="text-align:center">6.1%</td>
 </tr>
 <tr>
-<td align="center">B</td>
-<td align="center">25%</td>
-<td align="center">7.5%</td>
+<td style="text-align:center">B</td>
+<td style="text-align:center">25%</td>
+<td style="text-align:center">7.5%</td>
 </tr>
 <tr>
-<td align="center">C</td>
-<td align="center">15%</td>
-<td align="center">？</td>
+<td style="text-align:center">C</td>
+<td style="text-align:center">15%</td>
+<td style="text-align:center">？</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <blockquote>
 <p>阿里借给商家的时候，他们的利率是18%以上，而A只分到6.1%，那么就剩12%不到了。这些利润就留给了C，B也一样，把7.5%以上的利润都留给了C，然后由C给B做担保，B再给A做担保。意思就是如果贷款收不回来了，出现了亏损就先去亏C，C亏光了再亏B，B亏光了再亏A，结果就是A很安全，C是高风险高利润的。所以这个资产证券化项目设计完之后，10亿元的债权A，B部分就卖光了，于是就换回了9.5亿元的现金，就可以继续再滚动去放贷款了。那么这个游戏能滚动多少轮呢？在重庆前市长黄奇帆的书里说了，在95页，黄奇帆说了：<code>蚂蚁金服把30多亿元资本金通过资产证券化循环的发放贷款，在几年里循环了40多次，造成了30多亿元资本金，发放了3000多亿元的贷款，形成了上百倍的高杠杆。</code> 在资产证券化的过程中，C层，往往是留给蚂蚁集团自己内部消化的，蚂蚁的子公司之间相互交叉购买。但问题是买C用的钱是他们自己的钱吗？3000多亿元的贷款，只有30多亿的资本金，怎么可能是他们自己的钱呢？基本是子公司之间你融来的钱买我的C，我融来的钱买你的C，互相交叉着买，那最终的风险谁来抗呢？风险可能已经层层转嫁给了买理财产品的人了。高利润留给自己，风险洒给社会。所以监管机构也发现了这个漏洞，开始要求资产证券化时，必须要有资本金的要求，等于限制住了蚂蚁集团的杠杆率。资产证券化就不可能无限循环下去了。所以再看蚂蚁的招股说明书里面提到了，<code>现在消费贷款里除了资产证券化部分，剩下大部分是跟银行合作发放的贷款</code>。</p>
 </blockquote>
@@ -1318,54 +1367,100 @@
 <p>
 感谢大会的邀请，很高兴有这个机会和大家一起学习、交流和探讨。2013 年，也是在上海，我来到上海陆家嘴金融峰会，发表了一通关于互联网金融的被称为异想天开的观点。七年过去了，今天我作为非官方的非专业人士，又来到了上海的外滩金融论坛，希望有一些观点，供大家思考。
 
-</p><p>其实今天要不要来讲，坦白说我也很纠结。但是我想我们这批人，有一个东西是责无旁贷的，就是为未来思考的责任，因为这个世界虽然留给我们发展的机会很多，但是关键性的机会也只有一两次，现在就是到了最关键的时刻。</p>
-<p>所以我想来这里讲讲我自己的想法和一些看法，这些想法，是我们自己16年实践经验总结出来，加上有幸担任联合国数字合作高级别小组联合主席和联合国可持续发展目标倡导者期间，我跟全世界的学者、专家还有实践者经过了探讨和研究。</p>
-<p>我想，我已经算是退休，在这个非官方的论坛上畅所欲言一下，分享一下一个非专业人士的非专业看法，所幸的我发现是，现在很多专业人士已经不讲专业了。</p>
-<p>我有三个观点，供大家参考，可能不成熟，讲得不对，贻笑大方，大家姑且一听，觉得没道理，忘了就是。</p>
-<p><b><font size="4">第一个观点:</font></b></p>
-<p>一直以来我们有一些思维上的惯性，比如总觉得要为了跟国际接轨，必须要做欧美发达国家有，而我们没有的所谓空白，要填补国内空白，把填补国内空白当作追求的目标。</p>
-<p>我一直觉得，在今年的形势下，填补空白这句话是有问题的，不是因为欧美的就是先进的，就是我们要去填补的。其实今天我们不应该要追求要和哪个东西接轨，适应哪国的标准，填补哪个空白，今天我们要思考的是，怎么和未来接轨，怎么适应未来的标准，怎么弥补未来的空白，我们要想明白，未来是如何的，以及自己到底要做什么，然后再去看看别人怎么做，如果永远重复别人的语言，讨论别人设定的主题，我们不但会迷失现在，更会错失未来。</p>
-<p>二战以后，世界需要恢复经济的繁荣，布雷登森林体系建立起来以后，对全球经济的推动是巨大的。后来亚洲金融风暴发生后，巴塞尔协议讲的风险控制，越来越受重视，到后来变成了一个风险控制的操作标准。现在的趋势是，越来越象是全世界只讲风险控制，不讲发展，很少人去讲年轻人的机会、发展中国家的机会在哪里。</p>
-<p>这其实也诞生了今天世界很多问题的根源。我们今天也看到巴塞尔协议本身也让欧洲的整体创新受到了很大的限制，比如在数字金融方面。</p>
-<p>巴塞尔协议，比较像一个老年人俱乐部，它要解决的是运转了几十年的金融体系老化的问题，欧洲那些老化的体制，系统极其复杂。但是中国的问题正好相反，不是系统性金融风险，因为中国金融基本上没有系统，中国实际上是“缺乏金融系统”的风险。</p>
-<p>中国的金融和其他刚成长起来的发展中国家一样，在金融业我们是青春少年，还没有成熟的生态体系，没有完全的流动起来。中国有很多大银行，更像是大江大河和血液的动脉，但是我们今天更需要湖泊、需要水塘，需要小溪小河，需要各种各样的沼泽地，缺少了这些生态系统，我们才会涝的时候涝死，旱的时候旱死，所以，今天我们国家是缺乏健康金融系统的风险，我们需要的是建设金融的健康系统，而不是金融系统性风险。</p>
-<p>这就像两个完全不同的病，就像老年痴呆症和小儿麻痹症，看起来都一样，但其实是完全不同的病。如果小孩子吃了老年痴呆的药，不光会得老人的病，还有很多莫名其妙的病。</p>
-<p>这个巴塞尔协议就是考虑系统老化、过度复杂的老年人的病，而我们要思考的是跟着老年人学什么？要知道老年人和年轻人关心的问题不同。年轻人城市关心的是有没有学校，老年人关心是有没有医院。</p>
-<p>所以，今年世界的变化是非常神奇，非常快速的。昨天晚上，我们在上海决定了蚂蚁上市的定价。这个全人类有史以来最大规模的上市定价，而且是在纽约以外的城市定价，这是第一次。这在五年前，甚至三年前，想都不敢想，但是奇迹就这么发生了。</p>
-<p><b><font size="4">第二，创新一定要付出代价，我们这代人必须有所担当。</font></b></p>
-<p>习主席讲过“功成不必在我”，我理解这句话讲的是一种责任，讲的是为未来、为明天、为下一代去担当。今天世界的很多问题包括中国，都只能用创新去解决。但是真正的创新，一定是没有人带路的，一定需要有人担当的，因为创新一定会犯错误，问题不是怎么样不犯错误，而是犯了错误之后，能不能完善修正，坚持创新。做没有风险的创新，就是扼杀创新，这世界上没有无风险的创新。很多时候，把风险控制为零，这才是最大的风险。</p>
-<p>当年的赤壁之战，我认为，曹操要把所有的船连起来，这就是中国也是全世界最早的航母的思想，但是一把火烧掉后，一千年来，中国人连想也不敢去想，一旦想到那把火，谁还想把船做大，谁还会有这种系统性思考？</p>
-<p>七八年以前，我提过互联网金融这个概念，也在上海。而且我们一直强调，互联网金融必须有三个核心要素：一是必须拥有丰富的数据；二是必须基于丰富大数据下的风控技术；第三，必须拥有基于大数据的信用体系。</p>
-<p>用这三个标准来衡量，就会看到 P2P 根本不是互联网金融，但是今天不能因为 P2P， 把整个互联网技术对金融的创新给否定了，其实我们想一想，中国怎么可能在几年以内就出现了几千家互联网金融公司？ 我们是不是应该检查一下，是什么原因诞生了几千家的互联网金融，所谓的P2P公司？今天我们的监管确实很难，全球的监管都很难。</p>
-<p>创新主要来自于市场，创新来自于基层，创新来自于年轻人。对监管的挑战越来越大，其实监和管是两回事，“监”是看着你发展，关注你发展。</p>
-<p>管是有问题的时候或是预判有问题的时候才去管，但是我们现在，管的能力很强，监的能力明显不足。</p>
-<p>好的创新不怕监管，但是怕用昨天的方式去监管，我们不能用管理火车站的办法去管理飞机场，不能用昨天的方法来管理未来。</p>
-<p>“监”和“管”不一样，政策和文件也不一样。今天这个不许，那个不许，那都叫文件。政策是机制建设，是激励发展。今天全世界，特别是中国，需要很多的“政策专家”，而不是文件专家。</p>
-<p>制订政策是一门技术活，其实解决系统性复杂的问题，我自己觉得，可以跟大家分享一下我们淘宝是怎么做的。</p>
-<p>17年以前，我们没有技术、没有数据，也对未来的判断不准确，我们制订了很多这个不许那个不许的很多规则。但是今天，我们能够技术解决了，今天我们有能力解决这些系统性问题。但是，我们今天的年轻人，也像监管一样，总是喜欢出各种各样新的政策文件，不允许这样，也不允许那个。后来我想出一个办法，叫“加一减三”，你要加一条规则，必须要减掉前面三条规则。这样我们的文件就越来越短，如果说你不减，那你的规章制度越来越厚，是逼迫每个人去犯法，每个人去犯错，大家自己都糊涂起来。</p>
-<p>理论和系统也是不一样的，专家和学者是不一样的，我们这个国家，把很多学者和专家都混为一谈。专家是干出来的，他干得很厉害，但不一定会总结。</p>
-<p>很多学者，自己不具体干，但是能从别人实干中总结并形成理论。只有专家和学者结合起来，只有把理论和实践结合起来，才能真正去创新、解决今天和明天的问题。我想，我们需要来自于实践的理论，不是来自于办公室理论的实践。</p>
-<p>P2P很多就是来自于办公室理论的实践，我想，更应该认为，我们今天正确理解P2P给我们带来的巨大教训，我们不是要去否定互联网技术，更不要重复办公室理论的实践。</p>
-<p>我觉得还有一个现象，全球很多监管部门到后面，自己变成了没有风险，自己的部门没有风险，但是整个经济有风险，整个社会变成了有风险。未来的比赛是创新的比赛，不仅是监管技能的比赛。现在各国一个比一个狠，发展都是空的，但是不许这样干，都是刀刀见血。</p>
-<p>我的理解，习主席说的提升执政能力，是指在监管有序的下面保持健康可持续的发展，而不是监管了就没有发展。监管其实不难，难的是监管的目的是为了可持续的健康发展，监管就是为了健康的发展。</p>
-<p><b><font size="4">第三个观点，金融的本质是信用管理。</font></b></p>
-<p>我们必须改掉今天金融的当铺思想，要依靠信用体系的发展。</p>
-<p>今天的银行，延续的还是当铺思想。抵押和担保就是当铺。这在当年，是很先进的，没有抵押，担保这些创新，就不可能有今天的金融机构，中国经济 40 年来的发展也不可能发展到现在。</p>
-<p>但是靠资产和抵押的资质会走向极端。我是中国企业俱乐部的主席，也是浙商总会的会长，我跟很多企业家交流，中国的金融当铺思想非常严重，也影响了很多企业家。尤其企业家要把资产全押了出去，压力非常大，压力大了以后，动作就变形。</p>
-<p>还有一些人，肆无忌惮地贷款，不断加杠杆，负债搞的越来越大。大家都知道，借 10 万块，你怕银行；借 1000 万，你和银行都有点慌；借 10 个亿，银行怕你。还有一个习惯，银行喜欢给好企业、不需要钱的企业贷款，拼命的贷款。结果让很多好企业变成了坏企业，形成了多元化的投资，形成了甚至把这个钱转出去做完全不符合自己的事，钱太多也可能惹很多事。</p>
-<p>抵押的当铺思想，是不可能支持未来 30 年世界发展对金融的需求的。我们必须用借助今天的技术能力，用大数据为基础的信用体系，来取代当铺思想，这个信用体系不是建立在 传统的IT 基础上，不是建立在熟人社会的基础上，而是必须是建立在大数据的基础上，才能真正让信用等于财富。其实要饭的也必须有信用，没有信用，连要饭都要不到。我认为每个要饭的人都是（要）有信用的。</p>
-<p>应构建创新与监管相匹配的新金融体系</p>
-<p>最后，我想，今天的世界，迫切期待一个真正为未来而思考的全新的金融体系。</p>
-<p>今天的金融体系是工业化时代的产物，是为了解决工业而设置的全面的金融体系，是为了完成二八理论。什么叫二八理论？就是投资20%，来解决80%的问题。而未来的金融体系，是要解决八二理论，帮助80%的小企业和年轻人来带动20%的人。要从过去的人找钱、企业找钱，到转型为钱找人、钱找企业，钱找好企业。评价这个体系的唯一的标准就是是否普惠、包容、绿色和可持续，背后的大数据、云计算、和区块链等前沿技术，今天（已经）能担当起巨大的责任。</p>
-<p>各位，即使在二战以后，当时的人们没有这样的远见，为后代为未来设计一个很好的金融体系，我们今天有这个责任和思考，为去建立一个真正属于未来，属于年轻人和下一代，属于这个时代的金融体系。今天我们不是做不到，而是不去做。今天我们的技术发展让我们完全可以做到这一些，遗憾的是，很多人不愿意去做。</p>
-<p>今天全球的金融体系必须改革，不然不仅仅是失去机会的问题，而是让世界可能会陷入更多的混乱。创新走在监管前面是正常的，但是当创新远远地走在监管前面的时候，当创新的丰富度和深度远远超过监管的想象的时候，就不正常了，社会和世界就会陷入混乱。</p>
-<p>拿数字货币来说，如果用未来的眼光打造 30 年后世界所需的金融体系，数字货币可能是非常重要的核心。今天的金融确实不需要数字货币，但是明天需要，未来需要，成千上万的发展中国家和年轻人需要，我们应该问自己，数字货币到底要解决未来的什么实际问题？</p>
-<p>十年以后的数字货币和今天的数字货币，可能根本就不是一回事，这个数字货币不应该从历史上去找，不是从监管角度去找，不是从研究机构去找，而是从市场去找，从需求去找，从未来去找。这件事事关重大，我们的研究机构不应该是政策机构。政策机构也不能仅仅依赖于自己的研究机构。因为数字货币体系是一个技术问题，但又不仅仅是技术问题，更是一个解决未来问题的方案，数字货币可能重新定义货币，尽管货币的主要功能仍然在，但是它一定会重新定义货币，就像苹果手机重新定义了手机，打电话只是其中的一个功能。数字货币今天远远没有到抢标准的时候，是创造价值的时候，是需要思考如何通过数字货币，建立新型的金融体系，为全世界思考未来，思考全球的贸易怎么做，更要思考这世界上应该要有经得起考验的技术的基础之上建立的数字货币。是要真正解决世界贸易可持续、绿色和普惠的问题。</p>
-<p>所以，最后我想说，今天人类社会到了最关键的时刻，千万不要小看这场疫情，这场疫情是倒逼人类社会进步的力量，它不亚于二战。</p>
-<p>从金融本身来说，从美国不断地向世界各国，特别是向华尔街不断输入大量现金，各国都在跟随其后，大家想过后面的结果会怎么样没有，它所带来的巨大的影响，远远超过我们今天讨论的技术层面的问题。</p>
-<p>我们对今天世界上很多的组织机构，不要简单的去反对它，而是一起重新思考他今天的价值，无论是联合国，WTO，还是 WHO，这些组织确实存在着很多问题。这些组织我都打过交道，工作过，合作过，但是消灭这些组织并不解决问题，我们应该考虑这些组织应该如何面向未来，如何改革，如何重新思考定位。</p>
-<p>新金融体系是未来的方向，不管我们高兴不高兴，它一定会起来，不管我们做不做，一定会有人去做。未来，我相信，改革是要付出牺牲的，是要付出代价的，我们这一代人要做这样的改革，可能下一代人才能看到，我们可能是负重前行的一个人，这是历史的机遇，也是历史的责任。过去16年，蚂蚁金服一直围绕着绿色、可持续和普惠发展。如果绿色、可持续和普惠包容的金融是错误的话，我们（也）将会一错再错，一错到底。</p>
-<p></p>
+其实今天要不要来讲，坦白说我也很纠结。但是我想我们这批人，有一个东西是责无旁贷的，就是为未来思考的责任，因为这个世界虽然留给我们发展的机会很多，但是关键性的机会也只有一两次，现在就是到了最关键的时刻。
+
+所以我想来这里讲讲我自己的想法和一些看法，这些想法，是我们自己16年实践经验总结出来，加上有幸担任联合国数字合作高级别小组联合主席和联合国可持续发展目标倡导者期间，我跟全世界的学者、专家还有实践者经过了探讨和研究。
+
+我想，我已经算是退休，在这个非官方的论坛上畅所欲言一下，分享一下一个非专业人士的非专业看法，所幸的我发现是，现在很多专业人士已经不讲专业了。
+
+我有三个观点，供大家参考，可能不成熟，讲得不对，贻笑大方，大家姑且一听，觉得没道理，忘了就是。
+
+<b><font size="4">第一个观点:</font></b>
+
+一直以来我们有一些思维上的惯性，比如总觉得要为了跟国际接轨，必须要做欧美发达国家有，而我们没有的所谓空白，要填补国内空白，把填补国内空白当作追求的目标。
+
+我一直觉得，在今年的形势下，填补空白这句话是有问题的，不是因为欧美的就是先进的，就是我们要去填补的。其实今天我们不应该要追求要和哪个东西接轨，适应哪国的标准，填补哪个空白，今天我们要思考的是，怎么和未来接轨，怎么适应未来的标准，怎么弥补未来的空白，我们要想明白，未来是如何的，以及自己到底要做什么，然后再去看看别人怎么做，如果永远重复别人的语言，讨论别人设定的主题，我们不但会迷失现在，更会错失未来。
+
+二战以后，世界需要恢复经济的繁荣，布雷登森林体系建立起来以后，对全球经济的推动是巨大的。后来亚洲金融风暴发生后，巴塞尔协议讲的风险控制，越来越受重视，到后来变成了一个风险控制的操作标准。现在的趋势是，越来越象是全世界只讲风险控制，不讲发展，很少人去讲年轻人的机会、发展中国家的机会在哪里。
+
+这其实也诞生了今天世界很多问题的根源。我们今天也看到巴塞尔协议本身也让欧洲的整体创新受到了很大的限制，比如在数字金融方面。
+
+巴塞尔协议，比较像一个老年人俱乐部，它要解决的是运转了几十年的金融体系老化的问题，欧洲那些老化的体制，系统极其复杂。但是中国的问题正好相反，不是系统性金融风险，因为中国金融基本上没有系统，中国实际上是“缺乏金融系统”的风险。
+
+中国的金融和其他刚成长起来的发展中国家一样，在金融业我们是青春少年，还没有成熟的生态体系，没有完全的流动起来。中国有很多大银行，更像是大江大河和血液的动脉，但是我们今天更需要湖泊、需要水塘，需要小溪小河，需要各种各样的沼泽地，缺少了这些生态系统，我们才会涝的时候涝死，旱的时候旱死，所以，今天我们国家是缺乏健康金融系统的风险，我们需要的是建设金融的健康系统，而不是金融系统性风险。
+
+这就像两个完全不同的病，就像老年痴呆症和小儿麻痹症，看起来都一样，但其实是完全不同的病。如果小孩子吃了老年痴呆的药，不光会得老人的病，还有很多莫名其妙的病。
+
+这个巴塞尔协议就是考虑系统老化、过度复杂的老年人的病，而我们要思考的是跟着老年人学什么？要知道老年人和年轻人关心的问题不同。年轻人城市关心的是有没有学校，老年人关心是有没有医院。
+
+所以，今年世界的变化是非常神奇，非常快速的。昨天晚上，我们在上海决定了蚂蚁上市的定价。这个全人类有史以来最大规模的上市定价，而且是在纽约以外的城市定价，这是第一次。这在五年前，甚至三年前，想都不敢想，但是奇迹就这么发生了。
+
+<b><font size="4">第二，创新一定要付出代价，我们这代人必须有所担当。</font></b>
+
+习主席讲过“功成不必在我”，我理解这句话讲的是一种责任，讲的是为未来、为明天、为下一代去担当。今天世界的很多问题包括中国，都只能用创新去解决。但是真正的创新，一定是没有人带路的，一定需要有人担当的，因为创新一定会犯错误，问题不是怎么样不犯错误，而是犯了错误之后，能不能完善修正，坚持创新。做没有风险的创新，就是扼杀创新，这世界上没有无风险的创新。很多时候，把风险控制为零，这才是最大的风险。
+
+当年的赤壁之战，我认为，曹操要把所有的船连起来，这就是中国也是全世界最早的航母的思想，但是一把火烧掉后，一千年来，中国人连想也不敢去想，一旦想到那把火，谁还想把船做大，谁还会有这种系统性思考？
+
+七八年以前，我提过互联网金融这个概念，也在上海。而且我们一直强调，互联网金融必须有三个核心要素：一是必须拥有丰富的数据；二是必须基于丰富大数据下的风控技术；第三，必须拥有基于大数据的信用体系。
+
+用这三个标准来衡量，就会看到 P2P 根本不是互联网金融，但是今天不能因为 P2P， 把整个互联网技术对金融的创新给否定了，其实我们想一想，中国怎么可能在几年以内就出现了几千家互联网金融公司？ 我们是不是应该检查一下，是什么原因诞生了几千家的互联网金融，所谓的P2P公司？今天我们的监管确实很难，全球的监管都很难。
+
+创新主要来自于市场，创新来自于基层，创新来自于年轻人。对监管的挑战越来越大，其实监和管是两回事，“监”是看着你发展，关注你发展。
+
+管是有问题的时候或是预判有问题的时候才去管，但是我们现在，管的能力很强，监的能力明显不足。
+
+好的创新不怕监管，但是怕用昨天的方式去监管，我们不能用管理火车站的办法去管理飞机场，不能用昨天的方法来管理未来。
+
+“监”和“管”不一样，政策和文件也不一样。今天这个不许，那个不许，那都叫文件。政策是机制建设，是激励发展。今天全世界，特别是中国，需要很多的“政策专家”，而不是文件专家。
+
+制订政策是一门技术活，其实解决系统性复杂的问题，我自己觉得，可以跟大家分享一下我们淘宝是怎么做的。
+
+17年以前，我们没有技术、没有数据，也对未来的判断不准确，我们制订了很多这个不许那个不许的很多规则。但是今天，我们能够技术解决了，今天我们有能力解决这些系统性问题。但是，我们今天的年轻人，也像监管一样，总是喜欢出各种各样新的政策文件，不允许这样，也不允许那个。后来我想出一个办法，叫“加一减三”，你要加一条规则，必须要减掉前面三条规则。这样我们的文件就越来越短，如果说你不减，那你的规章制度越来越厚，是逼迫每个人去犯法，每个人去犯错，大家自己都糊涂起来。
+
+理论和系统也是不一样的，专家和学者是不一样的，我们这个国家，把很多学者和专家都混为一谈。专家是干出来的，他干得很厉害，但不一定会总结。
+
+很多学者，自己不具体干，但是能从别人实干中总结并形成理论。只有专家和学者结合起来，只有把理论和实践结合起来，才能真正去创新、解决今天和明天的问题。我想，我们需要来自于实践的理论，不是来自于办公室理论的实践。
+
+P2P很多就是来自于办公室理论的实践，我想，更应该认为，我们今天正确理解P2P给我们带来的巨大教训，我们不是要去否定互联网技术，更不要重复办公室理论的实践。
+
+我觉得还有一个现象，全球很多监管部门到后面，自己变成了没有风险，自己的部门没有风险，但是整个经济有风险，整个社会变成了有风险。未来的比赛是创新的比赛，不仅是监管技能的比赛。现在各国一个比一个狠，发展都是空的，但是不许这样干，都是刀刀见血。
+
+我的理解，习主席说的提升执政能力，是指在监管有序的下面保持健康可持续的发展，而不是监管了就没有发展。监管其实不难，难的是监管的目的是为了可持续的健康发展，监管就是为了健康的发展。
+
+<b><font size="4">第三个观点，金融的本质是信用管理。</font></b>
+
+我们必须改掉今天金融的当铺思想，要依靠信用体系的发展。
+
+今天的银行，延续的还是当铺思想。抵押和担保就是当铺。这在当年，是很先进的，没有抵押，担保这些创新，就不可能有今天的金融机构，中国经济 40 年来的发展也不可能发展到现在。
+
+但是靠资产和抵押的资质会走向极端。我是中国企业俱乐部的主席，也是浙商总会的会长，我跟很多企业家交流，中国的金融当铺思想非常严重，也影响了很多企业家。尤其企业家要把资产全押了出去，压力非常大，压力大了以后，动作就变形。
+
+还有一些人，肆无忌惮地贷款，不断加杠杆，负债搞的越来越大。大家都知道，借 10 万块，你怕银行；借 1000 万，你和银行都有点慌；借 10 个亿，银行怕你。还有一个习惯，银行喜欢给好企业、不需要钱的企业贷款，拼命的贷款。结果让很多好企业变成了坏企业，形成了多元化的投资，形成了甚至把这个钱转出去做完全不符合自己的事，钱太多也可能惹很多事。
+
+抵押的当铺思想，是不可能支持未来 30 年世界发展对金融的需求的。我们必须用借助今天的技术能力，用大数据为基础的信用体系，来取代当铺思想，这个信用体系不是建立在 传统的IT 基础上，不是建立在熟人社会的基础上，而是必须是建立在大数据的基础上，才能真正让信用等于财富。其实要饭的也必须有信用，没有信用，连要饭都要不到。我认为每个要饭的人都是（要）有信用的。
+
+应构建创新与监管相匹配的新金融体系
+
+最后，我想，今天的世界，迫切期待一个真正为未来而思考的全新的金融体系。
+
+今天的金融体系是工业化时代的产物，是为了解决工业而设置的全面的金融体系，是为了完成二八理论。什么叫二八理论？就是投资20%，来解决80%的问题。而未来的金融体系，是要解决八二理论，帮助80%的小企业和年轻人来带动20%的人。要从过去的人找钱、企业找钱，到转型为钱找人、钱找企业，钱找好企业。评价这个体系的唯一的标准就是是否普惠、包容、绿色和可持续，背后的大数据、云计算、和区块链等前沿技术，今天（已经）能担当起巨大的责任。
+
+各位，即使在二战以后，当时的人们没有这样的远见，为后代为未来设计一个很好的金融体系，我们今天有这个责任和思考，为去建立一个真正属于未来，属于年轻人和下一代，属于这个时代的金融体系。今天我们不是做不到，而是不去做。今天我们的技术发展让我们完全可以做到这一些，遗憾的是，很多人不愿意去做。
+
+今天全球的金融体系必须改革，不然不仅仅是失去机会的问题，而是让世界可能会陷入更多的混乱。创新走在监管前面是正常的，但是当创新远远地走在监管前面的时候，当创新的丰富度和深度远远超过监管的想象的时候，就不正常了，社会和世界就会陷入混乱。
+
+拿数字货币来说，如果用未来的眼光打造 30 年后世界所需的金融体系，数字货币可能是非常重要的核心。今天的金融确实不需要数字货币，但是明天需要，未来需要，成千上万的发展中国家和年轻人需要，我们应该问自己，数字货币到底要解决未来的什么实际问题？
+
+十年以后的数字货币和今天的数字货币，可能根本就不是一回事，这个数字货币不应该从历史上去找，不是从监管角度去找，不是从研究机构去找，而是从市场去找，从需求去找，从未来去找。这件事事关重大，我们的研究机构不应该是政策机构。政策机构也不能仅仅依赖于自己的研究机构。因为数字货币体系是一个技术问题，但又不仅仅是技术问题，更是一个解决未来问题的方案，数字货币可能重新定义货币，尽管货币的主要功能仍然在，但是它一定会重新定义货币，就像苹果手机重新定义了手机，打电话只是其中的一个功能。数字货币今天远远没有到抢标准的时候，是创造价值的时候，是需要思考如何通过数字货币，建立新型的金融体系，为全世界思考未来，思考全球的贸易怎么做，更要思考这世界上应该要有经得起考验的技术的基础之上建立的数字货币。是要真正解决世界贸易可持续、绿色和普惠的问题。
+
+所以，最后我想说，今天人类社会到了最关键的时刻，千万不要小看这场疫情，这场疫情是倒逼人类社会进步的力量，它不亚于二战。
+
+从金融本身来说，从美国不断地向世界各国，特别是向华尔街不断输入大量现金，各国都在跟随其后，大家想过后面的结果会怎么样没有，它所带来的巨大的影响，远远超过我们今天讨论的技术层面的问题。
+
+我们对今天世界上很多的组织机构，不要简单的去反对它，而是一起重新思考他今天的价值，无论是联合国，WTO，还是 WHO，这些组织确实存在着很多问题。这些组织我都打过交道，工作过，合作过，但是消灭这些组织并不解决问题，我们应该考虑这些组织应该如何面向未来，如何改革，如何重新思考定位。
+
+新金融体系是未来的方向，不管我们高兴不高兴，它一定会起来，不管我们做不做，一定会有人去做。未来，我相信，改革是要付出牺牲的，是要付出代价的，我们这一代人要做这样的改革，可能下一代人才能看到，我们可能是负重前行的一个人，这是历史的机遇，也是历史的责任。过去16年，蚂蚁金服一直围绕着绿色、可持续和普惠发展。如果绿色、可持续和普惠包容的金融是错误的话，我们（也）将会一错再错，一错到底。
+</p>
 </details>]]></content>
       <categories>
         <category>实事杂谈</category>
@@ -1406,6 +1501,7 @@
 <h3 id="最后交易日、到期日、计价日"><a href="#最后交易日、到期日、计价日" class="headerlink" title="最后交易日、到期日、计价日"></a>最后交易日、到期日、计价日</h3><p>股票及指数牛熊证的到期日均由发行人自订，并于上市文件中列出，而大部分指数牛熊证的到期日，都会选择相关指数结算日。</p>
 <p>牛熊证的最后交易日为到期日前的一个交易日，股票牛熊证的计价日为最后交易日，指数牛熊证的计价日为到期日。</p>
 <p>以下尝试用一个近似月历的图表作解析﹕</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -1417,7 +1513,8 @@
 <th>星期五 8月1日</th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+<tr>
 <td>股票牛熊证</td>
 <td></td>
 <td><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/a568b5d2/green.png" alt="img"><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/a568b5d2/orange.png" alt="img"></td>
@@ -1431,17 +1528,16 @@
 <td><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/a568b5d2/green.png" alt="img"></td>
 <td><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/a568b5d2/green-line.png" alt="img"><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/a568b5d2/orange.png" alt="img"></td>
 <td></td>
-<td></td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/a568b5d2/green.png" alt="img">最后交易日<img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/a568b5d2/green-line.png" alt="img">到期日<img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/a568b5d2/orange.png" alt="img">计价日</p>
 <h3 id="持货至到期日"><a href="#持货至到期日" class="headerlink" title="持货至到期日"></a>持货至到期日</h3><p>若牛熊证在到期前没有被收回，投资者亦持货至到期日，则可按以下公式计算牛熊的结算价。</p>
 <blockquote>
-<p>$$<br>牛证&#x3D;\dfrac{结算价-行使价}{兑换比率}<br>$$</p>
-</blockquote>
-<blockquote>
-<p>$$<br>熊证&#x3D;\dfrac{行使价-结算价}{兑换比率}<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+牛证=\dfrac{结算价-行使价}{兑换比率}</script><script type="math/tex; mode=display">
+熊证=\dfrac{行使价-结算价}{兑换比率}</script></blockquote>
 <p>结算价：<br>股票结算价为相关资产于计价日的收市价<br>#结算日当天，由上午9:35分起，至下午3:55分之间每5分钟的指数及当日指数收市价之平均水平作计价<br>*假设股票牛熊证的兌换比率为10兑1，此兌换比率数值为10。</p>
 ]]></content>
       <categories>
@@ -1462,7 +1558,8 @@
     <iframe src="//player.bilibili.com/player.html?aid=797639809&bvid=BV1Ny4y1k7NG&cid=254456292&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
-<h3 id="剩余价格计算"><a href="#剩余价格计算" class="headerlink" title="剩余价格计算"></a>剩余价格计算</h3><table>
+<h3 id="剩余价格计算"><a href="#剩余价格计算" class="headerlink" title="剩余价格计算"></a>剩余价格计算</h3><div class="table-container">
+<table>
 <thead>
 <tr>
 <th></th>
@@ -1470,7 +1567,8 @@
 <th>下午交易时段被收</th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+<tr>
 <td>牛证剩余价值</td>
 <td>(收回后直至当天下午收市相关资产曾触及的最低价 – 行使价) ÷ 换股比率</td>
 <td>(收回后直至下一交易日中午收市相关资产曾触及的最低价 – 行使价) ÷ 换股比率</td>
@@ -1480,9 +1578,12 @@
 <td>(行使价 – 收回后直至当天下午收市相关资产曾触及的最高价) ÷ 换股比率</td>
 <td>(行使价 – 收回后直至下一交易日中午收市相关资产曾触及的最高价) ÷ 换股比率</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>为让读者更具体地了解，以下列举R类牛熊证作例子。</p>
 <p>例子一：指数牛证</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -1492,7 +1593,8 @@
 <th><strong>1%</strong></th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+<tr>
 <td>相关资产</td>
 <td><strong>XYZ指数</strong></td>
 <td>相关资产现价</td>
@@ -1514,19 +1616,21 @@
 <td>收回价</td>
 <td><strong>24,000点</strong></td>
 <td></td>
-<td></td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>投资者购入牛证A需付的投资金额﹕</p>
 <blockquote>
-<p>$$<br>投资金额&#x3D;\dfrac{(现价-行使价) + (行使价 \times 财务费用)}{换股比率}&#x3D;\dfrac{(23000-19800)+(19800 \times0.01) }{10000}&#x3D;0.3398<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+投资金额=\dfrac{(现价-行使价) + (行使价 \times 财务费用)}{换股比率}=\dfrac{(23000-19800)+(19800 \times0.01) }{10000}=0.3398</script></blockquote>
 <p><strong>被强制收回</strong><br>倘若在牛证A到期前，相关资产价格触及收回价，而在强制收回事件后至下一个交易时段内，相关资产最低曾见1​​9,900点，此价将作为牛证的剩余价值为﹕ </p>
 <blockquote>
-<p>$$<br>剩余价值&#x3D;\dfrac{指数结算价-行使价}{换股比率}&#x3D;\dfrac{19900-19800}{10000}&#x3D;0.01<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+剩余价值=\dfrac{指数结算价-行使价}{换股比率}=\dfrac{19900-19800}{10000}=0.01</script></blockquote>
 <p>若在强制收回事件后至下一个交易时段内，相关资产价格跌低于行使价19,800点，持有者将得不到剩余价值。</p>
 <p>例子二：指数熊证</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -1536,7 +1640,8 @@
 <th><strong>1.5%</strong></th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+<tr>
 <td>相关资产</td>
 <td><strong>XYZ指数</strong></td>
 <td>相关资产现价</td>
@@ -1558,21 +1663,23 @@
 <td>收回价</td>
 <td><strong>24,000点</strong></td>
 <td></td>
-<td></td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>投资者购入熊证B需付的投资金额﹕</p>
 <blockquote>
-<p>$$<br>金额&#x3D;\dfrac{行使价-现价+行使价\times财务费用}{换股比率}&#x3D;\dfrac{23000-19800+19800\times0.01}{10000}&#x3D;0.3398<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+金额=\dfrac{行使价-现价+行使价\times财务费用}{换股比率}=\dfrac{23000-19800+19800\times0.01}{10000}=0.3398</script></blockquote>
 <p><strong>被强制收回</strong><br>倘若在指数熊证B在到期前，指数触及收回价，而在强制收回事件后至下一个交易时段内，相关资产最高曾见24,100点，此价将作为熊证的剩余价值为﹕  </p>
 <blockquote>
-<p>$$<br>剩余价值&#x3D;\dfrac{行使价-指数结算价}{换股比率}&#x3D;\dfrac{24200-24100}{10000}&#x3D;0.01<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+剩余价值=\dfrac{行使价-指数结算价}{换股比率}=\dfrac{24200-24100}{10000}=0.01</script></blockquote>
 <p>若在强制收回事件后至下一个交易时段内，相关资产价格高于行使价24,200点，持有者将得不到剩余价值。</p>
 <p>例子三：股票牛证</p>
 <blockquote>
-<p>$$<br>股票牛证&#x3D;\dfrac{指数结算价-行使价}{换股比率}&#x3D;\dfrac{78.8-78}{100}&#x3D;0.008<br>$$<br>若在强制收回事件后至下一个交易时段内，相关跌低于行使价78元，持有者将得不到剩余价值。</p>
+<script type="math/tex; mode=display">
+股票牛证=\dfrac{指数结算价-行使价}{换股比率}=\dfrac{78.8-78}{100}=0.008</script><p>若在强制收回事件后至下一个交易时段内，相关跌低于行使价78元，持有者将得不到剩余价值。</p>
 </blockquote>
 <p>剩余价值将会于结算后的五个交易日之内，存回投资者的股票户口。</p>
 ]]></content>
@@ -1593,11 +1700,11 @@
 
 <h3 id="第一步骤：选择牛熊证类别"><a href="#第一步骤：选择牛熊证类别" class="headerlink" title="第一步骤：选择牛熊证类别"></a>第一步骤：选择牛熊证类别</h3><p>要选择一只适合自己的牛熊证，投资者先要对相关资产后市方向有所看法，如看好相关资产，可考虑牛证，相反亦然；若投资者不欲触发收回事件后损失所有投资本金，可考虑R类牛熊证，届时需考虑牛熊证行使价与相关资产现货价格的差距，以及行使价与收回价之间的差距。</p>
 <h3 id="第二步骤﹕-留意收回价"><a href="#第二步骤﹕-留意收回价" class="headerlink" title="第二步骤﹕ 留意收回价"></a>第二步骤﹕ 留意收回价</h3><p>由于牛熊证设有强制收回机制，投资者可能需为相关资产的看法设定一个安全距离，即慎选牛熊证的收回价。</p>
-<p>此距离因人而异，风险承受能力较强的投资者可能容许牛熊证被收回，并视收回价为止蚀价，相关资产触及收回价时便当作自动止蚀；投资者可用该段时期相关资产普遍的一日升&#x2F;跌幅作一个基准，并以该基准的1.5倍，作为可选择收回价与相关资产现价的距离，风险承受能力较低的投资者可能会选择距离收回价较远的牛熊证。</p>
+<p>此距离因人而异，风险承受能力较强的投资者可能容许牛熊证被收回，并视收回价为止蚀价，相关资产触及收回价时便当作自动止蚀；投资者可用该段时期相关资产普遍的一日升/跌幅作一个基准，并以该基准的1.5倍，作为可选择收回价与相关资产现价的距离，风险承受能力较低的投资者可能会选择距离收回价较远的牛熊证。</p>
 <h3 id="第三步骤﹕杠杆比率与行使价"><a href="#第三步骤﹕杠杆比率与行使价" class="headerlink" title="第三步骤﹕杠杆比率与行使价"></a>第三步骤﹕杠杆比率与行使价</h3><p>当相关资产现价愈接近牛证的行使价，其杠杆比率便愈高，即<code>倍大</code>的回报率愈高；当相关资产现价距离牛证行使价<code>愈远</code>时，其杠杆比率会逐渐<code>减少</code>，即<code>倍大</code>的回报率会<code>愈低</code>。</p>
 <p>至于收回价方面，当相关资产愈接近收回价时，由于被收回的风险愈来愈大，牛熊证的杠杆理论上便会愈高，以反映相关收回风险。</p>
 <p>投资需注意，高杠杆的牛熊证较适合进取及有一定经验的投资者。</p>
-<p>此距离因人而异，风险承受能力较强的投资者可能容许牛熊证被收回，并视收回价为止蚀价，相关资产触及收回价时便当作自动止蚀；投资者可用该段时期相关资产普遍的一日升&#x2F;跌幅作一个基准，并以该基准的1.5倍，作为可选择收回价与相关资产现价的距离，风险承受能力较低的投资者可能会选择距离收回价较远的牛熊证。</p>
+<p>此距离因人而异，风险承受能力较强的投资者可能容许牛熊证被收回，并视收回价为止蚀价，相关资产触及收回价时便当作自动止蚀；投资者可用该段时期相关资产普遍的一日升/跌幅作一个基准，并以该基准的1.5倍，作为可选择收回价与相关资产现价的距离，风险承受能力较低的投资者可能会选择距离收回价较远的牛熊证。</p>
 <h3 id="第四步骤﹕兑换比率的大小"><a href="#第四步骤﹕兑换比率的大小" class="headerlink" title="第四步骤﹕兑换比率的大小"></a>第四步骤﹕兑换比率的大小</h3><p>假设其他因素不变，牛熊证的兑换比率愈大，投资该牛熊证时所需支付的本金相对较少，而所赚得之利润金额则与本金成正比。</p>
 <h3 id="第五步骤﹕比较财务费用"><a href="#第五步骤﹕比较财务费用" class="headerlink" title="第五步骤﹕比较财务费用"></a>第五步骤﹕比较财务费用</h3><p>不同的发行商在推出牛熊证时，会采用不同的的程式，而发行商在对冲不同相关资产时可能有不同的对冲优势，故即使拥有相近条款的牛熊证，其所收取的财务费用均有不同。</p>
 <p>另外，财务费用或会因市场供求影响而有所转变，投资者宜时刻留意所持牛熊证的财务费用的变化，从而部署会否更换至较低财务费用的牛熊证。</p>
@@ -1616,22 +1723,19 @@
     <url>/posts/d09c3c1c.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>经过多年的发展，A股市场终于有了股指期货和融资融券。不过，A股依然缺乏现代金融市场最重要的一类投资产品——<strong>期权类衍生交易品</strong>。作为有着以有限损失换取无限收益可能特性的交易产品，期权类衍生品的作用和价值是其他投资产品无法取代的。</p>
 <span id="more"></span>
-
-
-
 <p>放眼全球市场，目前期权类衍生产品可谓是<strong>期权</strong>、<strong>权证</strong>和<strong>牛熊证</strong>三分天下。对这三类产品有一个简单的了解，便可知为何期权类产品对于投资者交易意义重大了。</p>
 <h2 id="期权：美国市场一枝独秀"><a href="#期权：美国市场一枝独秀" class="headerlink" title="期权：美国市场一枝独秀"></a>期权：美国市场一枝独秀</h2><p>在期权类衍生产品中，首先要提的当然是<strong>期权</strong>（Option）本身。所谓期权，也就是<strong>在约定的未来时点以约定的价格买入或者卖出某投资产品的权利</strong>——和持有期货就具有强制交割的权利和义务不同，期权只是权利，<u>你可以执行也可以放弃</u>。正是这一特性，为期权带来了<strong>有限损失</strong>和<strong>无限收益</strong>的风险报酬结构。</p>
 <blockquote>
-<p>以Google的股票为例，截至11月4日其报收598美元。而2012年1月21日600美元执行价格的买入期权价格则为31.10美元。若买入此期权，那么就意味着你最大的损失就那31.10美元一股的期权金，而你可能获得的收益，则取决于未来近三个月中Google的股票能够上涨到什么地步，如果上涨到700美元，正股涨幅为16.67%，那么你买入期权的收益就是700-600-31.1&#x3D;68.9美元，收益率为121.54%；若上涨到800美元，收益则是800-600-31.1&#x3D;168.9，收益率是443%。由于理论上Google的股价上涨潜力是无限的，所以对应的期权盈利可能也是无限的。有限的损失+无限的收益可能，再加上收益杠杆，这就是期权的最大魅力所在。</p>
+<p>以Google的股票为例，截至11月4日其报收598美元。而2012年1月21日600美元执行价格的买入期权价格则为31.10美元。若买入此期权，那么就意味着你最大的损失就那31.10美元一股的期权金，而你可能获得的收益，则取决于未来近三个月中Google的股票能够上涨到什么地步，如果上涨到700美元，正股涨幅为16.67%，那么你买入期权的收益就是700-600-31.1=68.9美元，收益率为121.54%；若上涨到800美元，收益则是800-600-31.1=168.9，收益率是443%。由于理论上Google的股价上涨潜力是无限的，所以对应的期权盈利可能也是无限的。有限的损失+无限的收益可能，再加上收益杠杆，这就是期权的最大魅力所在。</p>
 </blockquote>
 <p>在美国，主要的期权交易都在芝加哥期权交易所（CBOE）完成，CBOE会针对不同的金融产品推出<strong>不同期限</strong>和<strong>执行价格</strong>的期权，任何投资者都可以像交易股票一样的去买卖——更重要的是，你还可以创设（Write）期权——即在没有持有此期权的前提下卖出一份期权，成为期权的供应商。作为期权的Writer，你的收益是有限的，即你获得的期权金，但是你的损失理论上却是无限的。可别觉得这个结构很糟糕，连股神巴菲特在其漫长的投资生涯中，也很是热衷于成为期权的Writer。</p>
 <blockquote>
-<p>1993年4月份，巴菲特以1.5美元的期权金卖出300万份1993年12月17日为到期日执行价为35美元的认沽期权，当时可口可乐的市价是40美元左右。此后巴菲特又加卖了200万份。对巴菲特而言，若1993年12月17日可口可乐的价格在35美元以上，那么这份期权就是废纸一张，巴菲特可以白拿这1.5美元×500万份&#x3D;750万美元的期权金；但若届时股价低于35美元，巴菲特就必须按照35美元买入500万股可口可乐，当然因为之前收取了1.58美元期权金的原因，所以必须当时可口可乐跌破33.5美元时巴菲特才真正亏损。</p>
+<p>1993年4月份，巴菲特以1.5美元的期权金卖出300万份1993年12月17日为到期日执行价为35美元的认沽期权，当时可口可乐的市价是40美元左右。此后巴菲特又加卖了200万份。对巴菲特而言，若1993年12月17日可口可乐的价格在35美元以上，那么这份期权就是废纸一张，巴菲特可以白拿这1.5美元×500万份=750万美元的期权金；但若届时股价低于35美元，巴菲特就必须按照35美元买入500万股可口可乐，当然因为之前收取了1.58美元期权金的原因，所以必须当时可口可乐跌破33.5美元时巴菲特才真正亏损。</p>
 </blockquote>
 <p>对巴菲特而言，本来就有不断增持可口可乐的机会。若可口可乐不跌，那么白赚点期权金也是好的；但是若大跌，那么期权金等于市场补贴你1.5美元去买入可口可乐，同样也是好的。对于一个长期投资者而言，这就成为上涨下跌两相宜的投资方法了。</p>
 <p><em>当然，Write期权的价值不仅于此，很多的现代投资策略都需要用到此方法，这是期权投资与后面会谈到的权证和牛熊证最大的区别所在。</em></p>
 <h2 id="权证（窝轮）：多发行商是最大特色"><a href="#权证（窝轮）：多发行商是最大特色" class="headerlink" title="权证（窝轮）：多发行商是最大特色"></a>权证（窝轮）：多发行商是最大特色</h2><p>如果说美国是期权一枝独秀，那么在欧洲市场，就是权证（Warrent）的天下。一江之隔的港股市场由于受欧洲股市影响较大，同样是以权证交易为主，它们直接音译叫“窝轮”。</p>
-<p>权证这东西，其实产品本身和期权没有太大的区别，只不过其不是在专门的期权交易所交易，而是<em><strong>由许多券商发行</strong></em>供投资者买卖——即仅由专门的券商担任Writer的角色。作为发行商，券商同时担任做市商的角色，以维持流动性。</p>
+<p>权证这东西，其实产品本身和期权没有太大的区别，只不过其不是在专门的期权交易所交易，而是<strong><em>由许多券商发行</em></strong>供投资者买卖——即仅由专门的券商担任Writer的角色。作为发行商，券商同时担任做市商的角色，以维持流动性。</p>
 <p>正是这种多发行商的结构，使得<strong>同一个正股对应的同一期限同一价格可能存在多个不同发行商的期权</strong>，如何选择又多了一重麻烦。而且发行商在担任做市商的时候，有时候可以通过大量卖出或者买入的手法短时间内“操纵”权证的价格，通过改变权证的引伸波幅，使期权投资者难以获得预期的回报，所以针对权证的批评，始终就未曾停过。</p>
 <h2 id="牛熊证：更简单直接的结构"><a href="#牛熊证：更简单直接的结构" class="headerlink" title="牛熊证：更简单直接的结构"></a>牛熊证：更简单直接的结构</h2><p>也许就是因为对权证的诟病不断，所以牛熊证在欧洲市场应运而生，同时被引入了香港市场。无论是期权还是权证，都存在<strong>价内价外</strong>之分，如市价598美元的Google，执行价低于如550美元的就是价内权证，而高于的如650美元的，则是价外权证。从期权价格波动来看，价内权证定价相对简单，主要受内在价值，也就是执行价与市价的价差影响，而不似价外权证更多受引伸波幅影响，容易被操纵。</p>
 <p>牛熊证，其实就是纯价内权证，其表现与正股往往具有近乎1：1线性变动规律。如</p>
@@ -1655,13 +1759,12 @@
     <title>牛熊证篇」第六课：行使价与收回价的距离</title>
     <url>/posts/4c6f57f2.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h2 id="R类收回价与行使价有别，以恒指牛熊证为例，市面上有些牛熊证的差距是500点，有些则是200点，究竟两者的差距是怎样厘定呢？又会带为牛熊证及投资者带来什么影响呢？其实，两者差距最大的影响，是体现在可取回的剩余价值及杠杆上。"><a href="#R类收回价与行使价有别，以恒指牛熊证为例，市面上有些牛熊证的差距是500点，有些则是200点，究竟两者的差距是怎样厘定呢？又会带为牛熊证及投资者带来什么影响呢？其实，两者差距最大的影响，是体现在可取回的剩余价值及杠杆上。" class="headerlink" title="R类收回价与行使价有别，以恒指牛熊证为例，市面上有些牛熊证的差距是500点，有些则是200点，究竟两者的差距是怎样厘定呢？又会带为牛熊证及投资者带来什么影响呢？其实，两者差距最大的影响，是体现在可取回的剩余价值及杠杆上。"></a>R类收回价与行使价有别，以恒指牛熊证为例，市面上有些牛熊证的差距是500点，有些则是200点，究竟两者的差距是怎样厘定呢？又会带为牛熊证及投资者带来什么影响呢？其实，两者差距最大的影响，是体现在可取回的剩余价值及杠杆上。</h2><span id="more"></span>
-
-
 <div class="bilibili">
   <iframe src="//player.bilibili.com/player.html?aid=457752589&bvid=BV1x5411V7cS&cid=256492976&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 <h3 id="剩余价格"><a href="#剩余价格" class="headerlink" title="剩余价格"></a>剩余价格</h3><p>温故知新，牛熊证被收回后剩余价值的计算方法，是先取结算价及行使价的差距，再除以兑换比率，亦即是行使价与收回价的距离越远，资产价格跌穿或升穿行使价的机会便越少，投资者越有机会收取剩余价值。以下分别有三只拥有相同收回价，但不同行使价的牛证，假设牛证被收回后的结算价为22900点，兑换比率为10,000兑1，看看三只牛证的剩余价值会有何不同：</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -1671,7 +1774,8 @@
 <th>牛证C</th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+<tr>
 <td>收回价</td>
 <td>23000点</td>
 <td>23000点</td>
@@ -1695,7 +1799,9 @@
 <td>$0.04</td>
 <td>$0.09</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>从以上例子可见，当牛证的行使价越低，投资者在牛证收回后所收取的剩余价值便会越高。相反，若熊证行使价越高，被收回后可收取的剩余价值亦越高。读者可能会问，既然如此，为了取得一定保障，必定会挑选两价差距远些的牛熊证，不过在市面上，却偏偏差距只有200点的恒指牛熊证，成交及受欢迎程度远高于差距500点的牛熊证，为什么呢？原因在于实际杠杆。</p>
 <h3 id="实际杠杆"><a href="#实际杠杆" class="headerlink" title="实际杠杆"></a>实际杠杆</h3><p>牛熊证的收回价与行使价之间的距离越拉越近，由当初的相距1000点，缩窄至500点，再缩窄至现时的200点，部份投资者或会为此感到不满，认为发行人借此剥削了他们收取剩余价值的权利，但事实上，把行使价与收回价之间距离收窄，虽然会影响剩余价值，但亦直接提升牛熊证的实际杠杆。</p>
 <p>先从发行人的角度说起，发行人卖出指数牛熊证后，会买入相关数量的期指做对冲，倘指数升穿或跌穿收回价，牛熊证被即时强制收回，发行人便不需要再持有相关的期指对冲盘，于是在市场沽售原本持有的期指。牛熊证收回价与行使价之间的差距，就是发行人沽出期指的缓冲区，如果指数跳得太快，而两价差距较少时，发行人来不及在越过行使价前沽出期指，轮商便要录得亏损，可以说两价差距越少，发行人的风险便越高。</p>
@@ -1715,24 +1821,21 @@
     <title>「牛熊证篇」第五课：牛熊证跳动计算</title>
     <url>/posts/8995fcfd.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h2 id="相关资产价格变动，成为了影响牛熊证价格的最主要因素。无论是股份或指数牛熊证，投资前除了要留意收回水平外，亦一定要留意换股比率，因为换股比率某程度上说明了该牛熊证的敏感度"><a href="#相关资产价格变动，成为了影响牛熊证价格的最主要因素。无论是股份或指数牛熊证，投资前除了要留意收回水平外，亦一定要留意换股比率，因为换股比率某程度上说明了该牛熊证的敏感度" class="headerlink" title="相关资产价格变动，成为了影响牛熊证价格的最主要因素。无论是股份或指数牛熊证，投资前除了要留意收回水平外，亦一定要留意换股比率，因为换股比率某程度上说明了该牛熊证的敏感度"></a>相关资产价格变动，成为了影响牛熊证价格的最主要因素。无论是股份或指数牛熊证，投资前除了要留意收回水平外，亦一定要留意换股比率，因为换股比率某程度上说明了该牛熊证的敏感度</h2><span id="more"></span>
-
-
-
 <div class="bilibili">
   <iframe src="//player.bilibili.com/player.html?aid=842814153&bvid=BV1a54y1z7m4&cid=256492719&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 <p>相关资产价格变动，成为了影响牛熊证价格的最主要因素。无论是股份或指数牛熊证，投资前除了要留意收回水平外，亦一定要留意换股比率，因为换股比率某程度上说明了该牛熊证的敏感度，计算方法是将换股比率乘以牛熊证每次最小跳动的价格除以对冲值，便能计算出敏感度，公式如下：</p>
-<p>牛熊证敏感度（指数跳动点数） &#x3D; 牛熊证最小跳动价格x 换股比率&#x2F;对冲值</p>
-<p>举个例子，<br>若一只恒指牛证价格在<code>0.25</code>元以下，换股比率为<code>10000</code>，由于证价最小跳动价格是<code>0.001</code>元，该牛证的敏感度便为<code>10点</code> (0.001 x 10000 &#x3D; 10)，即<strong>代表期指每上升或下跌10点，该恒指牛证便会跳动0.001元（1格）</strong>。<br>而当一只<code>0.25</code>元以上的牛熊证，由于最小跳动价格增加至<code>0.005元</code>（1格），一只同样拥有<code>10000</code>换股比率的恒指牛证，敏感度便为<code>50 点</code>(0.005 x 10000 &#x3D; 50)，即<strong>期指要上升或下跌50点，牛证才跳动0.005（1格）</strong>。</p>
+<p>牛熊证敏感度（指数跳动点数） = 牛熊证最小跳动价格x 换股比率/对冲值</p>
+<p>举个例子，<br>若一只恒指牛证价格在<code>0.25</code>元以下，换股比率为<code>10000</code>，由于证价最小跳动价格是<code>0.001</code>元，该牛证的敏感度便为<code>10点</code> (0.001 x 10000 = 10)，即<strong>代表期指每上升或下跌10点，该恒指牛证便会跳动0.001元（1格）</strong>。<br>而当一只<code>0.25</code>元以上的牛熊证，由于最小跳动价格增加至<code>0.005元</code>（1格），一只同样拥有<code>10000</code>换股比率的恒指牛证，敏感度便为<code>50 点</code>(0.005 x 10000 = 50)，即<strong>期指要上升或下跌50点，牛证才跳动0.005（1格）</strong>。</p>
 <p>股价牛熊证方面，由于牛熊证的对冲值是接近100%，通常我们会直接以100%作计算，公式如下：</p>
 <blockquote>
-<p>$$<br>牛熊证敏感度（牛熊证跳动格数）&#x3D;\dfrac{正股最小跳动价格 \times 对冲值}{换股比率 \times 牛熊证最低跳动价格}<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+牛熊证敏感度（牛熊证跳动格数）=\dfrac{正股最小跳动价格 \times 对冲值}{换股比率 \times 牛熊证最低跳动价格}</script></blockquote>
 <p>举例，一只南方A50牛证(2822)，收回价11元，行使价10.7元，牛证价格是0.143元，换股比率10兑1， 假如南中现价12元</p>
 <blockquote>
-<p>$$<br>牛熊证敏感度&#x3D;\dfrac{0.02 \times 1}{10 \times 0.001} &#x3D; 2格<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+牛熊证敏感度=\dfrac{0.02 \times 1}{10 \times 0.001} = 2格</script></blockquote>
 <p>即<code>正股跳动1格，轮价跳动约2格</code></p>
 <p>有些产品跳得快，有些产品跳得慢，投资者看中什么产品，再根据牛熊证敏感度，就可以因应自己的风险承担能力，选择适合自己的产品啦。</p>
 ]]></content>
@@ -1747,8 +1850,6 @@
     <title>「牛熊证篇」第四课：影响牛熊证价格的市场因素</title>
     <url>/posts/7b60542b.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h3 id="影响牛熊证价格的市场因素"><a href="#影响牛熊证价格的市场因素" class="headerlink" title="影响牛熊证价格的市场因素"></a>影响牛熊证价格的市场因素</h3><span id="more"></span>
-
-
 <div class="bilibili">
   <iframe src="//player.bilibili.com/player.html?aid=970361435&bvid=BV1Ep4y1r7Pj&cid=256492424&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
@@ -1769,8 +1870,6 @@
     <title>「牛熊证篇」第三课：影响牛熊证价格的理论因素</title>
     <url>/posts/28c85fa6.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h2 id="影响牛熊证价格的四个理论因素"><a href="#影响牛熊证价格的四个理论因素" class="headerlink" title="影响牛熊证价格的四个理论因素"></a>影响牛熊证价格的四个理论因素</h2><span id="more"></span>
-
-
 <div class="bilibili">
   <iframe src="//player.bilibili.com/player.html?aid=202790828&bvid=BV1ca411w7R7&cid=256492057&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
@@ -1779,16 +1878,10 @@
 
 
 
-<ol>
-<li><p><strong>相关资产价格</strong>的变动直接影响牛熊证的价格，现时市场上可发行的牛熊证的内在值占其理论价格较大的部分，故相关资产价格变动最为影响牛熊证的价格；若相关资产价格上升，牛证的价格一般也会上升，反之亦然；相关资产价格若下跌，熊证的价格一般会上升，反之亦然。</p>
-</li>
-<li><p><strong>行使价</strong>的高低亦会直接影响牛熊证的内在值，相同相关资产的牛证，假设兑换比率相同，行使价愈高，其理论价格便愈低，反之亦然。相同相关资产的熊证，假设兑换比率相同，行使价愈高，其理论价格便愈高，反之亦然。</p>
-</li>
-<li><p><strong>牛熊证的尚余时间</strong>愈长，其财务费用便愈大，投资者可视牛熊证为孖展投资，投资者只要付出少于投资相关资产的资金成本，便可获得与投资相关资产相同的利润，财务费用就像牛熊证在投资期限内，向发行商借款投资所需支付的利息，故投资期限愈长，所需支付的利息理应愈多，故牛熊证价格会愈高。</p>
-</li>
-<li><p><strong>相关资产波幅</strong>对牛熊证价格影响相对轻微。</p>
-</li>
-</ol>
+<p>1) <strong>相关资产价格</strong>的变动直接影响牛熊证的价格，现时市场上可发行的牛熊证的内在值占其理论价格较大的部分，故相关资产价格变动最为影响牛熊证的价格；若相关资产价格上升，牛证的价格一般也会上升，反之亦然；相关资产价格若下跌，熊证的价格一般会上升，反之亦然。</p>
+<p>2) <strong>行使价</strong>的高低亦会直接影响牛熊证的内在值，相同相关资产的牛证，假设兑换比率相同，行使价愈高，其理论价格便愈低，反之亦然。相同相关资产的熊证，假设兑换比率相同，行使价愈高，其理论价格便愈高，反之亦然。</p>
+<p>3) <strong>牛熊证的尚余时间</strong>愈长，其财务费用便愈大，投资者可视牛熊证为孖展投资，投资者只要付出少于投资相关资产的资金成本，便可获得与投资相关资产相同的利润，财务费用就像牛熊证在投资期限内，向发行商借款投资所需支付的利息，故投资期限愈长，所需支付的利息理应愈多，故牛熊证价格会愈高。</p>
+<p>4) <strong>相关资产波幅</strong>对牛熊证价格影响相对轻微。</p>
 ]]></content>
       <categories>
         <category>港股</category>
@@ -1803,7 +1896,6 @@
     <title>「牛熊证篇」第二课：牛熊证价格的组成部分</title>
     <url>/posts/b0308649.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h2 id="牛熊证价格主要由两个部分组成﹕"><a href="#牛熊证价格主要由两个部分组成﹕" class="headerlink" title="牛熊证价格主要由两个部分组成﹕"></a>牛熊证价格主要由两个部分组成﹕</h2><h3 id="（1）牛熊证的内在值及"><a href="#（1）牛熊证的内在值及" class="headerlink" title="（1）牛熊证的内在值及"></a>（1）牛熊证的内在值及</h3><h3 id="（2）发行商所收的财务费用。"><a href="#（2）发行商所收的财务费用。" class="headerlink" title="（2）发行商所收的财务费用。"></a>（2）发行商所收的财务费用。</h3><span id="more"></span>
-
 <div class="bilibili">
   <iframe src="//player.bilibili.com/player.html?aid=885328939&bvid=BV1YK4y1j7qM&cid=256491368&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
@@ -1812,73 +1904,77 @@
 
 
 
-<h3 id="内在值"><a href="#内在值" class="headerlink" title="内在值"></a>内在值</h3><p>$$<br>牛证内在值 &#x3D; \dfrac{现价-行使价}{兑换比率}<br>$$</p>
-<p>$$<br>熊证内在值 &#x3D; \dfrac{行使价-现价}{兑换比率}<br>$$</p>
-<h3 id="财务费用"><a href="#财务费用" class="headerlink" title="财务费用"></a>财务费用</h3><p>财务费用由发行商厘订，当中包括了发行商的借贷成本、预期相关资产普通股息的调整及发行商所收取的利润。不同的发行商各自有不同的计算方法，但总括来说，牛熊证的尚余时间愈长，其财务费用便愈大，牛熊证价格理论上会愈高。</p>
+<h3 id="内在值"><a href="#内在值" class="headerlink" title="内在值"></a>内在值</h3><script type="math/tex; mode=display">
+牛证内在值 = \dfrac{现价-行使价}{兑换比率}</script><script type="math/tex; mode=display">
+熊证内在值 = \dfrac{行使价-现价}{兑换比率}</script><h3 id="财务费用"><a href="#财务费用" class="headerlink" title="财务费用"></a>财务费用</h3><p>财务费用由发行商厘订，当中包括了发行商的借贷成本、预期相关资产普通股息的调整及发行商所收取的利润。不同的发行商各自有不同的计算方法，但总括来说，牛熊证的尚余时间愈长，其财务费用便愈大，牛熊证价格理论上会愈高。</p>
 <p>例子：<br>就指数牛熊证而言，指数的走势与牛熊证价格大致如下﹕</p>
+<div class="table-container">
 <table>
 <thead>
 <tr>
-<th align="center">编号</th>
-<th align="center"><strong>A</strong></th>
-<th align="center"><strong>B</strong></th>
+<th style="text-align:center">编号</th>
+<th style="text-align:center"><strong>A</strong></th>
+<th style="text-align:center"><strong>B</strong></th>
 </tr>
 </thead>
-<tbody><tr>
-<td align="center">相关资产</td>
-<td align="center">ABC指数</td>
-<td align="center">ABC指数</td>
+<tbody>
+<tr>
+<td style="text-align:center">相关资产</td>
+<td style="text-align:center">ABC指数</td>
+<td style="text-align:center">ABC指数</td>
 </tr>
 <tr>
-<td align="center">牛／熊</td>
-<td align="center">牛</td>
-<td align="center">熊</td>
+<td style="text-align:center">牛／熊</td>
+<td style="text-align:center">牛</td>
+<td style="text-align:center">熊</td>
 </tr>
 <tr>
-<td align="center">每手股数</td>
-<td align="center">10,000</td>
-<td align="center">10,000</td>
+<td style="text-align:center">每手股数</td>
+<td style="text-align:center">10,000</td>
+<td style="text-align:center">10,000</td>
 </tr>
 <tr>
-<td align="center">行使价</td>
-<td align="center">21,800点</td>
-<td align="center">24,200点</td>
+<td style="text-align:center">行使价</td>
+<td style="text-align:center">21,800点</td>
+<td style="text-align:center">24,200点</td>
 </tr>
 <tr>
-<td align="center">收回价</td>
-<td align="center">22,000点</td>
-<td align="center">24,000点</td>
+<td style="text-align:center">收回价</td>
+<td style="text-align:center">22,000点</td>
+<td style="text-align:center">24,000点</td>
 </tr>
 <tr>
-<td align="center">到期日</td>
-<td align="center">2016年10月</td>
-<td align="center">2016年12月</td>
+<td style="text-align:center">到期日</td>
+<td style="text-align:center">2016年10月</td>
+<td style="text-align:center">2016年12月</td>
 </tr>
 <tr>
-<td align="center">财务费用</td>
-<td align="center">1%</td>
-<td align="center">1.5%</td>
+<td style="text-align:center">财务费用</td>
+<td style="text-align:center">1%</td>
+<td style="text-align:center">1.5%</td>
 </tr>
 <tr>
-<td align="center"><strong>兑换</strong>比率</td>
-<td align="center">10,000</td>
-<td align="center">10,000</td>
+<td style="text-align:center"><strong>兑换</strong>比率</td>
+<td style="text-align:center">10,000</td>
+<td style="text-align:center">10,000</td>
 </tr>
 <tr>
-<td align="center">指数现价</td>
-<td align="center">23,000</td>
-<td align="center">23,000</td>
+<td style="text-align:center">指数现价</td>
+<td style="text-align:center">23,000</td>
+<td style="text-align:center">23,000</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+</div>
 <p>假设指数现处于23,000点水平，</p>
 <p>指数牛证的价格为</p>
 <blockquote>
-<p>$$<br>牛证价格&#x3D;\dfrac{23000-21800}{10000} \times (1+1%)&#x3D;0.1212<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+牛证价格=\dfrac{23000-21800}{10000} \times (1+1\%)=0.1212</script></blockquote>
 <p><strong>指数熊证</strong>的价格为</p>
 <blockquote>
-<p>$$<br>指数熊证&#x3D;\dfrac{24200-2300}{10000} \times (1 + 1.5%) &#x3D; 0.1218<br>$$</p>
-</blockquote>
+<script type="math/tex; mode=display">
+指数熊证=\dfrac{24200-2300}{10000} \times (1 + 1.5\%) = 0.1218</script></blockquote>
 ]]></content>
       <categories>
         <category>港股</category>
@@ -1892,14 +1988,13 @@
   <entry>
     <title>牛熊证篇-第一课：基本概念</title>
     <url>/posts/caa58369.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>牛熊证是由投资银行发行的衍生产品，并于香港联合交易所上市，透过自动对盘系统 AMS&#x2F;3 进行交易，交收时间也以 T+2 为原则，只要开设股票户口，又或透过股票经纪便可买卖。牛熊证备有以下特点：</strong></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>牛熊证是由投资银行发行的衍生产品，并于香港联合交易所上市，透过自动对盘系统 AMS/3 进行交易，交收时间也以 T+2 为原则，只要开设股票户口，又或透过股票经纪便可买卖。牛熊证备有以下特点：</strong></p>
 <ul>
 <li>具有杠杆作用</li>
 <li>附有强制性收回机制</li>
 <li>R 类被强制收回时可能有余值；N 类则没有</li>
 </ul>
 <span id="more"></span>
-
 <div class="bilibili">
    <iframe src="//player.bilibili.com/player.html?aid=415347290&bvid=BV1iV411a7Hy&cid=256490668&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
@@ -1911,9 +2006,9 @@
 <table><tbody><tr><td><strong>编号</strong></td><td>A</td><td><strong>收回价</strong></td><td>20,200 點</td></tr><tr><td><strong>相关资产</strong></td><td>恒指</td><td><strong>到期日</strong></td><td>2017 年 1 月</td></tr><tr><td><strong>牛／熊</strong></td><td>牛</td><td><strong>财务费用</strong></td><td>10%</td></tr><tr><td><strong>每手股数</strong></td><td>10,000</td><td><strong>兌换比率</strong></td><td>10,000</td></tr><tr><td><strong>行使价</strong></td><td>20,000 點</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
 <p>假设恒指现价为 22,000 点，投资者买入恒指牛证 A 所需支付的价格为</p>
-<p>(22,000 －20,000) &#x2F; 10,000 x 1.1 &#x3D; 0.22 元</p>
+<p>(22,000 －20,000) / 10,000 x 1.1 = 0.22 元</p>
 <p>当恒指即日上升 100 点 (升幅不足 0.5%) 时，假设财务费用维持不变，投资者所持的恒指牛证 A 价格将会升至</p>
-<p>(22,100 －20,000) &#x2F; 10,000 x 1.1 ＝ 0.231 元</p>
+<p>(22,100 －20,000) / 10,000 x 1.1 ＝ 0.231 元</p>
 <p>升幅约 5.00%。</p>
 <table><thead><tr><th scope="col">恒指现价</th><th scope="col">相对升幅</th><th scope="col">牛证 A 价格 (元)</th><th scope="col">相对升幅</th></tr></thead><tbody><tr><td>22,000</td><td>不适用</td><td>0.220</td><td>不适用</td></tr><tr><td>22,100</td><td>0.45%</td><td>0.231</td><td>5.00%</td></tr><tr><td>22,200</td><td>0.45%</td><td>0.242</td><td>4.76%</td></tr><tr><td>22,300</td><td>0.45%</td><td>0.253</td><td>4.55%</td></tr><tr><td>22,400</td><td>0.45%</td><td>0.264</td><td>4.35%</td></tr><tr><td>22,500</td><td>0.45%</td><td>0.275</td><td>4.17%</td></tr><tr><td>22,600</td><td>0.44%</td><td>0.286</td><td>4.00%</td></tr><tr><td>22,700</td><td>0.44%</td><td>0.297</td><td>3.85%</td></tr><tr><td>22,800</td><td>0.44%</td><td>0.308</td><td>3.70%</td></tr></tbody></table>
 
@@ -1928,7 +2023,7 @@
 
 <h3 id="命名"><a href="#命名" class="headerlink" title="命名"></a>命名</h3><p>最后来说说它们的命名，对于那些没有接触过窝轮和牛熊证的人来说，这些名字就像天书一样，其实当中并没有多少玄机，分解开来就很好理解了，以“<strong>腾讯高盛八二购L</strong>”(11847)为例：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/posts/caa58369/1.jpg" alt="img"></p>
-<p>首先<code>前两个字</code>是相关资产的名称，包括上市公司或者指数， <code>第三四个字</code>是发行这个窝轮&#x2F;牛熊证的投行，<code>后面两个字</code>是窝轮的行权年月，<code>甲乙</code>分别代表11月及12月，<code>最后一个汉字</code>代表这只窝轮是认购还是认沽，或者这是牛证还是熊证，<code>最后一个字母</code>则表示，该投行很可能发行了同样时间行权的针对同一只股票的窝轮，但行权的条件不一样(比如行权价格)，这个时候就用ABCD来区分。</p>
+<p>首先<code>前两个字</code>是相关资产的名称，包括上市公司或者指数， <code>第三四个字</code>是发行这个窝轮/牛熊证的投行，<code>后面两个字</code>是窝轮的行权年月，<code>甲乙</code>分别代表11月及12月，<code>最后一个汉字</code>代表这只窝轮是认购还是认沽，或者这是牛证还是熊证，<code>最后一个字母</code>则表示，该投行很可能发行了同样时间行权的针对同一只股票的窝轮，但行权的条件不一样(比如行权价格)，这个时候就用ABCD来区分。</p>
 <p>也就是说，“<strong>腾讯高盛八二购L</strong>”这只窝轮，代表着<code>由高盛发行的，针对腾讯这只个股的，行权时间为2018年二月的认购窝轮</code>，“<strong>恒指瑞银八甲牛B</strong>”则代表<code>瑞银发行的，行权时间为2018年十一月的恒指牛证</code>。</p>
 ]]></content>
       <categories>
