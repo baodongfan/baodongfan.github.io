@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 木东の世界
-subtitle: 木东の世界
+title: 木东观世界
+subtitle: 木东观世界
 description: 'To learn, to share, to play'
 keywords:
 author: Brandon
@@ -104,7 +104,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly_4.2
+theme: butterfly_4.9
 
 
 # Deployment
@@ -169,13 +169,13 @@ baidusitemap:
 # 主动推送百度，被百度收录
 baidu_url_submit:
   count: 200 # 提交最新的10个链接
-  host: mudong.gold # 百度站长平台中注册的域名
+  host: blog.mengjiao.vip # 百度站长平台中注册的域名
   token: YHXirYHVIZlr4KvN # 秘钥，百度站长平台 > 推送接口 > 接口调用地址中token字段
   path: baidu_urls.txt # 文本文档的地址， 新链接会保存在此文本文档里，不用改
 
 aplayer:
   meting: true
-  asset_inject: false
+  asset_inject: true
 
 kramed:
   gfm: true
@@ -188,3 +188,14 @@ kramed:
 
 butterfly_article_double_row:
   enable: true
+
+# hexo-hide-posts
+hide_posts:
+  enable: true
+  # Change the filter name to fit your need
+  filter: hidden
+  # Generators which you want to expose all posts (include hidden ones) to.
+  # Common generators: index, tag, category, archive, sitemap, feed, etc.
+  public_generators: []
+  # Add "noindex" meta tag to prevent hidden posts from being indexed by search engines
+  noindex: true

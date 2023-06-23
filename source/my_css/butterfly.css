@@ -51,3 +51,12 @@ img {
     background: none;
 }
 
+
+/* 导航栏居中*/
+
+#nav .menus_items {
+    position: absolute;
+    width: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+}

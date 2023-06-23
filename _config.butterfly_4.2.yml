@@ -53,7 +53,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   preload: false
   CDN:
 
@@ -66,7 +66,7 @@ local_search:
 
 # MathJax
 mathjax:
-  enable: false
+  enable: true
   per_page: false
 
 # KaTeX
@@ -146,7 +146,7 @@ post_meta:
     date_type: created # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
     date_format: relative # date/relative 顯示日期還是相對日期
     categories: true # true or false 主頁是否顯示分類
-    tags: false # true or false 主頁是否顯示標籤
+    tags: true # true or false 主頁是否顯示標籤
     label: true # true or false 顯示描述性文字
   post:
     date_type: both # created or updated or both 文章頁日期是創建日或者更新日或都顯示
@@ -227,7 +227,7 @@ photofigcaption: false
 # 1: The 'next post' will link to old post
 # 2: The 'next post' will link to new post
 # false: disable pagination
-post_pagination: 1
+post_pagination: 2
 
 # Displays outdated notice for a post (文章過期提醒)
 noticeOutdate:
@@ -662,7 +662,7 @@ aside:
       enable: true
       icon: fas fa-bookmark
       text: Ctrl+D加入书签
-      #link: <input type="button" name="btn2" id="btn2" value="提示" onclick="JavaScript:AddFavorite('https://zfe.space','小冰博客')";
+      link: <input type="button" name="btn2" id="btn2" value="提示" onclick="JavaScript:AddFavorite('https://blog.mengjiao.vip','木东小站')";
   card_announcement:
     enable: true
     content: <b><font size=3 color=red>记录个人看过的，感兴趣的东西，不做推荐，纯粹是爱好</font></b>  <img src='https://cdn.jsdelivr.net/gh/baodongfan/baodongfan.github.io/my_imgs/gonggao.gif' width="100%" height="100%">
@@ -678,8 +678,8 @@ aside:
     sort_order: # Don't modify the setting unless you know how it works
   card_tags:
     enable: true
-    limit: 10 # if set 0 will show all
-    color: false
+    limit: 0 # if set 0 will show all
+    color: true
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
     enable: false
@@ -709,7 +709,7 @@ runtimeshow:
 
 # Aside widget - Newest Comments
 newest_comments:
-  enable: false
+  enable: true
   sort_order: # Don't modify the setting unless you know how it works
   limit: 6
   storage: 10 # unit: mins, save data to localStorage
@@ -874,7 +874,7 @@ inject:
   bottom:
     # 底部养鱼
 
-    # - <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
+    - <script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script>
     
     # 底部贴边播放器
     
