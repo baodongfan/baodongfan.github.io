@@ -1,0 +1,279 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>「认股证篇」第五课：兑换比率及街货量 | 木东观世界</title><meta name="author" content="Brandon"><meta name="copyright" content="Brandon"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="ffffff"><meta name="description" content="影响窝轮价格的因素有很多，今一节我们集中讨论兑换比率跟街货量。          兑换比率影响轮价兑换比率的意思，就是控制1股股票所需要的窝轮股数，什么意思呢？ 大家有时候可能会发现，两只窝轮挂钩的资产一样，行使价一样，年期一样，连引伸波幅都差不多，为什么它们的价格会相差那么远，甚至是10倍以上呢？这个情况，很有可能就是它们的兑换比率不同。  举个例子说，一箱新鲜榨果汁有200瓶，价钱跟生果价格挂">
+<meta property="og:type" content="article">
+<meta property="og:title" content="「认股证篇」第五课：兑换比率及街货量">
+<meta property="og:url" content="https://blog.mengjiao.vip/posts/d859db9c.html">
+<meta property="og:site_name" content="木东观世界">
+<meta property="og:description" content="影响窝轮价格的因素有很多，今一节我们集中讨论兑换比率跟街货量。          兑换比率影响轮价兑换比率的意思，就是控制1股股票所需要的窝轮股数，什么意思呢？ 大家有时候可能会发现，两只窝轮挂钩的资产一样，行使价一样，年期一样，连引伸波幅都差不多，为什么它们的价格会相差那么远，甚至是10倍以上呢？这个情况，很有可能就是它们的兑换比率不同。  举个例子说，一箱新鲜榨果汁有200瓶，价钱跟生果价格挂">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://blog.mengjiao.vip/my_imgs/post_img/18.jpg">
+<meta property="article:published_time" content="2020-12-03T16:31:36.000Z">
+<meta property="article:modified_time" content="2026-09-13T13:25:24.171Z">
+<meta property="article:author" content="Brandon">
+<meta property="article:tag" content="兑换比率">
+<meta property="article:tag" content="窝轮">
+<meta property="article:tag" content="街货量">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://blog.mengjiao.vip/my_imgs/post_img/18.jpg"><script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "「认股证篇」第五课：兑换比率及街货量",
+  "url": "https://blog.mengjiao.vip/posts/d859db9c.html",
+  "image": "https://blog.mengjiao.vip/my_imgs/post_img/18.jpg",
+  "datePublished": "2020-12-03T16:31:36.000Z",
+  "dateModified": "2026-09-13T13:25:24.171Z",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Brandon",
+      "url": "https://blog.mengjiao.vip"
+    }
+  ]
+}</script><link rel="shortcut icon" href="/my_imgs/avatar_bilibili.jpg"><link rel="canonical" href="https://blog.mengjiao.vip/posts/d859db9c.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>
+    (() => {
+      
+    const saveToLocal = {
+      set: (key, value, ttl) => {
+        const data = { value }
+
+        if (ttl != null) {
+          data.expiry = Date.now() + ttl * 86400000
+        }
+
+        localStorage.setItem(key, JSON.stringify(data))
+      },
+      get: key => {
+        const itemStr = localStorage.getItem(key)
+        if (!itemStr) return
+
+        try {
+          const data = JSON.parse(itemStr)
+
+          if (data.expiry && Date.now() > data.expiry) {
+            localStorage.removeItem(key)
+            return
+          }
+
+          return data.value
+        } catch {
+          localStorage.removeItem(key)
+        }
+      }
+    }
+
+    const scriptCache = new Map()
+    const cssCache = new Map()
+    window.btf = {
+      saveToLocal,
+      getScript: (url, attr = {}) => {
+        if (scriptCache.has(url)) {
+          return scriptCache.get(url)
+        }
+
+        const promise = new Promise((resolve, reject) => {
+          const script = document.createElement('script')
+
+          script.src = url
+          script.async = true
+
+          for (const key in attr) {
+            script.setAttribute(key, attr[key])
+          }
+
+          script.onload = resolve
+          script.onerror = reject
+
+          document.head.appendChild(script)
+        })
+
+        scriptCache.set(url, promise)
+
+        return promise
+      },
+      getCSS: (url, id) => {
+        if (cssCache.has(url)) {
+          return cssCache.get(url)
+        }
+
+        const promise = new Promise((resolve, reject) => {
+          const link = document.createElement('link')
+
+          link.rel = 'stylesheet'
+          link.href = url
+
+          if (id) {
+            link.id = id
+          }
+
+          link.onload = resolve
+          link.onerror = reject
+
+          document.head.appendChild(link)
+        })
+
+        cssCache.set(url, promise)
+
+        return promise
+      },
+      addGlobalFn: (key, fn, name = false, parent = window) => {
+        if (!false && key.startsWith('pjax')) return
+        const globalFn = parent.globalFn || {}
+        globalFn[key] = globalFn[key] || {}
+        globalFn[key][name || Object.keys(globalFn[key]).length] = fn
+        parent.globalFn = globalFn
+      }
+    }
+  
+      
+      const metaThemeColor = document.querySelector('meta[name="theme-color"]')
+      const activateDarkMode = () => {
+        document.documentElement.dataset.theme = 'dark'
+        if (metaThemeColor !== null) {
+          metaThemeColor.setAttribute('content', '#0d0d0d')
+        }
+      }
+      const activateLightMode = () => {
+        document.documentElement.dataset.theme = 'light'
+        if (metaThemeColor !== null) {
+          metaThemeColor.setAttribute('content', 'ffffff')
+        }
+      }
+
+      btf.activateDarkMode = activateDarkMode
+      btf.activateLightMode = activateLightMode
+
+      const theme = saveToLocal.get('theme')
+    
+          theme === 'dark' ? activateDarkMode() : theme === 'light' ? activateLightMode() : null
+        
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        document.documentElement.classList.toggle('hide-aside', asideStatus === 'hide')
+      }
+    
+      
+    const detectApple = () => {
+      if (/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+  
+    })()
+  </script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.json","preload":false,"top_n_per_article":1,"unescape":false,"pagination":{"enable":false,"hitsPerPage":8},"languages":{"hits_empty":"未找到符合您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
+  translate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false,"highlightFullpage":false,"highlightMacStyle":true},
+  copy: {
+    success: '复制成功',
+    error: '复制失败',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyloadPlugin: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: true,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '「认股证篇」第五课：兑换比率及街货量',
+  isHighlightShrink: false,
+  isToc: true,
+  pageType: 'post'
+}</script><link rel="stylesheet" href="/my_css/butterfly.css"  media="defer" onload="this.media='all'"><meta name="referrer" content="no-referrer-when-downgrade" /><meta name="google-site-verification" content="aDU1RuLwYHqv2FjxiffQ1KCNO9phDnKTv67lFNZkuhQ" /><!-- hexo injector head_end start --><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Zfour/Butterfly-double-row-display@1.00/cardlistpost.min.css"/>
+<style>#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap > .tags:before {content:"\A";
+  white-space: pre;}#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap > .tags > .article-meta__separator{display:none}</style>
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 8.1.2"></head><body><div class="bg-animation" id="web_bg" style="background-image: url(/url(https:/baodongfan.github.io/my_imgs/background.jpg));"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img text-center"><img src="/my_imgs/avatar_bilibili.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data text-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">32</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">49</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">5</div></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url(/my_imgs/post_img/18.jpg);"><nav id="nav"><span id="blog-info"><a class="nav-site-title" href="/"><span class="site-name">木东观世界</span></a><a class="nav-page-title" href="/"><span class="site-name">「认股证篇」第五课：兑换比率及街货量</span><span class="site-name"><i class="fa-solid fa-circle-arrow-left"></i><span>  返回首页</span></span></a></span><div id="menus"><div id="search-button"><span class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></span></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><span class="site-page"><i class="fas fa-bars fa-fw"></i></span></div></div></nav><div id="post-info"><h1 class="post-title">「认股证篇」第五课：兑换比率及街货量</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2020-12-03T16:31:36.000Z" title="发表于 2020-12-04 00:31:36">2020-12-04</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2026-09-13T13:25:24.171Z" title="更新于 2026-09-13 21:25:24">2026-09-13</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E4%BA%A7%E5%93%81/">产品</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">总字数:</span><span class="word-count">973</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>2分钟</span></span><span class="post-meta-separator">|</span><span class="leancloud_visitors" id="/posts/d859db9c.html" data-flag-title="「认股证篇」第五课：兑换比率及街货量"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">浏览量:</span><span class="leancloud-visitors-count"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="container post-content" id="article-container"><p><b><font size="3">影响窝轮价格的因素有很多，今一节我们集中讨论兑换比率跟街货量。</font></b></p>
+<div class="bilibili">
+    <iframe src="//player.bilibili.com/player.html?aid=627762880&bvid=BV11t4y1e7ny&cid=258321542&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+<h3 id="兑换比率影响轮价"><a href="#兑换比率影响轮价" class="headerlink" title="兑换比率影响轮价"></a>兑换比率影响轮价</h3><p><code>兑换比率的意思，就是控制1股股票所需要的窝轮股数</code>，什么意思呢？</p>
+<p>大家有时候可能会发现，两只窝轮挂钩的资产一样，行使价一样，年期一样，连引伸波幅都差不多，为什么它们的价格会相差那么远，甚至是10倍以上呢？这个情况，很有可能就是它们的兑换比率不同。</p>
+<blockquote>
+<p>举个例子说，一箱新鲜榨果汁有200瓶，价钱跟生果价格挂钩，会跟着生果的价格而有所变化。买了一箱回来，如果有10个人分，每一人就分到20瓶，就要付20瓶的价钱；但如果100个人分，每一人就分到2瓶，每个人所付的钱就会少一点，只需要付2瓶的价钱。</p>
+</blockquote>
+<p>套回窝轮，兑换比率就好像有10个人分跟100个人分果汁一样，由于分到的果汁数量不同，每个人付的钱都不一样；就好像10对1跟100对1的窝轮一样，10对1的会比100对1的贵，只因除开的份数少了，价钱就会贵一点；而窝轮价格会受正股价格的影响，就好像果汁价格受到生果价格影响一样。</p>
+<p><strong>那不同的兑换比率对只窝轮有什么影响呢</strong>？其实是会影响到只窝轮的实际杠杆，如果比较10对1跟100对1的窝轮，假设行使价、到期日、引伸波幅等因素不变，10对1的选择，轮价会贵一点，实际杠杆会高一点；至于100对1的选择，轮价会便宜一点，但实际杠杆都会较便宜。实际杠杆是指窝轮与相关资产的理论价格变动比例，有关实际杠杆的详细解释，可以重温法巴学堂《牛熊证篇》第一课。</p>
+<h3 id="街货量影响市场供求"><a href="#街货量影响市场供求" class="headerlink" title="街货量影响市场供求"></a>街货量影响市场供求</h3><p>至于<code>街货量</code>，就是指有多少街货在市場上，由其他投资者持有。发行商發行一只产品的时候，都会制订发行量，这是指发行商一开始有多少存货可以卖的数量。当产品上市后，有其他投资者买了并持有，这样街货量就会增加，发行商会每一天都把旗下每只产品的街货量上报港交所，投资者就可以使用报价机，或者发行商网站，看看每只产品在对上一个交易日收市的时后，有多少货量卖了在市場上。</p>
+<p>那街货量这数据有什么用呢？其实这个也是投资者决定买一只产品时，需要考虑的因素之一，因为如果产品街货量偏多，发行商的开价能力就会受到影响，到时候供求因素有机会凌驾于其他因素之上，影响到窝轮的价格。</p>
+<p>还是不明白？</p>
+<blockquote>
+<p>又再举个例子，用个旧的例子，我们在牛熊证篇讲过卖演唱会门票，当门票差不多卖光的时候主办单位只剩布有限的票在手上，这就有机会让拥有门票的人，把价钱定在一个偏離合理的水平，同一个道理放到窝轮上，市场的供求就变成影响产品价格的一个重要因素。</p>
+</blockquote>
+<p>那你们可能会问，怎样才可以避免这个情况呢？部署之前，留意街货量是不是已经过高，部署之后，也该留意街货量有没有上升过高，如果升到了很高的水平，例如五成以上，就考虑一下是不是要换到另外一只产品啦。</p>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta"><i class="fas fa-circle-user fa-fw"></i>文章作者: </span><span class="post-copyright-info"><a href="https://blog.mengjiao.vip">Brandon</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta"><i class="fas fa-square-arrow-up-right fa-fw"></i>文章链接: </span><span class="post-copyright-info"><a href="https://blog.mengjiao.vip/posts/d859db9c.html">https://blog.mengjiao.vip/posts/d859db9c.html</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta"><i class="fas fa-circle-exclamation fa-fw"></i>版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来源 <a href="https://blog.mengjiao.vip" target="_blank">木东观世界</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E7%AA%9D%E8%BD%AE/">窝轮</a><a class="post-meta__tags" href="/tags/%E5%85%91%E6%8D%A2%E6%AF%94%E7%8E%87/">兑换比率</a><a class="post-meta__tags" href="/tags/%E8%A1%97%E8%B4%A7%E9%87%8F/">街货量</a></div><div class="post-share"><div class="social-share" data-image="/my_imgs/post_img/18.jpg" data-sites="facebook,x,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/sharejs/dist/js/social-share.min.js" defer></script></div></div><nav class="pagination-post" id="pagination"><a class="pagination-related" href="/posts/e5c7de02.html" title="「认股证篇」第六课：窝轮敏感度的计算"><img class="cover" src="/my_imgs/post_img/13.jpg" onerror="onerror=null;src='/img/404.jpg'" alt="cover of previous post"><div class="info"><div class="info-1"><div class="info-item-1">上一篇</div><div class="info-item-2">「认股证篇」第六课：窝轮敏感度的计算</div></div><div class="info-2"><div class="info-item-1">「认股证篇」第六课：窝轮敏感度的计算        窝轮敏感度的计算说了这么多影响窝轮价格的因素，好像是`引伸波幅`、`时间值`、`街货`等等，是时候要跟大家算算数，究竟一只窝轮是怎样跳动呢？温故知新，大家还记得这个表吗？  最低买卖价位   证券价格(元) 最低买卖价位(元)    0.01 - 0.25 0.001   0.25 - 0.5 0.005   0.5 - 10 0.01   10 - 20 0.02   20 - 100 0.05   100 - 200 0.1   200 - 500 0.2   500 - 1000 0.5   1000 - 2000 1   2000 - 5000 2   5000 - 9995 5   它是不同股份，在不同价格范围内的最低买卖价格，这个概念在我们介绍牛熊证跳动敏感度的时候曾经说过，在窝轮上，一样可以大派用场，因为窝轮的敏感度计算，一样包括了它。 股票轮跳动敏感度一起看一看股票窝轮敏感度，意思是正股跳动1格，窝轮跳动多少的计算公式  $$股份窝轮敏感度 &#x3D; \dfrac{正股最低买卖价位\times对冲值}{兑换比...</div></div></div></a><a class="pagination-related" href="/posts/da5c8309.html" title="「认股证篇」第四课：引伸波幅详解"><img class="cover" src="/my_imgs/post_img/17.jpg" onerror="onerror=null;src='/img/404.jpg'" alt="cover of next post"><div class="info text-right"><div class="info-1"><div class="info-item-1">下一篇</div><div class="info-item-2">「认股证篇」第四课：引伸波幅详解</div></div><div class="info-2"><div class="info-item-1">上一节我们讲过，引伸波幅是影响窝轮价格的其中一个重要因素，但很多投资者都不是太明白，什么是引伸波幅，让我们详细地解释一下吧。          资产价格未来波动性预测引伸波幅，是指市场对某一种资产的价格，未来波动性的预测。这个预测不是单一方向看升或看跌，而是整体上，讲述它的向上、向下的幅度有多大。 什么意思呢？  我们举个例子，重磅股汇丰(0005)，经常让人叫做「大笨象」，就是因为它变化较少，除非在个别大市波动的日子，否则通常都是变一点点，像只「大笨象」停下不动。由于市场通常都觉得，汇丰股价的波动性有限，所以汇丰窝轮的引伸波幅，通常都比较平穏。   我们再举另外一个例子，这次说到赌业股银河娱乐(0027)，股价在2014年的高位，是84.5元，但是到2015年9月，低位不够20元(19.5元)，还不到两年，高低差距已经是3倍几！这让市场觉得，这只股份的价格波动性会比较高，发行商不敢掉以轻心，所以银河娱乐窝轮的引伸波幅，通常都会比较高。  资产波动性与价格还是不明白？大家可以回想一下我们去旅游购买保险的情况，如果去日本、新加坡这些治安比较好的国家，大家购买旅游保险的费用，是不是都...</div></div></div></a></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><a class="pagination-related" href="/posts/d09c3c1c.html" title="牛熊证-窝轮--期权"><img class="cover" src="/my_imgs/post_img/2.jpg" alt="cover"><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2020-11-03</div><div class="info-item-2">牛熊证-窝轮--期权</div></div><div class="info-2"><div class="info-item-1">经过多年的发展，A股市场终于有了股指期货和融资融券。不过，A股依然缺乏现代金融市场最重要的一类投资产品——期权类衍生交易品。作为有着以有限损失换取无限收益可能特性的交易产品，期权类衍生品的作用和价值是其他投资产品无法取代的。     放眼全球市场，目前期权类衍生产品可谓是期权、权证和牛熊证三分天下。对这三类产品有一个简单的了解，便可知为何期权类产品对于投资者交易意义重大了。 期权：美国市场一枝独秀在期权类衍生产品中，首先要提的当然是期权（Option）本身。所谓期权，也就是在约定的未来时点以约定的价格买入或者卖出某投资产品的权利——和持有期货就具有强制交割的权利和义务不同，期权只是权利，你可以执行也可以放弃。正是这一特性，为期权带来了有限损失和无限收益的风险报酬结构。  以Google的股票为例，截至11月4日其报收598美元。而2012年1月21日600美元执行价格的买入期权价格则为31.10美元。若买入此期权，那么就意味着你最大的损失就那31.10美元一股的期权金，而你可能获得的收益，则取决于未来近三个月中Google的股票能够上涨到什么地步，如果上涨到700美元，正股涨幅为...</div></div></div></a><a class="pagination-related" href="/posts/7fbe41c9.html" title="「认股证篇」第十课：窝轮与牛熊证的比较"><img class="cover" src="/my_imgs/post_img/16.jpg" alt="cover"><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2020-12-05</div><div class="info-item-2">「认股证篇」第十课：窝轮与牛熊证的比较</div></div><div class="info-2"><div class="info-item-1">「认股证篇」第十课：窝轮与牛熊证的比较         来到这一刻，如果有看完我们法巴学堂，牛熊证跟窝轮的部分，应该都已经对两种产品，有一定的概念，那如果投资者对衍生工具有兴趣，应该选牛熊证、还是窝轮好呢？ 这个时候，我想大声的讲一句，「Why Not Both？」 牛熊证跟窝轮，两种产品的特性不同，看看这个表。    牛熊证 窝轮    提供杠杆 一样   年期有限(设有到期日) 一样   有收回风险(设有收回价) 没有收回风险   引伸波幅并非影响价格的重要因素 引伸波幅是影响价格的重要因素   时间值损耗并非影响价格的重要因素 时间值损耗是影响价格的重要因素   牛熊证跟窝轮一样，都是具有杠杆效应的产品，而且都有年期，意思是只可以在指定时间内作交投。 不同的地方是，牛熊证设有收回机制，当相关资产价格到达收回价时，就会立即停止买卖等结算，就算之后相关资产的价格有所变动，都已经没仇报；而引伸波幅同时间值并非影响价格的重要因素。 窝轮呢？就是没有收回机制的，一只CALL轮就算因为正股急跌而导致轮价急跌，之后如果正股在期内回升，窝轮价格都有机会回升，投资者可能会觉得「有仇报」；但是...</div></div></div></a><a class="pagination-related" href="/posts/919d49da.html" title="「认股证篇」番外篇：时间值与溢价"><img class="cover" src="/my_imgs/post_img/20.jpg" alt="cover"><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2020-12-05</div><div class="info-item-2">「认股证篇」番外篇：时间值与溢价</div></div><div class="info-2"><div class="info-item-1">「认股证篇」番外篇：时间值与溢价         很多投资者会问，究竟窝轮的溢价和时间值有什么分别，简单说，溢价就是你持有窝轮到期的持有成本，至于时间值就是每天的时间损耗。 一般情况，如果你是短炒窝轮，持仓可能只是几天或者一个星期，那你可能要多留意时间值。一般发行商的时间值会以每天作为计算单位，每天该窝轮理论应该要扣多少钱。假如你打算持货一个星期，那你的时间值损耗就是五天，所以在你买该窝轮之前,你要考虑到五天之后假如正股不升不跌你可能面对的时间值损失。无论认购证还是认沽证，愈接近到期日或者愈贴近行使价,时间值损耗都会愈大的。 至于溢价，一般是反映你如果持仓到到期日，正股需要上升几多百分比，你才可以收回你现时买入窝轮的价钱，所以溢价的考虑只是假设你持仓到到期日才会有关。如果你是短线买卖，就是可能买了几日后就卖出去，那溢价的考虑因素就不太大，因为可能你买入的时候溢价是偏高，但是只要你卖出的时候溢价可能依然存在的话，那其实你只要考虑买入价和卖出价的价差而已。当然如果一不留神，买了窝轮之后被套牢，你就要留意溢价了，因为如果溢价太高，就是说正股可能要在到期日的时候升很多你才可以拿回本金，那...</div></div></div></a><a class="pagination-related" href="/posts/90e1eb23.html" title="「认股证篇」第九课：窝轮实战：锁利及对冲"><img class="cover" src="/my_imgs/post_img/12.jpg" alt="cover"><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2020-12-05</div><div class="info-item-2">「认股证篇」第九课：窝轮实战：锁利及对冲</div></div><div class="info-2"><div class="info-item-1">「认股证篇」第九课：窝轮实战：锁利及对冲         说了窝轮这么久，是不是想亲身参与一下？窝轮除了可以作为以小博大的投资工具，如果配合到正股买卖，还可以帮到大家配置资产组合，这一课会集中讲述两种策略，锁利跟对冲。 锁利部署先说锁利，顾名思义，就是怎样锁定利润。有时候投资者买了一只正股，上升了，有钱赚，当然很开心啦，但什么时候放好呢？放了，会不会还能升更多？但不放，会不会之后又下跌呢？心是不是十五十六呢？这个时候，窝轮帮到你。  方法很简单，当你买了那只股票升了之后，先行沽出部分正股，先锁定一部分利润，再购入与同一资产挂钩的窝轮，由于窝轮具有以小博大的特性，投资者可以用较少资金，部署同一数量的正股。 如果之后正股继续上升，当然再开心一点，因为股票跟窝轮价格都能够上升；但如果下跌呢？由于窝轮的成本较低，而且亏损都只是投入的全部本金，而你之前已经锁定了部分利润，如果数算得好，潜在亏损将会减低！ 至于这条数是怎样计算呢？有个公式给大家参考：  $$计划买入的窝轮数目&#x3D;\dfrac{正股数量}{对冲值} \times 兑换比率$$  投资者选了想用来做锁利部署的窝轮之后，用...</div></div></div></a><a class="pagination-related" href="/posts/da5c8309.html" title="「认股证篇」第四课：引伸波幅详解"><img class="cover" src="/my_imgs/post_img/17.jpg" alt="cover"><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2020-12-04</div><div class="info-item-2">「认股证篇」第四课：引伸波幅详解</div></div><div class="info-2"><div class="info-item-1">上一节我们讲过，引伸波幅是影响窝轮价格的其中一个重要因素，但很多投资者都不是太明白，什么是引伸波幅，让我们详细地解释一下吧。          资产价格未来波动性预测引伸波幅，是指市场对某一种资产的价格，未来波动性的预测。这个预测不是单一方向看升或看跌，而是整体上，讲述它的向上、向下的幅度有多大。 什么意思呢？  我们举个例子，重磅股汇丰(0005)，经常让人叫做「大笨象」，就是因为它变化较少，除非在个别大市波动的日子，否则通常都是变一点点，像只「大笨象」停下不动。由于市场通常都觉得，汇丰股价的波动性有限，所以汇丰窝轮的引伸波幅，通常都比较平穏。   我们再举另外一个例子，这次说到赌业股银河娱乐(0027)，股价在2014年的高位，是84.5元，但是到2015年9月，低位不够20元(19.5元)，还不到两年，高低差距已经是3倍几！这让市场觉得，这只股份的价格波动性会比较高，发行商不敢掉以轻心，所以银河娱乐窝轮的引伸波幅，通常都会比较高。  资产波动性与价格还是不明白？大家可以回想一下我们去旅游购买保险的情况，如果去日本、新加坡这些治安比较好的国家，大家购买旅游保险的费用，是不是都...</div></div></div></a><a class="pagination-related" href="/posts/b483f5a8.html" title="「认股证篇」第一课：窝轮初体验"><img class="cover" src="/my_imgs/post_img/19.jpg" alt="cover"><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2020-11-30</div><div class="info-item-2">「认股证篇」第一课：窝轮初体验</div></div><div class="info-2"><div class="info-item-1">如果想要投资股票，当然希望能够获利；而投资窝轮，就更进一步，利用杠杆特性，去部署一个资产，希望达到以少博大的效果。         什么是窝轮经常听人在讨论窝轮，它究竟是什么呢？其实窝轮，是英文warrant的译音，真正的用词是认股证，是指一个「权利」，可以让投资者在指定的日期，用指定的行使价，购买或者沽出相关资产，这涉及的资产，可以是股票、指数、商品、货币、一篮子的股票，甚至是外国股票。虽然定义上是买卖相关资产，但实际上香港绝大部份的窝轮都以现金交收，意思是，只会计算输羸而不会有真正资产转移。 窝轮当初出现的时候，是由上市公司发行的，用作集资，或者回馈雇员及股东，但后来发展下去，就多了一种由投资银行发行的衍生窝轮。衍生窝轮是一种在交易所买卖，让投资者部署某一种资产，还有可以向不同方向走的产品。既然窝轮是买入、或卖出相关资产的权利，基本来说，会有认购证和认沽证之分。 认购证及认沽证认购证，顾名思义，是指让持有者拥有购入相关资产的权利，所以当相关资产的价格上升的时候，认购证价值理论上也会相对上升，属于看好的投资工具，香港散户会叫它为「Call 轮」。 与认购证相反，认沽证就是让持有...</div></div></div></a></div></div><hr class="custom-hr"/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div class="vcomment" id="vcomment"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info text-center"><div class="avatar-img"><img src="/my_imgs/avatar_bilibili.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info-name">Brandon</div><div class="author-info-description">To learn, to share, to play</div><div class="site-data"><a href="/archives/"><div class="headline">文章</div><div class="length-num">32</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">49</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">5</div></a></div><a id="card-info-btn"><i class="fab fa-github"></i><span>Ctrl+D加入书签</span></a><div class="card-info-social-icons"><a class="social-icon" href="mailto:fanbd7@163.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="tencent://AddContact/?fromId=45&amp;fromSubId=1&amp;subcmd=all&amp;uin=1071989685" target="_blank" title="QQ"><i class="fab fa-qq"></i></a><a class="social-icon" href="https:///baodongfan.github.io/my_imgs/joinme.jpg" target="_blank" title="WeChat"><i class="fab fa-weixin"></i></a><a class="social-icon" href="https://space.bilibili.com/29824856" target="_blank" title="小B站"><i class="fab fa-youtube"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content"><b><font size=3 color=red>记录个人看过的，感兴趣的东西，不做推荐，纯粹是爱好</font></b>  <img src='https://baodongfan.github.io/my_imgs/gonggao.gif' width="100%" height="100%"></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%85%91%E6%8D%A2%E6%AF%94%E7%8E%87%E5%BD%B1%E5%93%8D%E8%BD%AE%E4%BB%B7"><span class="toc-number">1.</span> <span class="toc-text">兑换比率影响轮价</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E8%A1%97%E8%B4%A7%E9%87%8F%E5%BD%B1%E5%93%8D%E5%B8%82%E5%9C%BA%E4%BE%9B%E6%B1%82"><span class="toc-number">2.</span> <span class="toc-text">街货量影响市场供求</span></a></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/posts/199435ce.html" title="苟余行之不迷，虽颠沛其何伤?-转"><img src="https://baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="苟余行之不迷，虽颠沛其何伤?-转"/></a><div class="content"><a class="title" href="/posts/199435ce.html" title="苟余行之不迷，虽颠沛其何伤?-转">苟余行之不迷，虽颠沛其何伤?-转</a><time datetime="2026-09-13T13:25:24.179Z" title="发表于 2026-09-13 21:25:24">2026-09-13</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/be71b1f3.html" title="名言警句"><img src="https://baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="名言警句"/></a><div class="content"><a class="title" href="/posts/be71b1f3.html" title="名言警句">名言警句</a><time datetime="2023-06-23T07:41:43.000Z" title="发表于 2023-06-23 15:41:43">2023-06-23</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/posts/a8bbdbd6.html" title="经济衰退如何定义"><img src="https://baodongfan.github.io/my_imgs/xingkong.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="经济衰退如何定义"/></a><div class="content"><a class="title" href="/posts/a8bbdbd6.html" title="经济衰退如何定义">经济衰退如何定义</a><time datetime="2023-06-15T15:43:46.000Z" title="发表于 2023-06-15 23:43:46">2023-06-15</time></div></div></div></div></div></div></main><footer id="footer"><div class="footer-other"><div class="footer-copyright"><span class="copyright">&copy;&nbsp;2020 - 2026 By Brandon</span><span class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo 8.1.2</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly 5.7.0</a></span></div><div class="footer_custom_text">哟，来了个有意思的人 😄</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="前往评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.umd.min.js"></script><div class="js-pjax"><script>(() => {
+  const isShuoshuo = GLOBAL_CONFIG_SITE.pageType === 'shuoshuo'
+  const option = null
+
+  const initValine = (el, path) => {
+    if (isShuoshuo) {
+      window.shuoshuoComment.destroyValine = () => {
+        if (el.children.length) {
+          el.innerHTML = ''
+          el.classList.add('no-comment')
+        }
+      }
+    }
+
+    const valineConfig = {
+      el: '#vcomment',
+      appId: 'hT7Lril8iUJ060oYabpzmqUy-gzGzoHsz',
+      appKey: 'zMSoRrEVRw6tEiGMzRUBPelR',
+      avatar: 'monsterid',
+      serverURLs: '',
+      emojiMaps: {},
+      visitor: true,
+      ...option,
+      path: isShuoshuo ? path : (option && option.path) || window.location.pathname
+    }
+
+    new Valine(valineConfig)
+  }
+
+  const loadValine = async (el, path) => {
+    if (typeof Valine === 'function') {
+      initValine(el, path)
+    } else {
+      await btf.getScript('https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js')
+      initValine(el, path)
+    }
+  }
+
+  if (isShuoshuo) {
+    'Valine' === 'Valine'
+      ? window.shuoshuoComment = { loadComment: loadValine }
+      : window.loadOtherComment = loadValine
+    return
+  }
+
+  if ('Valine' === 'Valine' || !false) {
+    if (false) btf.loadComment(document.getElementById('vcomment'),loadValine)
+    else setTimeout(loadValine, 0)
+  } else {
+    window.loadOtherComment = loadValine
+  }
+})()</script></div><script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fishes.js"></script><div class="aplayer no-destroy" data-id="5336109995" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="false" data-volume="0.3" data-lrcType="1" muted></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><i class="fas fa-spinner fa-pulse" id="loading-status" hidden="hidden"></i><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="text-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  数据加载中</span></div><div class="local-search-input"><input placeholder="搜索文章" type="text"/></div><hr/><div id="local-search-results"></div><div class="ais-Pagination" id="local-search-pagination" style="display:none;"><ul class="ais-Pagination-list"></ul></div><div id="local-search-stats"></div></div><div id="search-mask"></div><script src="/js/search/local-search.js"></script></div></div><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":true},"log":false});</script></body></html>

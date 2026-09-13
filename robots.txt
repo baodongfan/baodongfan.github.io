@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://blog.mengjiao.vip/sitemap.xml
+Sitemap: https://blog.mengjiao.vip/baidusitemap.xml
