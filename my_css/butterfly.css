@@ -60,3 +60,18 @@ img {
     left: 50%;
     transform: translateX(-50%);
 }
+
+/* 修改顶部导航栏菜单字体大小（红框部分） */
+#nav .menus_items .menus_item .site-page {
+  font-size: 18px !important; /* 默认一般为 14px，可根据需要调整为 16px、18px 等 */
+}
+
+/* 如果菜单里有二级下拉子菜单，也可一并统一大小（可选） */
+#nav .menus_items .menus_item_child .site-page {
+  font-size: 15px !important;
+}
+
+/* 如果还想调整最左侧网站名称“木东观世界”的大小（可选） */
+#nav #site-name {
+  font-size: 20px !important;
+}
