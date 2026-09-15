@@ -75,3 +75,64 @@ img {
 #nav #site-name {
   font-size: 20px !important;
 }
+/* 1. 核心关键：清空顶部大图自带的背景与遮罩，使其完全透明，直接透出底层背景 */
+#page-header {
+  background: transparent !important;
+  background-image: none !important;
+}
+
+#page-header::before {
+  background: transparent !important;
+}
+
+/* 2. 确保全站底层背景图居中、完全铺满、绝对固定（不随滚动位移） */
+#web_bg {
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-position: center center !important;
+  z-index: -999 !important;
+}
+
+/* 3. 中间文章卡片和侧边栏半透明毛玻璃效果（透出两边的壁纸） */
+#recent-posts > .recent-post-item,
+.layout > .aside-content > .card-widget {
+  background: rgba(255, 255, 255, 0.88) !important;
+  backdrop-filter: blur(10px) !important;
+}
+
+/* ==========================================
+   1. 修复壁纸遮挡 + 杜绝开页闪白
+   ========================================== */
+/* body 必须保持透明，否则会把 z-index: -999 的壁纸容器 #web_bg 彻底遮盖 */
+html, body {
+  background: transparent !important;
+}
+
+/* 将暗色底色直接绑定在壁纸层上：壁纸加载中是暗色（不闪白），加载完成后壁纸正常浮现且不被遮挡 */
+#web_bg {
+  background-color: #1a1c24 !important;
+  animation: none !important;
+  transition: none !important;
+}
+
+#body-wrap {
+  animation: none !important;
+  transition: none !important;
+}
+
+/* ==========================================
+   2. 彻底抹杀文章页默认的亮蓝色（#49b1f5）大色块闪现
+   ========================================== */
+#page-header,
+#page-header.not-top-img,
+#page-header.post-bg,
+#page-header.not-home-page {
+  background-color: transparent !important;
+  background: transparent !important;
+  background-image: none !important;
+}
+
+/* 移除可能残留的渐变遮罩层 */
+#page-header::before {
+  display: none !important;
+}
